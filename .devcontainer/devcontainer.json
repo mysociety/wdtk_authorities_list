@@ -1,0 +1,51 @@
+{
+	"name": "mysoc_notebook",
+	"dockerComposeFile": "../docker-compose.yml",
+	"service": "app",
+	"overrideCommand": true,
+	"initializeCommand": [
+		".devcontainer/initializeCommand"
+	],
+	"postCreateCommand": ".devcontainer/postCreateCommand",
+	"workspaceFolder": "/workspaces/wdtk_authorities_list",
+	"extensions": [
+		"ms-vscode.test-adapter-converter",
+		"bungcip.better-toml",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"ms-azuretools.vscode-docker",
+		"valentjn.vscode-ltex"
+	],
+	"customizations": {
+		"codespaces": {
+			"repositories": {
+				"mysociety/data_common": {
+					"permissions": {
+						"contents": "write",
+						"actions": "write",
+						"deployments": "write",
+						"issues": "write",
+						"packages": "read",
+						"pull_requests": "write",
+						"repository_projects": "write",
+						"statuses": "write",
+						"workflows": "write"
+					}
+				},
+				"mysociety/mysociety-docs-theme": {
+					"permissions": {
+						"contents": "write",
+						"actions": "write",
+						"deployments": "write",
+						"issues": "write",
+						"packages": "read",
+						"pull_requests": "write",
+						"repository_projects": "write",
+						"statuses": "write",
+						"workflows": "write"
+					}
+				}
+			}
+		}
+	}
+}

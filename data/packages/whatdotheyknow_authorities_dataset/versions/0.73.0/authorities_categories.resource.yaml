@@ -1,0 +1,34 @@
+title: Categories
+description: Lookup between a category name, category header, and top-level category
+  of a public authority.
+custom:
+  row_count: 280
+path: authorities_categories.csv
+name: authorities_categories
+profile: tabular-data-resource
+scheme: file
+format: csv
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: category-tag
+    type: string
+    description: A tag that describes a set of authorities.
+    constraints:
+      unique: true
+    example: ACJPS
+  - name: top-level-category
+    type: string
+    description: A top-level category of the authorities in the category. Can be multiple,
+      pipe-seperated.
+    constraints:
+      unique: false
+    example: Law-making bodies, the courts and the legal system
+  - name: category-name
+    type: string
+    description: The name of a category that describes a set of categories.
+    constraints:
+      unique: true
+    example: Advisory Committees on Justices of the Peace
+hash: 17d491964006c8456bbb678b1069236f

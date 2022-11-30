@@ -1,0 +1,62 @@
+name: Republish Jekyll site
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Update theme to latest
+        shell: bash
+        run: |
+          cd docs/theme
+          git fetch origin
+          git pull origin main
+          git checkout main
+
+      - name: Push new data
+        id: auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update theme submodule"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v1
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: docs
+          destination: docs/_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: docs/_site 
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+
+      - uses: geekyeggo/delete-artifact@v1
+        with:
+          name: github-pages

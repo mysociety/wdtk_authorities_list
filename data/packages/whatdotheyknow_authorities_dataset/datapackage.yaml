@@ -1,0 +1,43 @@
+name: whatdotheyknow_authorities_dataset
+title: WhatDoTheyKnow Authorities Dataset
+description: "Dataset of UK public authorities and tags that powers WhatDoTheyKnow\n"
+version: 0.73.0
+keywords:
+- United Kingdom
+- Groups & Bodies
+- WhatDoTheyKnow
+licenses:
+- name: CC-BY-SA-4.0
+  path: https://creativecommons.org/licenses/by-sa/4.0/
+  title: Creative Commons Attribution-ShareAlike 4.0 International License
+contributors:
+- title: WhatDoTheyKnow Volunteers
+  path: https://whatdotheyknow.com
+  role: author
+- title: mySociety
+  path: https://mysociety.org
+  role: author
+custom:
+  build: wdtk_authorities_list.build:build
+  tests:
+  - test_whatdotheyknow_authorities_dataset
+  dataset_order: 0
+  download_options:
+    gate: default
+    survey: default
+    header_text: default
+  composite:
+    xlsx:
+      include: all
+      exclude: none
+      render: true
+    sqlite:
+      include: all
+      exclude: none
+      render: true
+    json:
+      include: all
+      exclude: none
+      render: false
+  change_log:
+    0.73.0: 'Changed render type to static - no individual version updates'

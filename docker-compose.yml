@@ -1,0 +1,9 @@
+services:
+  app:
+    image: mysociety/wdtk_authorities_list:${TAG:-latest}
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    working_dir: /workspaces/wdtk_authorities_list      
+    volumes:
+      - ./:/workspaces/wdtk_authorities_list/

@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "wdtk_authorities_list"
+version = "0.1.0"
+description = "Dataset of WDTK authorities"
+authors = []
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+data_common = { path = "src/data_common/", develop = true }
+function-pipes = "^0.1.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.1"
+
+[tool.poetry.scripts]
+project = 'wdtk_authorities_list.__main__:main'
+notebook = "data_common.notebookcli.__main__:run"
+dataset = "data_common.dataset.__main__:run"
+
+[tool.pyright]
+include = ["src", "notebooks"]
+exclude=["src/data_common/typings"]
+stubPath="src/data_common/typings"
+typeCheckingMode="basic"
+reportPrivateImportUsage="warning"
+
+[notebook.settings]
+default_page_title = "Settings file defined title"
+
+[tool.dataset]
+dataset_dir = "data/packages"
+publish_dir = "docs/"
+publish_url = "https://mysociety.github.io/wdtk_authorities_list/"
+credit_text = "If you find this data useful, please let us know to help us make the case for future funding."
+credit_url = "https://survey.alchemer.com/s3/6876792/Data-usage"

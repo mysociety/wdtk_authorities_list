@@ -1,0 +1,281 @@
+category-tag,top-level-category,category-name
+ACJPS,"Law-making bodies, the courts and the legal system",Advisory Committees on Justices of the Peace
+CRC,"Law-making bodies, the courts and the legal system",Community Rehabilitation Companies
+LEP,Local and regional,Local Enterprise Partnerships
+MDC,Local and regional,Mayoral development corporation
+NHSScotland,Health,NHS Scotland
+RFCAs,Military and security services,Reserve Forces' and Cadets' Associations
+UTLA,Local and regional,Upper tier local authorities
+academies,Education,Academies
+academy_trust,Education,Academy Trusts
+aco,Health,Accountable Care Organisations
+adhac,Defunct bodies,Agricultural dwelling house advisory committees
+advertising_regulator,Regulators and ombudsmen,Advertising regulators
+advisory_committee,Central government,Advisory bodies
+advocate,Other,Advocates
+airport,Transport and infrastructure,Airport operators
+all_through,Education,All-through schools
+almo,Housing|Local and regional,Housing ALMOs
+ambulance_service,Emergency services|Health,Ambulance Services
+aolc,Local and regional,Associations of Local Councils
+aonbcb,Environment and conservation|Local and regional,Areas of Outstanding Natural Beauty Conservation Boards
+appeals_panel,Other,Appeals panel
+approved_regulator,"Law-making bodies, the courts and the legal system|Regulators and ombudsmen",Approved regulators of legal services
+archive,Media and culture,Archives
+armed_forces,Military and security services,Armed Forces
+arts_body,Media and culture,Arts bodies
+assessor,Local and regional,Assessors for Valuation joint boards (Scotland)
+association,Organisations whose members are public authorities,Associations of public authorities
+auditor,Finance,Auditors
+awards_degrees,Education,Bodies that can award degrees
+awc,Defunct bodies,Agricultural wages committees
+bank,Finance,Banks
+bid,Local and regional,Business Improvement District
+body_funded_by_local_gov,Local and regional,Bodies funded by local government
+boundary_commission,Other,Boundary commissions
+bus_company,Transport and infrastructure,Bus companies
+business_school,Education,Business schools
+cambridge_college,Education,Cambridge colleges
+cancer_alliance,Health,Cancer alliances
+ccg,Defunct bodies,Clinical Commissioning Groups
+charity,By legal form/status,Charities
+charity_regulator,Regulators and ombudsmen,Charity regulators
+charter_trustees,Local and regional,Charter trustees
+church,Other,Churches and church bodies
+cic,By legal form/status,Community interest companies
+cja,"Law-making bodies, the courts and the legal system",Community justice authorities
+cjc,Local and regional,Corporate Joint Committees
+combined_authority,Local and regional,Combined authorities
+commercial_water,Energy and utilities,Non-domestic water and sewerage service providers
+commissioning_consortium,Defunct bodies,GP commissioning consortia
+community_services_trust,Health,Community Services Trusts
+company_owned_by_local_gov,Local and regional,Companies owned by local government
+compensation_scheme,Finance,Compensation schemes
+conference_centre,Other,Conference centres
+coroners_office,"Law-making bodies, the courts and the legal system",Coroners' offices
+corporation_sole,By legal form/status,Corporations sole
+county,Local and regional,County councils
+court,"Law-making bodies, the courts and the legal system",Courts
+dance,Media and culture|Recreation,Dance companies
+defunct,Defunct bodies,Defunct bodies
+dentist,Health,NHS dentists
+department,Central government,Ministerial departments
+devolved,Devolved administrations,Devolved Administration or Government
+district_level_functions,Local and regional,Councils with district-level functions
+district_level_functions_england,Local and regional,Councils with district-level functions in England
+dno,Energy and utilities,Electricity distribution network operators
+dpp,Defunct bodies,District policing partnerships
+duchy,Other,Royal duchies
+durham_college,Education,Durham colleges
+east_midlands,Local and regional,Local councils (East Midlands)
+east_of_england,Local and regional,Local councils (East of England)
+edascot,Local and regional,Economic development agencies (Scotland)
+education_regulator,Education|Regulators and ombudsmen,Education regulators
+endpb,Central government,Executive non-departmental public bodies
+endpbscot,Central government,Executive non-departmental public bodies in Scotland
+estate_management_scheme,Local and regional,Operators of Estate Management Schemes
+exam_board,Education,Exam boards
+executive_agency,Central government,Executive agencies
+fei,Education,Further education institutions
+financial_regulator,Finance|Regulators and ombudsmen,Financial regulators
+fire_authority,Emergency services,Fire and rescue authorities
+fire_service,Emergency services,Fire and rescue services
+fire_trading,Emergency services,Fire trading companies
+foi_voluntary,Other,Voluntarily applying FOI
+forthcoming,Forthcoming,Placeholders for bodies that do not exist yet
+free_school,Education,Free schools
+gallery,Media and culture,Galleries
+gdn,Energy and utilities,Gas distribution networks
+general_lighthouse_authority,Transport and infrastructure,General Lighthouse Authorities
+gla,Local and regional,Greater London Authority Group and Family
+gla_cc,Local and regional,Local councils (London)
+government_office,Defunct bodies,Government offices for the regions
+group_of_universities,Education|Organisations whose members are public authorities,Groups of universities
+hcp,Health,Health and Care Partnerships
+health_regulator,Health|Regulators and ombudsmen,Health regulators
+healthwatch,Health,Healthwatch organisations
+hei,Education,Higher education institutions
+highways,Local and regional|Transport and infrastructure,Highways Operators
+his,Health,Health Informatic Services
+hospital_trust,Health,Hospital trusts
+housing_association,Housing,Housing associations
+housing_regulator,Housing|Regulators and ombudsmen,Housing regulators
+hscpscot,Health|Organisations whose members are public authorities,Health and Social Care Partnerships (Scotland)
+hscr,Health|Regulators and ombudsmen,Health and social care regulators
+icb,Health,Integrated Care Boards
+icp,Health|Organisations whose members are public authorities,Integrated Care Partnerships
+ics,Health,Integrated Care Systems
+idb,Environment and conservation,Internal drainage boards
+ifca,Environment and conservation,Inshore fisheries and conservation authorities
+ijbscot,Health|Local and regional|Organisations whose members are public authorities,Integration Joint Boards
+imb,"Law-making bodies, the courts and the legal system",Independent monitoring boards
+independent_panel,Defunct bodies,Independent panels
+information_regulator,Regulators and ombudsmen,Information regulators
+inn_of_court,"Law-making bodies, the courts and the legal system",Inns of court
+inquiry,Other,Inquiries
+inspectorate,Central government,Inspectorates
+jac,Local and regional,Joint advisory committees
+joint_committee,Local and regional,Joint committees
+judiciary,"Law-making bodies, the courts and the legal system",Judicial institutions
+kent_college,Education,Kent colleges
+lea,Education|Local and regional,Education authority
+leisure_centre,Recreation,Leisure Centre Operators
+letb,Health,Local Education and Training Boards
+letbg,Health,Local Education and Training Boards Group
+lfjb,Local and regional,Local Family Justice Boards
+lib_board,Defunct bodies,Education and library boards
+library,Media and culture,Libraries
+licensing_board,Local and regional,Licensing boards (Scotland)
+lieutenancy,"Law-making bodies, the courts and the legal system",Lieutenancies
+limited,By legal form/status,Limited companies
+limited_by_guarantee,By legal form/status,Companies limited by guarantee
+llp,By legal form/status,Limited liability partnerships
+lmc,Health,Local Medical Committees
+local_council,Local and regional,Principal councils
+local_lighthouse_authority,Transport and infrastructure,Local Lighthouse Authorities
+local_optical_committee,Health,Local Optical Committees
+local_resilience,Local and regional,Local Resilience Forums
+london_borough,Local and regional,London boroughs
+lower_tier,Local and regional,Lower tier local authorities
+lsab,Local and regional,Local safeguarding adults boards
+lscb,Local and regional,Local safeguarding children boards
+lscp,Local and regional,Local Safeguarding Children Partnership
+major_ae,Health,Bodies Responsible for Major A&E Departments
+mcz,Environment and conservation,Marine conservation zones
+media,Media and culture,Media organisations
+media_regulator,Media and culture|Regulators and ombudsmen,Media regulators
+mental_health_trust,Health,Mental Health Trusts
+metropolitan_district,Local and regional,Metropolitan district councils
+military_college,Education|Military and security services,Military colleges
+municipal_bank,Defunct bodies,Municipal banks
+museum,Media and culture,Museums
+national_parliament_or_assembly,"Law-making bodies, the courts and the legal system",National Parliaments and Assemblies
+navigation_authority,Transport and infrastructure,Navigation authorities
+neighbourhoodforum,Local and regional,Neighbourhood Planning Forum
+newdeal,Defunct bodies,New Deal for Communities partnership
+nhs,Health,NHS bodies
+nhs111,Health,NHS 111 Provider
+nhs_ambulance_service_provider,Health,NHS Ambulance Service Providers
+nhs_owned_body,Health,bodies owned by NHS organisations
+nhs_wales_chc,Health,Community Health Councils in Wales
+nhs_wales_lhb,Health,NHS Wales Local Health Boards
+nhsni,Health,NHS in Northern Ireland
+nhstrust,Health,NHS trusts
+nhswales,Health,NHS in Wales
+ni_district,Local and regional,District councils (Northern Ireland)
+ni_local_council,Local and regional,Local councils (Northern Ireland)
+non-metropolitan_district,Local and regional,Non-metropolitan district councils
+non_ministerial_department,Central government,Non-ministerial departments
+north_east,Local and regional,Local councils (North East)
+north_west,Local and regional,Local councils (North West)
+npa,Environment and conservation,National park authorities
+npte,Transport and infrastructure,Passenger transport executives
+nsbody,Other,North/south bodies
+olr,Transport and infrastructure,Operators of Last Resort
+olrhc,Transport and infrastructure,Operator of Last Resort Holding Companies
+ombudsman,Regulators and ombudsmen,Ombudsmen
+optician,Health,Opticians
+other,Other,Miscellaneous
+other_cg,Central government,Other central government bodies
+other_defence,Military and security services,Other defence organisations
+other_lg,Local and regional,Other local government bodies
+oxford_college,Education,Oxford colleges
+parent_mapit:152225,Local and regional,Authorities in the Dorset Council Area
+parent_mapit:2595,Local and regional,Authorities in the Powys Council Area
+parish_council,Local and regional,Town and Parish councils
+parole_board,"Law-making bodies, the courts and the legal system",Parole boards
+pay_review_body,Finance,Pay review bodies
+pbo,Organisations whose members are public authorities,Professional buying organisations
+pcn,Health,Primary Care Networks
+pcsp,Emergency services,Policing and community safety partnerships
+pct,Defunct bodies,Primary care trusts
+pension_partnership,Finance,Pension partnerships
+pension_scheme,Finance,Public sector pension schemes
+pha,Health,Port health authorities
+pharmacy,Health,Pharmacies
+pho,Health,Public health observatories
+plc,By legal form/status,Public limited companies
+police,Emergency services,Policing bodies
+police_authority,Defunct bodies,Police authorities
+police_crime_commissioner,Emergency services,Police and Crime Commissioners
+police_crime_panel,Emergency services,Police and Crime Panels
+police_force,Emergency services,Police forces
+police_regulator,Emergency services|Regulators and ombudsmen,Police regulators
+port_authority,Transport and infrastructure,Port authorities
+private_business,Other,Private businesses to which requests cannot be made
+prob_board,"Law-making bodies, the courts and the legal system",Probation boards
+probation_trust,Defunct bodies,Probation trusts
+professional_body,Regulators and ombudsmen,Professional bodies
+psb,Local and regional,Public services boards
+public_corporation,Central government,Public corporations
+public_infrastructure,Transport and infrastructure,Companies controlling national infrastructure
+publicly_funded_charities,Other,Publicly funded charities
+railways,Transport and infrastructure,Railway companies
+rbc,Education,Regional Broadband Consortia
+rcc,Defunct bodies,Cultural consortia
+rda,Defunct bodies,Regional development agencies
+regional_assembly,Defunct bodies,Regional assemblies
+regional_schools_commissioner,Education,Regional Schools Commissioners
+regional_water,Energy and utilities,Regional water supplier
+regulator,Regulators and ombudsmen,Regulators
+research_council,Education,Research councils
+rfdc,Defunct bodies,Regional flood defence committees
+royal_charter,By legal form/status,Bodies with a royal charter
+royal_college,Health,Royal Colleges
+royal_commission,By legal form/status,Royal commissions
+rpa,Environment and conservation,Regional park authorities
+rsl,Housing,Registered Social Landlord
+rslscot,Housing,Registered Social Landlord (Scotland)
+rules_committee,"Law-making bodies, the courts and the legal system",Rules committees
+school,Education,Schools
+school_inspectorate,Education,School inspectorates
+scotland_council,Local and regional,Local councils (Scotland)
+scottish_prison_contractor,"Law-making bodies, the courts and the legal system",Contractors running Scottish private prisons
+scottish_unitary_authority,Local and regional,Unitary authorities (Scotland)
+sea_fishery_committee,Defunct bodies,Sea fisheries committees
+security_services,Military and security services,Security services
+sewerage_undertaker,Energy and utilities,Sewerage undertakers
+sha,Defunct bodies,Strategic health authorities
+south_east,Local and regional,Local councils (South East)
+south_west,Local and regional,Local councils (South West)
+specialha,Health,Special health authorities
+sport,Recreation,Bodies working in sport
+sports_governing_body,Recreation,Sports governing bodies
+srp,Transport and infrastructure,Safer Roads Partnership
+statutory_corporation,By legal form/status,Statutory corporations
+stb,Transport and infrastructure,Sub-national transport bodies
+stp,Health,Sustainability and Transformation Partnerships
+support_for_parliament,"Law-making bodies, the courts and the legal system",Bodies that support the work of parliaments
+surgery,Health,NHS Primary Care Providers
+telecom_company,Energy and utilities|Transport and infrastructure,Telecommunications companies
+test_authority,Defunct bodies,Test authorities
+theatre,Media and culture|Recreation,Theatres
+tmo,Housing,Tenant Management Organisations
+toll_company,Transport and infrastructure,Toll companies
+trams,Transport and infrastructure,Tramway operators
+transport_regulator,Regulators and ombudsmen|Transport and infrastructure,Transport regulators
+tribunal,"Law-making bodies, the courts and the legal system",Tribunals
+tribunal_service,"Law-making bodies, the courts and the legal system",Tribunal services
+trunk_road_agency,Transport and infrastructure,Trunk road agencies (Wales)
+udc,Local and regional,Urban Development Company
+ukparliament,"Law-making bodies, the courts and the legal system",UK Parliament
+unitary_authority,Local and regional,Unitary authorities (England)
+university,Education,Universities
+university_college,Education,University colleges
+university_owned_company,Education,University owned companies
+urgent_care,Health,NHS Urgent Care (Out of Hours GP Services) Providers
+utc,Education,University Technical Colleges
+utility_regulator,Energy and utilities|Regulators and ombudsmen,Utility regulators
+verderers,"Law-making bodies, the courts and the legal system",Verderers
+veterans_advisory_and_pensions_committee,Finance|Military and security services,Veterans Advisory and Pensions Committees
+vjb,Local and regional,Valuation joint boards (Scotland)
+watercompanies,Energy and utilities,Water companies
+wda,Environment and conservation,Waste disposal authorities
+welsh_council,Local and regional,Local councils (Wales)
+welsh_establishment,Education,Welsh Establishments
+welsh_regional_partnership_board,Organisations whose members are public authorities,Welsh Regional Partnership Boards
+welsh_unitary_authority,Local and regional,Unitary authorities (Wales)
+west_midlands,Local and regional,Local councils (West Midlands)
+wma,Environment and conservation,Waste management authorities (Northern Ireland)
+yorkshire_and_the_humber,Local and regional,Local councils (Yorkshire and the Humber)
+zoo,Environment and conservation,Zoos
