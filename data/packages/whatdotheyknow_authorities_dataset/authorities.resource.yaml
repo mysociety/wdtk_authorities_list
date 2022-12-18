@@ -1,7 +1,7 @@
 title: Public Authorities
 description: WhatDoTheyKnow's list of UK public authorities
 custom:
-  row_count: 179765
+  row_count: 179775
 path: authorities.csv
 name: authorities
 profile: tabular-data-resource
@@ -73,7 +73,7 @@ schema:
     description: Date the authority's entry was last updated in this dataset
     constraints:
       unique: false
-    example: 2022-12-16 04:09:09 +0000
+    example: 2022-12-17 04:09:10 +0000
   - name: version
     type: integer
     description: The current version of this authority's entry in this dataset
@@ -111,4 +111,4 @@ schema:
     constraints:
       unique: false
     example: Local and regional
-hash: e045df1dbd0ff6d4c9cae3a431ffa4c2
+hash: 5d15c9fa1b854b36ea82498e1ae20270
