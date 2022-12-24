@@ -29,6 +29,7 @@ dpr,Z7107614,dwp
 twitter,luhcgovuk,luhc
 dpr,Z7123035,luhc
 dpr,Z7414053,cabinet_office
+wikidata,Q5995,cabinet_office
 la,931,oxfordshire_county_council
 dpr,Z5454737,oxfordshire_county_council
 gss,E10000025,oxfordshire_county_council
@@ -1885,6 +1886,7 @@ dpr,Z8616759,rcm
 urn,133888,rcm
 charity,SC005336,university_of_edinburgh
 dpr,Z6426984,university_of_edinburgh
+uklr,162542,university_of_edinburgh
 dpr,Z4882966,falmouth_university
 ucas,F33,falmouth_university
 charity,SC015855,rsamd
@@ -3009,6 +3011,7 @@ ch,00696337,bewc
 charity,SC021175,angus_college_of_further_education
 ch,SC148203,uhi
 charity,SC022228,uhi
+uklr,146707,uhi
 coins,S050,tactran
 coins,S054,swestrans
 coins,S053,zettrans
@@ -3137,6 +3140,8 @@ gss,E04012404,dunchurch_parish_council
 ch,04170092,the_conservatoire_for_dance_and_drama
 charity,1095623,the_conservatoire_for_dance_and_drama
 ch,00508616,rose_bruford_college
+ofs,10005523,rose_bruford_college
+ukprn,10005523,rose_bruford_college
 ch,06305220,leeds_trinity_university
 charity,1120102,leeds_trinity_university
 ch,03857752,national_nuclear_laboratory_limited
@@ -3452,6 +3457,8 @@ urn,130733,hadlow_college
 dpr,Z7256345,halesowen_college
 urn,130476,halesowen_college
 urn,143929,hereford_sixth_form_college
+ukprn,10003128,holy_cross_college
+ofs,10003128,holy_cross_college
 dpr,Z8613891,lakes_college_west_cumbria
 urn,130632,lakes_college_west_cumbria
 dpr,Z4897101,lambeth_college
@@ -3464,7 +3471,11 @@ ucas,M99,myerscough_college
 dpr,Z700805X,new_college_nottingham
 urn,130776,new_college_nottingham
 urn,130851,new_college_swindon
+ukprn,10005404,reaseheath_college
+ofs,10005404,reaseheath_college
 dpr,Z6842814,richmond_upon_thames_college
+ukprn,10002863,riverside_college_halton
+ofs,10002863,riverside_college_halton
 dpr,Z1889774,rochdale_sixth_form_college
 urn,135659,rochdale_sixth_form_college
 dpr,ZA309926,ccsw
@@ -3488,9 +3499,9 @@ urn,130727,west_kent_college
 dpr,Z6028588,west_suffolk_college
 urn,130818,west_suffolk_college
 dpr,Z6105632,weston_college
-urn,130564,weston_college
-ukpnr,10007459,weston_college
 ofs,10007459,weston_college
+ukprn,10007459,weston_college
+urn,130564,weston_college
 ucas,W81,worcester_college_of_technology
 ch,08539630,coleg_sir_gar
 charity,1152522,coleg_sir_gar
@@ -3557,7 +3568,6 @@ urn,130451,newham_college
 dpr,Z4821243,nwrc
 dpr,Z1309317,src
 dpr,Z6477199,serc
-dpr,banana,south_west_college
 ch,05844684,totally_local_company_ltd
 dpr,Z9693458,totally_local_company_ltd
 mapit,153709,bishops_stortford_town_council
@@ -26449,6 +26459,8 @@ gss,E04003431,okeford_fitzpaine_parish_council
 CH,07911392,suffolk_norse_limited
 urn,136665,dulwich_hamlet_junior_school
 urn,144511,newham_collegiate_sixth_form_centre
+ukprn,10068157,university_centre_peterborough
+ofs,10068157,university_centre_peterborough
 ni_irn,521-0186,newry_high_school
 ni_irn,103-0194,holy_cross_boys_primary_school_belfast
 mapit,56777,clifton_upon_teme_parish_council
@@ -40810,7 +40822,7 @@ mapit,56101,greater_willington_town_council
 parent_mapit,2223,greater_willington_town_council
 gss,E04010636,greater_willington_town_council
 cqc,1-199694646,the_medical_centre_driffield_east_yorkshire
-NHSODSID,122610,the_medical_centre_driffield_east_yorkshire
+nhsods,122610,the_medical_centre_driffield_east_yorkshire
 NHSORG,B81092,the_medical_centre_driffield_east_yorkshire
 NHSORGID,75604,hessle_grange_medical_practice
 NHSODS,NTP39,hessle_grange_medical_practice
@@ -58534,7 +58546,7 @@ ch,02077766,newcastle_international_airport
 vat,135572609,newcastle_international_airport
 ch,02776963,uclb
 unit,cabinet_office,epc
-UKPRN,10037544,bimm
+ukprn,10037544,bimm
 ch,RC000125,ucem
 charity,313223,ucem
 ofs,10008173,ucem
@@ -58551,3 +58563,12 @@ ch,07591694,backstage_academy
 ukprn,10036456,backstage_academy
 ofs,10036456,backstage_academy
 ch,00981908,nfts
+ch,07317195,nu_london
+charity,1189858,nu_london
+ch,08800142,nmite
+charity,1176550,nmite
+ch,05809678,mont_rose_college
+ch,313343,booktrust
+ch,00883094,the_place
+charity,250216,the_place
+ukprn,10004028,the_place
