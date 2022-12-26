@@ -3287,6 +3287,8 @@ parent_mapit,2411,cotgrave_town_council
 gss,E04007969,cotgrave_town_council
 ch,02829836,morley_college
 urn,130412,morley_college
+ofs,10004432,morley_college
+ukprn,10004432,morley_college
 ch,08725643,coleg_ceredigion
 charity,1154557,coleg_ceredigion
 dpr,ZA033740,coleg_ceredigion
@@ -15758,6 +15760,7 @@ gss,E04001712,hilton_parish_council
 mapit,59795,campton_and_chicksands_parish_council
 parent_mapit,21070,campton_and_chicksands_parish_council
 gss,E04011935,campton_and_chicksands_parish_council
+wikidata,Q104901181,smc
 ch,SC268674,houlihan_pharmacy_glasgow
 dpr,ZA432667,houlihan_pharmacy_glasgow
 ch,SC424067,green_investment_bank
