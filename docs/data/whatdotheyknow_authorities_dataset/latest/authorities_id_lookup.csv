@@ -1367,7 +1367,7 @@ dpr,Z5688595,royal_college_of_art
 dpr,Z7056965,royal_holloway_university_of_london
 dpr,Z6779018,royal_veterinary_college
 dpr,Z6740574,soas
-dpr,Z5969541,southampton_solent_university
+dpr,Z5969541,solent_university
 dpr,Z6548391,staffordshire_university
 urn,133882,staffordshire_university
 dpr,Z4815249,swansea_metropolitan_university
@@ -58573,3 +58573,4 @@ ch,313343,booktrust
 ch,00883094,the_place
 charity,250216,the_place
 ukprn,10004028,the_place
+ch,11210577,acm_guildford_ltd
