@@ -1,7 +1,7 @@
 title: Public authority ID lookup
 description: Lookup between a public authority WDTK url and its ID in various ID schemas
 custom:
-  row_count: 58575
+  row_count: 58581
 path: authorities_id_lookup.csv
 name: authorities_id_lookup
 profile: tabular-data-resource
@@ -29,4 +29,4 @@ schema:
     constraints:
       unique: false
     example: liverpool_city_council
-hash: d3c502015ca1c7785b08415cfe1cccb1
+hash: a49f88d32742c388c478a71cc83e171c
