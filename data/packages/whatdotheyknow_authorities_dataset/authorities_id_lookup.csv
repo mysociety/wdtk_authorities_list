@@ -1814,7 +1814,7 @@ dpr,Z1073715,hta
 dpr,ZA119141,scottish_housing_regulator
 dpr,Z5751396,office_of_the_accountant_in_bankruptcy
 dpr,Z6928535,scottish_courts_and_tribunals_service
-dpr,Z7477607,scottish_parliamentary_corporate_body
+dpr,Z7477607,spcb
 dpr,Z4857137,sps
 dpr,Z4857137,scottish_public_pensions_agency
 dpr,Z4857137,saas
@@ -58682,3 +58682,4 @@ ukprn,10032282,the_queens_foundation_for_ecumenical_theological_education
 ch,11653780,thinkspace_education_limited
 ofs,10082743,thinkspace_education_limited
 ukprn,10082743,thinkspace_education_limited
+ch,07177562,waltham_international_college
