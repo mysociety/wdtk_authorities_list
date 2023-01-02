@@ -2403,8 +2403,8 @@ dpr,Z5944737,bhp
 unit,belfast_harbour_commissioners,bhp
 ch,03675577,idea
 dpr,Z8451996,idea
-dpr,ZA515430,lga
 ch,11177145,lga
+dpr,ZA515430,lga
 unit,bolton_council,bolton_museum_aquarium
 unit,bradford_city_council,cliffe_castle_museum
 dpr,Z5770328,sgul
@@ -41099,6 +41099,7 @@ gss,E04013120,northstowe_town_council
 CH,02078273,birmingham_airport_ltd
 iata,BHX,birmingham_airport_ltd
 charity,1165712,royal_sutton_coldfield_community_town_hall_trust
+ch,CE006706,royal_sutton_coldfield_community_town_hall_trust
 mapit,61129,plumstead_parish_council
 parent_mapit,2386,plumstead_parish_council
 gss,E04006457,plumstead_parish_council
