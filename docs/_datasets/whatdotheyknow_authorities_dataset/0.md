@@ -157,13 +157,13 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: 215067ff1b437788dd6d69e15b8e5a63
+  hash: dff287193bb0e0bca521cbf0c1e6e042
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
   custom:
-    row_count: 281
+    row_count: 282
   path: authorities_categories.csv
   name: authorities_categories
   profile: tabular-data-resource
@@ -192,7 +192,7 @@ resources:
       constraints:
         unique: true
       example: Advisory Committees on Justices of the Peace
-  hash: 72a1584b848bdc6453de1b2746305607
+  hash: 2f17e350c0270ce17be6433ed580d137
   download_id: whatdotheyknow-authorities-dataset-authorities-categories
 - title: Public authority ID lookup
   description: Lookup between a public authority WDTK url and its ID in various ID
