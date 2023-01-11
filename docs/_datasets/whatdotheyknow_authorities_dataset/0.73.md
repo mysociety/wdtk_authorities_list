@@ -118,7 +118,7 @@ resources:
       description: Date the authority's entry was last updated in this dataset
       constraints:
         unique: false
-      example: 2023-01-09 04:09:09 +0000
+      example: 2023-01-10 04:09:08 +0000
     - name: version
       type: integer
       description: The current version of this authority's entry in this dataset
@@ -157,13 +157,13 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: 436d91b3eea98836c958136925ff2232
+  hash: 8867f170956af03a44dcabc4688b43d7
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
   custom:
-    row_count: 282
+    row_count: 283
   path: authorities_categories.csv
   name: authorities_categories
   profile: tabular-data-resource
@@ -192,7 +192,7 @@ resources:
       constraints:
         unique: true
       example: Advisory Committees on Justices of the Peace
-  hash: 2f17e350c0270ce17be6433ed580d137
+  hash: de6995f5659fe185b7db74f3ae6a27e4
   download_id: whatdotheyknow-authorities-dataset-authorities-categories
 - title: Public authority ID lookup
   description: Lookup between a public authority WDTK url and its ID in various ID

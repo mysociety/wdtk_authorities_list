@@ -73,7 +73,7 @@ schema:
     description: Date the authority's entry was last updated in this dataset
     constraints:
       unique: false
-    example: 2023-01-09 04:09:09 +0000
+    example: 2023-01-10 04:09:08 +0000
   - name: version
     type: integer
     description: The current version of this authority's entry in this dataset
@@ -111,4 +111,4 @@ schema:
     constraints:
       unique: false
     example: Local and regional
-hash: 436d91b3eea98836c958136925ff2232
+hash: 8867f170956af03a44dcabc4688b43d7
