@@ -46,7 +46,7 @@ resources:
 - title: Public Authorities
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
-    row_count: 179918
+    row_count: 179924
   path: authorities.csv
   name: authorities
   profile: tabular-data-resource
@@ -118,7 +118,7 @@ resources:
       description: Date the authority's entry was last updated in this dataset
       constraints:
         unique: false
-      example: 2023-01-10 04:09:08 +0000
+      example: 2023-01-14 04:09:09 +0000
     - name: version
       type: integer
       description: The current version of this authority's entry in this dataset
@@ -157,7 +157,7 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: 4ead735d32e2a35f17d76e68bbfb9480
+  hash: df2d7b3d7aff594692d6c61f791afafb
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
@@ -198,7 +198,7 @@ resources:
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
   custom:
-    row_count: 58688
+    row_count: 58690
   path: authorities_id_lookup.csv
   name: authorities_id_lookup
   profile: tabular-data-resource
@@ -226,7 +226,7 @@ resources:
       constraints:
         unique: false
       example: liverpool_city_council
-  hash: e30a464df6b0f9e3e9074fe1184dc7ee
+  hash: a554aa61b30b48799f267a524be54c25
   download_id: whatdotheyknow-authorities-dataset-authorities-id-lookup
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest

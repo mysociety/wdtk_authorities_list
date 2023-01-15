@@ -1751,8 +1751,8 @@ unit,ahdb,potato_council
 coins,GTC022,general_teaching_council_for_england
 coins,TCW090,gtcw
 successor,education_workforce_council,gtcw
-dpr,Z9166002,gambling_commission
 coins,GBG048,gambling_commission
+dpr,Z9166002,gambling_commission
 coins,CAE048,cabe
 dpr,Z9151151,gangmasters_and_labour_abuse_authority
 dpr,Z5766861,office_of_manpower_economics
@@ -58687,3 +58687,5 @@ ch,07177562,waltham_international_college
 dpr,Z4952703,lodge_health_partnership
 nhsods,E82014,lodge_health_partnership
 nhsorgid,125119,lodge_health_partnership
+ch,00293627,ciot
+charity,1037771,ciot
