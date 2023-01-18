@@ -46,7 +46,7 @@ resources:
 - title: Public Authorities
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
-    row_count: 179936
+    row_count: 179939
   path: authorities.csv
   name: authorities
   profile: tabular-data-resource
@@ -157,13 +157,13 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: 3c2f6f2d02d50775602712cafe104766
+  hash: d7e4f6d1c79ed33a0ded2f8c4a884de4
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
   custom:
-    row_count: 283
+    row_count: 284
   path: authorities_categories.csv
   name: authorities_categories
   profile: tabular-data-resource
@@ -192,7 +192,7 @@ resources:
       constraints:
         unique: true
       example: Advisory Committees on Justices of the Peace
-  hash: de6995f5659fe185b7db74f3ae6a27e4
+  hash: 8365ae0b387c3b35a5f044fec39d1a9a
   download_id: whatdotheyknow-authorities-dataset-authorities-categories
 - title: Public authority ID lookup
   description: Lookup between a public authority WDTK url and its ID in various ID
