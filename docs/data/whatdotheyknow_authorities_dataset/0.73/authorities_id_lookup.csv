@@ -3597,9 +3597,9 @@ dpr,Z9923989,waste_solutions_sk_ltd
 ch,06023503,waste_solutions_sk_ltd
 ch,06458829,isi
 dpr,ZA138661,isi
-ch,SC302282,calmac_ferries_limited
-dpr,Z9867026,calmac_ferries_limited
-owned_by,david_macbrayne_limited,calmac_ferries_limited
+ch,SC302282,calmac
+dpr,Z9867026,calmac
+owned_by,david_macbrayne_limited,calmac
 dpr,Z9867165,cowal_ferries_limited
 ch,SC306519,cowal_ferries_limited
 ch,05351436,efa_trading_limited
