@@ -1007,9 +1007,12 @@ dpr,Z4809838,southampton_city_council
 gss,E06000045,southampton_city_council
 la,852,southampton_city_council
 mapit,2567,southampton_city_council
-gss,E06000033,southend_on_sea_borough_council
-la,882,southend_on_sea_borough_council
-mapit,2607,southend_on_sea_borough_council
+gss,E06000033,southend_on_sea_city_council
+la,882,southend_on_sea_city_council
+mapit,2607,southend_on_sea_city_council
+gss,E06000033,southend_on_sea_city_council
+la,882,southend_on_sea_city_council
+mapit,2607,southend_on_sea_city_council
 dpr,Z5394246,southwark_borough_council
 gss,E09000028,southwark_borough_council
 la,210,southwark_borough_council
