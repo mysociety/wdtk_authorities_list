@@ -2816,6 +2816,8 @@ dpr,Z9194349,motherwell_college
 urn,130756,wyggeston_and_queen_elizabeth_i_college
 charity,1106969,wirral_partnership_homes
 coins,CDC030,bii
+dpr,Z7612637,bii
+ch,03877777,bii
 dpr,Z8201404,wiltshire_college_university_centre
 ucas,W74,wiltshire_college_university_centre
 urn,132779,wiltshire_college_university_centre
@@ -5065,9 +5067,10 @@ gss,E04003199,buckfastleigh_town_council
 mapit,58844,buckingham_town_council
 parent_mapit,163793,buckingham_town_council
 gss,E04001465,buckingham_town_council
+dpr,Z5754816,bude_stratton_town_council
+gss,E04011409,bude_stratton_town_council
 mapit,54578,bude_stratton_town_council
 parent_mapit,2250,bude_stratton_town_council
-gss,E04011409,bude_stratton_town_council
 mapit,56008,bungay_town_council
 parent_mapit,152160,bungay_town_council
 gss,E04009490,bungay_town_council
@@ -26216,8 +26219,8 @@ dpr,ZA262600,moreton_school_wolverhampton
 urn,144278,moreton_school_wolverhampton
 ch,08310900,aat
 dpi,ZA262600,aat
-dpr,ZA294144,cedars_upper_school
-urn,137462,cedars_upper_school
+dpr,ZA294144,cedars_upper_school_leighton_buzzard
+urn,137462,cedars_upper_school_leighton_buzzard
 ch,07559901,clt
 dpr,ZA294144,clt
 dpr,ZA294144,dallow_primary_school
@@ -40401,7 +40404,7 @@ urn,118928,northfleet_technology_college_gravesend
 urn,102449,oak_wood_school_uxbridge
 urn,135826,the_royal_harbour_academy_ramsgate
 urn,123878,robert_blake_science_college_bridgwater
-urn,109669,sandy_secondary_school_sandy
+urn,109669,sandy_secondary_school
 urn,125314,the_winston_churchill_school_a_specialist_sports_college_woking
 urn,132268,kings_international_college_camberley
 urn,104018,holly_lodge_high_school_college_of_science_smethwick
