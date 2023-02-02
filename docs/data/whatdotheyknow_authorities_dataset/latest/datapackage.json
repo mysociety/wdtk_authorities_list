@@ -163,7 +163,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "2023-01-26 04:09:08 +0000"
+                        "example": "2023-02-01 04:09:09 +0000"
                     },
                     {
                         "name": "version",
@@ -216,7 +216,7 @@
                     }
                 ]
             },
-            "hash": "4dc66327bc11ef0f72e9a7805f426f27"
+            "hash": "c0b0a0589885cd046a5052c292d4703d"
         },
         {
             "title": "Categories",
@@ -308,7 +308,7 @@
                     }
                 ]
             },
-            "hash": "bd7b05caa7e9ac640baa6db02f43f481"
+            "hash": "d84b739f9edfc2d19ab301c440c9bfc7"
         }
     ]
 }
