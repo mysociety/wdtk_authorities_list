@@ -157,7 +157,7 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: 0821b635cf83b9c1f4d42502b8902be4
+  hash: 7a33dd14b458775fb48e00466e32f1d2
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
@@ -198,7 +198,7 @@ resources:
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
   custom:
-    row_count: 58714
+    row_count: 58715
   path: authorities_id_lookup.csv
   name: authorities_id_lookup
   profile: tabular-data-resource
@@ -226,7 +226,7 @@ resources:
       constraints:
         unique: false
       example: liverpool_city_council
-  hash: 48024d882ae66e9ecf3b3322412175f8
+  hash: 912a5424c2a48a4c116d99c7b2073d33
   download_id: whatdotheyknow-authorities-dataset-authorities-id-lookup
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
