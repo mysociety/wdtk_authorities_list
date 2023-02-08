@@ -46,7 +46,7 @@ resources:
 - title: Public Authorities
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
-    row_count: 175908
+    row_count: 175943
   path: authorities.csv
   name: authorities
   profile: tabular-data-resource
@@ -157,7 +157,7 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: 7992729d5d40d52b6f31cd6801ae40b5
+  hash: 818f7901a8ac83727dde13372fa1583c
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
