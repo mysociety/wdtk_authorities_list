@@ -17590,9 +17590,9 @@ gss,E04010943,goostrey_parish_council
 mapit,60485,great_warford_parish_council
 parent_mapit,21069,great_warford_parish_council
 gss,E04010944,great_warford_parish_council
-mapit,135505,handforth_parish_council
-parent_mapit,21069,handforth_parish_council
-gss,E04012171,handforth_parish_council
+gss,E04012171,handforth_town_council
+mapit,135505,handforth_town_council
+parent_mapit,21069,handforth_town_council
 mapit,53690,hankelow_parish_council
 parent_mapit,21069,hankelow_parish_council
 gss,E04010945,hankelow_parish_council
@@ -58714,3 +58714,7 @@ charity,803480,att
 ch,03401440,unipol
 charity,1063492,unipol
 dpr,Z4812961,unipol
+dpr,Z1257844,wiveliscombe_town_council
+mapit,61524,wiveliscombe_town_council
+gss,E04008825,wiveliscombe_town_council
+parent_mapit,152109,wiveliscombe_town_council
