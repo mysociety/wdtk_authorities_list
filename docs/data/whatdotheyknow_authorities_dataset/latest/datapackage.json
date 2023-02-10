@@ -64,7 +64,7 @@
             "title": "Public Authorities",
             "description": "WhatDoTheyKnow's list of UK public authorities",
             "custom": {
-                "row_count": 175956
+                "row_count": 175959
             },
             "path": "authorities.csv",
             "name": "authorities",
@@ -216,7 +216,7 @@
                     }
                 ]
             },
-            "hash": "e9e84c997d576a5a1fef370196a80a64"
+            "hash": "ac94ee17b639c933d9b57d2de114d318"
         },
         {
             "title": "Categories",
