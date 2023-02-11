@@ -15765,6 +15765,7 @@ charity,SC016637,citizens_advice_scotland
 ch,01436945,citizens_advice
 charity,279057,citizens_advice
 dpr,Z6839557,citizens_advice
+vat,726020276,citizens_advice
 dpr,Z3564933,natural_resources_wales
 mapit,57922,hilton_parish_council
 parent_mapit,2262,hilton_parish_council
@@ -26682,9 +26683,9 @@ gss,E04012219,stansted_mountfitchet_parish_council
 mapit,58293,stebbing_parish_council
 parent_mapit,2313,stebbing_parish_council
 gss,E04004161,stebbing_parish_council
+gss,E04004162,strethall_parish_council
 mapit,63002,strethall_parish_council
 parent_mapit,2313,strethall_parish_council
-gss,E04004162,strethall_parish_council
 mapit,53684,takeley_parish_council
 parent_mapit,2313,takeley_parish_council
 gss,E04004163,takeley_parish_council
@@ -48751,9 +48752,23 @@ parent_mapit,2248,stocksfield_parish_council
 gss,E04010753,stocksfield_parish_council
 ch,07824292,ubico_limited
 ch,08329791,cambridge_bid
+ch,SC365793,embrace_elgin
+dpr,ZA383171,embrace_elgin
+ch,07661227,discover_wellingborough
+ch,07389170,durham_bid
+dpr,ZA336715,durham_bid
+ch,12343831,your_eastbourne_bid_limited
+dpr,ZB054033,your_eastbourne_bid_limited
 ch,10237792,english_riviera_bid_company_ltd
+ch,SC632117,giffnock_village
+ch,06213804,inswindon_bid_company_limited
+vat,921585912,inswindon_bid_company_limited
+dpr,ZA801445,inswindon_bid_company_limited
+ch,SC428645,living_lerwick
+ch,10383783,morecambe_bid
 ch,06500486,ne1_bid
 dpr,Z1732030,ne1_bid
+ch,11279004,one_chelmsford
 ch,05357332,paddington_business_improvement_district_limited
 ch,08814824,salisbury_business_improvement_district_ltd
 dpr,ZA060106,salisbury_business_improvement_district_ltd
@@ -48764,6 +48779,8 @@ ch,07846722,sutton_coldfield_town_centre_bid_ltd
 ch,07461988,tavistock_bid_ltd
 ch,06057365,the_cathedral_quarter_company_ltd
 ch,SC659809,tweed_valley_tourism_bid
+ch,SC474489,visit_inverness_loch_ness
+ch,SC492730,volie_bid
 ch,07303310,plymouth_waterfront_partnership_bid
 dpr,ZA858223,plymouth_waterfront_partnership_bid
 ch,SC522431,west_end_bid
@@ -58718,3 +58735,5 @@ dpr,Z1257844,wiveliscombe_town_council
 mapit,61524,wiveliscombe_town_council
 gss,E04008825,wiveliscombe_town_council
 parent_mapit,152109,wiveliscombe_town_council
+ch,OC380846,milton_keynes_development_partnership_llp
+ch,12534607,developmk
