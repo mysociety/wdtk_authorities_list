@@ -157,7 +157,7 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: d508f01606d6f07bbe3c3d724e9f58f9
+  hash: 80b1b4f8a9b929b610935f43eeb81b91
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
