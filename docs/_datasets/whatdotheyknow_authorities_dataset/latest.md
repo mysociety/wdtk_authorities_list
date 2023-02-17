@@ -157,7 +157,7 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: 010f23ac2071929741f253f227b0435b
+  hash: d332b8e1f14b190e5c5fdf6b1e7573b1
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
@@ -192,7 +192,7 @@ resources:
       constraints:
         unique: true
       example: Advisory Committees on Justices of the Peace
-  hash: 8365ae0b387c3b35a5f044fec39d1a9a
+  hash: c3861fafb1c6253c642ac171451d691e
   download_id: whatdotheyknow-authorities-dataset-authorities-categories
 - title: Public authority ID lookup
   description: Lookup between a public authority WDTK url and its ID in various ID
