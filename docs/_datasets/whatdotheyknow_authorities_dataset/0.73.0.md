@@ -118,7 +118,7 @@ resources:
       description: Date the authority's entry was last updated in this dataset
       constraints:
         unique: false
-      example: 2023-02-15 04:09:09 +0000
+      example: 2023-02-18 04:09:09 +0000
     - name: version
       type: integer
       description: The current version of this authority's entry in this dataset
@@ -157,7 +157,7 @@ resources:
       constraints:
         unique: false
       example: Local and regional
-  hash: d332b8e1f14b190e5c5fdf6b1e7573b1
+  hash: e466b69c5813fe00e4c06a5237a2bbd0
   download_id: whatdotheyknow-authorities-dataset-authorities
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
