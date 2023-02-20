@@ -163,7 +163,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "2023-02-18 04:09:09 +0000"
+                        "example": "2023-02-19 04:09:10 +0000"
                     },
                     {
                         "name": "version",
@@ -216,7 +216,7 @@
                     }
                 ]
             },
-            "hash": "e466b69c5813fe00e4c06a5237a2bbd0"
+            "hash": "45144416598a2c7b92719fb782e945fb"
         },
         {
             "title": "Categories",
@@ -268,7 +268,7 @@
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 58738
+                "row_count": 58739
             },
             "path": "authorities_id_lookup.csv",
             "name": "authorities_id_lookup",
@@ -308,7 +308,7 @@
                     }
                 ]
             },
-            "hash": "5d04c401c1a02d5a377bbfc376755008"
+            "hash": "4e5e1ef26f569a0c6a37c6f1f375022b"
         }
     ]
 }
