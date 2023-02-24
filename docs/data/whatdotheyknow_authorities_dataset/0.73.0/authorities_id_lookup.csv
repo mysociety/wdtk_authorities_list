@@ -1329,6 +1329,7 @@ dpr,Z7043317,canterbury_christ_church_university
 dpr,Z6549747,cardiff_university
 dpr,Z8947127,city_university_of_london
 dpr,Z4690919,cranfield_university
+lei,2138004V4ZXZVRWC4272,durham_university
 dpr,Z5704339,durham_university
 dpr,Z6080639,goldsmiths_university_of_london
 charity,SC000278,heriot_watt_university
@@ -4143,9 +4144,10 @@ gss,E04006016,market_rasen_town_council
 mapit,58945,market_weighton_town_council
 parent_mapit,2577,market_weighton_town_council
 gss,E04000435,market_weighton_town_council
+gss,E04011769,marlborough_town_council
 mapit,57600,marlborough_town_council
 parent_mapit,2245,marlborough_town_council
-gss,E04011769,marlborough_town_council
+dpr,Z2023739,marlborough_town_council
 mapit,55638,marlow_town_council
 parent_mapit,163793,marlow_town_council
 gss,E04001610,marlow_town_council
@@ -41186,6 +41188,7 @@ ch,07344884,reclaim_fund_ltd
 ch,05608448,llwr
 twitter,MSRemuneration,the_independent_remuneration_board_of_the_senedd
 twitter,CommissionerDA,the_domestic_abuse_commissioner
+dpr,ZB280564,redress_scotland
 ch,06368318,lsme
 dpr,Z139834X,lsme
 dpr,ZB115995,throop_and_holdenhurst_village_council
