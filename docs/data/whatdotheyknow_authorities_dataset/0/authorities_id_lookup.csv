@@ -1601,6 +1601,7 @@ coins,W584,pembrokeshire_coast_national_park_authority
 dpr,Z7064195,snowdonia_national_park_authority
 coins,W586,snowdonia_national_park_authority
 dpr,Z5506213,bank_of_england
+lei,YUEDD7W89PH0FV8Q2S28,bank_of_england
 coins,CFT048,channel_4
 dpr,Z4911076,channel_4
 dpr,Z7148998,scottish_canals
@@ -2657,8 +2658,9 @@ nhsorgcode,RK5,sherwood_forest_hospitals_nhs_foundation_trust
 ch,03344583,acpo
 charity,1139733,st_johns_college_oxford
 charity,1139717,st_hughs_college
-charity,1138057,all_souls_college
 ch,RC000008,all_souls_college
+charity,1138057,all_souls_college
+lei,213800D8G9NNZWP8RU51,all_souls_college
 charity,1137527,hertford_college
 charity,1139022,merton_college
 charity,1137506,nuffield_college
@@ -5363,6 +5365,7 @@ nhsorgcode,RTH,oxford_university_hospitals_nhs_foundation_trust
 dpr,ZA152461,oxford_university_hospitals_nhs_foundation_trust
 dpr,Z6726483,barnet_and_southgate_college
 urn,130425,barnet_and_southgate_college
+wikidata,Q7579727,sgsa
 urn,137005,graveney_school_wandsworth
 mapit,61082,dawlish_town_council
 parent_mapit,2287,dawlish_town_council
@@ -26686,6 +26689,7 @@ gss,E04012219,stansted_mountfitchet_parish_council
 mapit,58293,stebbing_parish_council
 parent_mapit,2313,stebbing_parish_council
 gss,E04004161,stebbing_parish_council
+wikidata,Q104393198,strethall_parish_council
 gss,E04004162,strethall_parish_council
 mapit,63002,strethall_parish_council
 parent_mapit,2313,strethall_parish_council
