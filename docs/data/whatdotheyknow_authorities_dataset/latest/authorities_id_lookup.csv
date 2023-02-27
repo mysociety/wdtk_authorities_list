@@ -5343,6 +5343,7 @@ ch,SC392082,flowave_tt_limited
 ch,SC383193,gcu_academy_limited
 ch,SC341687,gcu_into_limited
 dpr,Z6346473,hie_caithness_and_sutherland
+ch,SC144906,targeting_innovation
 ch,SC173061,kelvin_nanotechnology_limited
 dpr,Z8866451,bishop_thomas_grant_school
 urn,100638,bishop_thomas_grant_school
@@ -16053,6 +16054,7 @@ ch,08616013,british_business_bank
 mapit,55429,isleham_parish_council
 parent_mapit,2261,isleham_parish_council
 gss,E04001633,isleham_parish_council
+charity,1192269,welsh_book_council
 ch,8802523,west_yorkshire_crc
 mapit,53435,toppesfield_and_gainsford_end_parish_council
 parent_mapit,2317,toppesfield_and_gainsford_end_parish_council
@@ -58746,3 +58748,5 @@ gss,E04008825,wiveliscombe_town_council
 parent_mapit,152109,wiveliscombe_town_council
 ch,OC380846,milton_keynes_development_partnership_llp
 ch,12534607,developmk
+ch,1194635,brookes_union
+charity,13275949,brookes_union
