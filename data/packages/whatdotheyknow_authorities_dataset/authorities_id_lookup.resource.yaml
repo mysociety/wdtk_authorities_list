@@ -1,7 +1,7 @@
 title: Public authority ID lookup
 description: Lookup between a public authority WDTK url and its ID in various ID schemas
 custom:
-  row_count: 58751
+  row_count: 58752
 path: authorities_id_lookup.csv
 name: authorities_id_lookup
 profile: tabular-data-resource
@@ -16,17 +16,17 @@ schema:
     description: The ID schema this ID belongs to
     constraints:
       unique: false
-    example: dpr
+    example: CH
   - name: id
     type: string
     description: The ID in the specified schema
     constraints:
       unique: false
-    example: Z7624756
+    example: //odsportal.digital.nhs.uk/Organisation/OrganisationDetails?organisationId=122014
   - name: wdtk-url-name
     type: string
     description: The WDTK URL name of the authority
     constraints:
       unique: false
-    example: liverpool_city_council
+    example: 131_dental_rotherham
 hash: d95e8b7e0b698de4b83016ebd5721610

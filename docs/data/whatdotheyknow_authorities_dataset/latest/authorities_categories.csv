@@ -185,6 +185,7 @@ oxford_college,Education,Oxford colleges
 parent_mapit:152225,Local and regional,Authorities in the Dorset Council Area
 parent_mapit:2595,Local and regional,Authorities in the Powys Council Area
 parish_council,Local and regional,Town and Parish councils
+parish_meeting,Local and regional,Parish Meetings
 parole_board,"Law-making bodies, the courts and the legal system",Parole boards
 pay_review_body,Finance,Pay review bodies
 pbo,Organisations whose members are public authorities,Professional buying organisations
@@ -248,6 +249,7 @@ statutory_corporation,By legal form/status,Statutory corporations
 stb,Transport and infrastructure,Sub-national transport bodies
 sthf_imb,Regulators and ombudsmen,Independent Monitoring Boards for Short Term Holding Facilities
 stp,Health,Sustainability and Transformation Partnerships
+students_union,Education,Students' unions
 support_for_parliament,"Law-making bodies, the courts and the legal system",Bodies that support the work of parliaments
 surgery,Health,NHS Primary Care Providers
 telecom_company,Energy and utilities|Transport and infrastructure,Telecommunications companies

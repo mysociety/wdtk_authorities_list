@@ -2,7 +2,7 @@ title: Categories
 description: Lookup between a category name, category header, and top-level category
   of a public authority.
 custom:
-  row_count: 284
+  row_count: 287
 path: authorities_categories.csv
 name: authorities_categories
 profile: tabular-data-resource
@@ -24,11 +24,11 @@ schema:
       pipe-seperated.
     constraints:
       unique: false
-    example: Law-making bodies, the courts and the legal system
+    example: By legal form/status
   - name: category-name
     type: string
     description: The name of a category that describes a set of categories.
     constraints:
       unique: true
-    example: Advisory Committees on Justices of the Peace
-hash: c3861fafb1c6253c642ac171451d691e
+    example: Academies
+hash: 0d2d8972f8bced81634051cdf018f545

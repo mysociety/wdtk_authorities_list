@@ -64,7 +64,7 @@
             "title": "Public Authorities",
             "description": "WhatDoTheyKnow's list of UK public authorities",
             "custom": {
-                "row_count": 175940
+                "row_count": 46058
             },
             "path": "authorities.csv",
             "name": "authorities",
@@ -76,13 +76,22 @@
             "schema": {
                 "fields": [
                     {
+                        "name": "id",
+                        "type": "string",
+                        "description": "Internal WDTK ID",
+                        "constraints": {
+                            "unique": false
+                        },
+                        "example": "10"
+                    },
+                    {
                         "name": "name",
                         "type": "string",
                         "description": "Name of the authority",
                         "constraints": {
                             "unique": true
                         },
-                        "example": "Liverpool City Council"
+                        "example": "101 Medical Practice, Troon"
                     },
                     {
                         "name": "short-name",
@@ -91,7 +100,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "BERR"
+                        "example": "2013 WPFG"
                     },
                     {
                         "name": "url-name",
@@ -100,7 +109,7 @@
                         "constraints": {
                             "unique": true
                         },
-                        "example": "liverpool_city_council"
+                        "example": "101_medical_practice_troon"
                     },
                     {
                         "name": "tags",
@@ -109,7 +118,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "E4302|LIV|MTD|UTLA|district_level_functions|district_level_functions_england|dpr:Z7624756|england|gss:E08000012|highways|la:341|lea|liv_cr|local_council|mapit:2527|metropolitan_district|north_west|unitary"
+                        "example": "16_plus|Academy_16-19_converter|Greenwich|academies|school|school_new_nov2020|urn:138966"
                     },
                     {
                         "name": "home-page",
@@ -118,7 +127,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "http:www.liverpool.gov.uk"
+                        "example": "http:-"
                     },
                     {
                         "name": "publication-scheme",
@@ -127,7 +136,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "http://www.liverpool.gov.uk/Council_government_and_democracy/About_your_council/Data_protection_and_FOI/FOI/"
+                        "example": "http://about.edinburghleisure.co.uk/freedom-of-information/guide-to-information/"
                     },
                     {
                         "name": "disclosure-log",
@@ -136,7 +145,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "https://www.parliament.uk/site-information/foi/foi-and-eir/commons-request-disclosure-logs/"
+                        "example": "http://about.edinburghleisure.co.uk/freedom-of-information/disclosure-logs/"
                     },
                     {
                         "name": "notes",
@@ -145,7 +154,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "The UK has multiple tiers of local government and not all local authorities have responsibility for education. This public authority is one of around 200 local authorities in England, Scotland and Wales which <em>do</em> have responsibilities for education."
+                        "example": "\"CEOP derives its statutory powers from the Serious Organised Crime and Police Act 2005 and CEOP is therefore exempt from The Freedom of Information Act 2000. Nevertheless it is the policy of CEOP to be as open and transparent in our dealings with the public where possible and each request for information will be considered on a case by case basis.\"<p><a href=\"http://www.ceop.police.uk/Terms-and-conditions/\">http://www.ceop.police.uk/Terms-and-conditions/</a>"
                     },
                     {
                         "name": "created-at",
@@ -163,7 +172,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "2023-02-24 04:09:09 +0000"
+                        "example": "2013-09-24 11:58:18 +0100"
                     },
                     {
                         "name": "version",
@@ -172,7 +181,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": 17
+                        "example": 1
                     },
                     {
                         "name": "defunct",
@@ -194,7 +203,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "Councils with district-level functions|Councils with district-level functions in England|Education authority|Highways Operators|Local councils (North West)|Metropolitan district councils|Principal councils|Upper tier local authorities"
+                        "example": "Academies"
                     },
                     {
                         "name": "top-level-categories",
@@ -203,7 +212,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "Education|Local and regional|Transport and infrastructure"
+                        "example": "By legal form/status"
                     },
                     {
                         "name": "single-top-level-category",
@@ -212,17 +221,17 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "Local and regional"
+                        "example": "Central government"
                     }
                 ]
             },
-            "hash": "2b50a7765ab2d22377566dd1a3992652"
+            "hash": "1b7367d50287369f04395441be88f0af"
         },
         {
             "title": "Categories",
             "description": "Lookup between a category name, category header, and top-level category of a public authority.",
             "custom": {
-                "row_count": 284
+                "row_count": 287
             },
             "path": "authorities_categories.csv",
             "name": "authorities_categories",
@@ -249,7 +258,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "Law-making bodies, the courts and the legal system"
+                        "example": "By legal form/status"
                     },
                     {
                         "name": "category-name",
@@ -258,17 +267,17 @@
                         "constraints": {
                             "unique": true
                         },
-                        "example": "Advisory Committees on Justices of the Peace"
+                        "example": "Academies"
                     }
                 ]
             },
-            "hash": "c3861fafb1c6253c642ac171451d691e"
+            "hash": "0d2d8972f8bced81634051cdf018f545"
         },
         {
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 58751
+                "row_count": 58752
             },
             "path": "authorities_id_lookup.csv",
             "name": "authorities_id_lookup",
@@ -286,7 +295,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "dpr"
+                        "example": "CH"
                     },
                     {
                         "name": "id",
@@ -295,7 +304,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "Z7624756"
+                        "example": "//odsportal.digital.nhs.uk/Organisation/OrganisationDetails?organisationId=122014"
                     },
                     {
                         "name": "wdtk-url-name",
@@ -304,7 +313,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "liverpool_city_council"
+                        "example": "131_dental_rotherham"
                     }
                 ]
             },

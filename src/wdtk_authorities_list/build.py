@@ -157,6 +157,10 @@ def enhance_authorities_csv():
     """
 
     print("[blue]Enhancing authorities list...[/blue]")
+    # get the ID lookup - will be unneeded when PR is eventually merged
+    id_df = pd.read_csv(top_level / "data" / "raw" / "id_to_name.csv")
+    id_lookup = id_df.set_index("url_name")["id"].to_dict()
+
     # get the category df
     category_df = pd.read_csv(top_level / "data" / "raw" / "authorities_categories.csv")
     # create a dictionary lookup for tag to category name
@@ -168,6 +172,13 @@ def enhance_authorities_csv():
 
     df = pd.read_csv(top_level / "data" / "raw" / "authorities.csv")
     df = df.rename(columns=lambda x: x.lower().replace(" ", "-"))
+
+    df["id"] = df["url-name"].apply(lambda x: id_lookup.get(x, "Unknown ID"))
+    # move ID column to the front
+    cols = df.columns.tolist()
+    cols = cols[-1:] + cols[:-1]
+    df = df[cols]
+
     df["tags"] = df["tags"].fillna("").str.split(" ")
 
     # create boolean columns from the presence of a tag

@@ -3,7 +3,7 @@ title: WDTK Authorities Dataset
 description: Dataset of WDTK authorities
 
 baseurl: "/wdtk_authorities_list"
-url: "https://mysociety.github.io"
+url: "https://pages.mysociety.org"
 
 collections:
   versionlists:
