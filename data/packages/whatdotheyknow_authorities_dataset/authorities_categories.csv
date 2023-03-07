@@ -124,6 +124,8 @@ leisure_centre,Recreation,Leisure Centre Operators
 letb,Health,Local Education and Training Boards
 letbg,Health,Local Education and Training Boards Group
 lfjb,Local and regional,Local Family Justice Boards
+lgps_fund_administrator,Local and regional,Local Government Pension Scheme Fund Administrator
+lgps_pool,Local and regional,Local Government Pension Scheme Investment Pools
 lib_board,Defunct bodies,Education and library boards
 library,Media and culture,Libraries
 licensing_board,Local and regional,Licensing boards (Scotland)
@@ -239,6 +241,7 @@ sea_fishery_committee,Defunct bodies,Sea fisheries committees
 security_services,Military and security services,Security services
 sewerage_undertaker,Energy and utilities,Sewerage undertakers
 sha,Defunct bodies,Strategic health authorities
+signpost,Signposts,Signposts
 south_east,Local and regional,Local councils (South East)
 south_west,Local and regional,Local councils (South West)
 specialha,Health,Special health authorities
