@@ -1,7 +1,7 @@
 title: Public authority ID lookup
 description: Lookup between a public authority WDTK url and its ID in various ID schemas
 custom:
-  row_count: 58765
+  row_count: 58766
 path: authorities_id_lookup.csv
 name: authorities_id_lookup
 profile: tabular-data-resource
@@ -29,4 +29,4 @@ schema:
     constraints:
       unique: false
     example: 131_dental_rotherham
-hash: 12c402475e666a5286db9458dc9e26f2
+hash: 2a4f397b69528eaabeb731a9ae1e0816
