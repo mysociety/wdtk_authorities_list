@@ -6068,6 +6068,7 @@ dpr,Z500057X,st_peter_and_st_paul_catholic_primary_school_orpington
 urn,101655,st_peter_and_st_paul_catholic_primary_school_orpington
 dpr,Z6494974,st_vincents_catholic_primary_school_mottingham
 urn,101652,st_vincents_catholic_primary_school_mottingham
+ch,06879309,hampshire_association_of_local_councils
 dpr,Z4665294,new_college_stamford
 urn,130760,new_college_stamford
 mapit,59102,alton_parish_council_wiltshire
@@ -26602,6 +26603,10 @@ gss,E04005148,croston_parish_council
 mapit,64691,betws_community_council
 parent_mapit,2595,betws_community_council
 gss,W04000254,betws_community_council
+ch,07746787,futura_learning_partnership
+matuid,5253,futura_learning_partnership
+spuid,5254,futura_learning_partnership
+dpr,ZA161410,futura_learning_partnership
 mapit,57083,rettendon_parish_council
 parent_mapit,2314,rettendon_parish_council
 gss,E04003967,rettendon_parish_council
@@ -58601,6 +58606,10 @@ ch,11727632,create_learning_trust
 matuid,17343,create_learning_trust
 ch,13407732,stakehill_bid_ltd
 dpr,ZB233886,stakehill_bid_ltd
+spuid,2716,clevedon_learning_trust
+matuid,5453,clevedon_learning_trust
+ch,07872799,clevedon_learning_trust
+dpr,ZA107685,clevedon_learning_trust
 ch,RC000889,citma
 ch,06712409,cilex_regulation
 nhsods,G82118,woodlands_health_centre_tonbridge
@@ -58828,3 +58837,6 @@ matuid,3225,gaet
 spuid,3224,gaet
 ch,06237630,gaet
 dpr,ZA149788,gaet
+ch,OC346845,local_partnerships_llp
+charity,SC011055,rtc
+ch,SC366380,rtc
