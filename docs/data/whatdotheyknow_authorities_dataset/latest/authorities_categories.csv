@@ -17,7 +17,7 @@ airport,Transport and infrastructure,Airport operators
 all_through,Education,All-through schools
 almo,Housing|Local and regional,Housing ALMOs
 ambulance_service,Emergency services|Health,Ambulance Services
-aolc,Local and regional,Associations of Local Councils
+aolc,Local and regional|Organisations whose members are public authorities,Associations of Local Councils
 aonbcb,Environment and conservation|Local and regional,Areas of Outstanding Natural Beauty Conservation Boards
 appeals_panel,Other,Appeals panel
 approved_regulator,"Law-making bodies, the courts and the legal system|Regulators and ombudsmen",Approved regulators of legal services
@@ -25,7 +25,7 @@ archive,Media and culture,Archives
 armed_forces,Military and security services,Armed Forces
 arts_body,Media and culture,Arts bodies
 assessor,Local and regional,Assessors for Valuation joint boards (Scotland)
-association,Organisations whose members are public authorities,Associations of public authorities
+association,Organisations whose members are public authorities,Other associations of public authorities
 auditor,Finance,Auditors
 awards_degrees,Education,Bodies that can award degrees
 awc,Defunct bodies,Agricultural wages committees
