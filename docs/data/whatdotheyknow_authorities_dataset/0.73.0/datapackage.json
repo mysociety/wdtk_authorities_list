@@ -64,7 +64,7 @@
             "title": "Public Authorities",
             "description": "WhatDoTheyKnow's list of UK public authorities",
             "custom": {
-                "row_count": 46074
+                "row_count": 46077
             },
             "path": "authorities.csv",
             "name": "authorities",
@@ -225,7 +225,7 @@
                     }
                 ]
             },
-            "hash": "37f342ada39cae913d7d77db6998bf10"
+            "hash": "b77b0db961f0465792700a03ef7d613f"
         },
         {
             "title": "Categories",
@@ -277,7 +277,7 @@
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 58842
+                "row_count": 58846
             },
             "path": "authorities_id_lookup.csv",
             "name": "authorities_id_lookup",
@@ -317,7 +317,7 @@
                     }
                 ]
             },
-            "hash": "bc39c8be60242e3cdd3c45f465fc1b9f"
+            "hash": "f5214f693d4b002cbcedd80d17d64d6c"
         }
     ]
 }
