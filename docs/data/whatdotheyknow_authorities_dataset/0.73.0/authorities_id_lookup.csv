@@ -1010,9 +1010,6 @@ mapit,2567,southampton_city_council
 gss,E06000033,southend_on_sea_city_council
 la,882,southend_on_sea_city_council
 mapit,2607,southend_on_sea_city_council
-gss,E06000033,southend_on_sea_city_council
-la,882,southend_on_sea_city_council
-mapit,2607,southend_on_sea_city_council
 dpr,Z5394246,southwark_borough_council
 gss,E09000028,southwark_borough_council
 la,210,southwark_borough_council
@@ -3011,9 +3008,9 @@ ch,06699696,the_national_museum_of_the_royal_navy
 charity,1126283,the_national_museum_of_the_royal_navy
 charity,259422,royal_marines_museum
 charity,1068419,royal_navy_submarine_museum
+gss,E04007706,whitby_town_council
 mapit,62486,whitby_town_council
 parent_mapit,2403,whitby_town_council
-gss,E04007706,whitby_town_council
 mapit,60237,east_grinstead_town_council
 parent_mapit,2466,east_grinstead_town_council
 gss,E04009986,east_grinstead_town_council
