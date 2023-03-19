@@ -1356,6 +1356,8 @@ dpr,Z7674926,northumbria_university
 dpr,Z7109967,nottingham_trent_university
 ch,RC000391,open_university
 dpr,Z5521375,open_university
+wikidata,Q2413375,open_university
+lcnaf,n79032959,open_university
 dpr,Z6569324,oxford_brookes_university
 ucas,O66,oxford_brookes_university
 ch,SC007335,queen_margaret_university_edinburgh
@@ -1382,6 +1384,7 @@ charity,SC016040,university_of_abertay_dundee
 dpr,Z596965X,university_of_abertay_dundee
 ucas,A30,university_of_abertay_dundee
 dpr,Z6195856,university_of_birmingham
+lcnaf,n80069075,university_of_birmingham
 dpr,Z5395727,university_of_brighton
 dpr,Z6650067,university_of_bristol
 dpr,Z5897539,university_of_cambridge
@@ -2600,6 +2603,8 @@ ch,RC000602,st_johns_college_durham
 charity,1141701,st_johns_college_durham
 dpr,Z7336887,spso
 coins,PPP004,ppp_arbiter
+ch,05014821,nepo
+vat,104107865,nepo
 ch,SC314764,apuc_limited
 ch,SC011421,north_ayrshire_municipal_bank_limited
 ch,SC011062,east_dunbartonshire_municipal_bank_limited
