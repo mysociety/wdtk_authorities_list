@@ -43,6 +43,7 @@ dpr,Z7459454,environment_agency
 dpr,Z7271689,general_register_office
 coins,COI010,coi
 dpr,Z5343420,mod
+wikidata,Q1143261,mod
 coins,DFT004,dft
 dpr,Z7122992,dft
 dpr,Z9642018,ago
@@ -1379,7 +1380,9 @@ dpr,Z6364106,ucl
 ucas,U80,ucl
 charity,SC013683,university_of_aberdeen
 dpr,Z7266585,university_of_aberdeen
+lcnaf,n79129623,university_of_aberdeen
 ucas,A20,university_of_aberdeen
+wikidata,Q270532,university_of_aberdeen
 charity,SC016040,university_of_abertay_dundee
 dpr,Z596965X,university_of_abertay_dundee
 ucas,A30,university_of_abertay_dundee
@@ -1630,6 +1633,7 @@ dpr,Z5640596,charity_commission
 dpr,Z7437265,commissioners_for_the_reduction_of_the_national_debt
 coins,CES014,the_crown_estate
 dpr,Z6390151,the_crown_estate
+lcnaf,no2002040541,the_crown_estate
 dpr,Z6538196,cps
 dpr,Z4775159,food_standards_agency
 dpr,Z6542658,forestry_commission
@@ -1687,8 +1691,11 @@ dpr,Z7056064,the_victoria_and_albert_museum
 coins,VAM048,the_victoria_and_albert_museum
 dpr,Z3509551,wilton_park
 dpr,Z5259422,national_archives
+lcnaf,nr2003012888,national_archives
+wikidata,Q392703,national_archives
 dpr,Z2179238,youth_justice_agency_for_northern_ireland
 dpr,Z5732169,land_registry
+wikidata,Q5635120,land_registry
 dpr,Z4927030,veterinary_medicines_directorate
 coins,VOS004,vosa
 coins,PAO063,intellectual_property_office
@@ -2714,6 +2721,7 @@ mapit,54129,kington_town_council
 parent_mapit,2571,kington_town_council
 gss,E04000790,kington_town_council
 ch,06720891,ukfi
+lcnaf,no95005814,duchy_of_lancaster
 ch,SC139240,eup
 mapit,54770,farnsfield_parish_council
 parent_mapit,2414,farnsfield_parish_council
@@ -5379,6 +5387,7 @@ mapit,53670,sandhoe_parish_council
 parent_mapit,2248,sandhoe_parish_council
 gss,E04010858,sandhoe_parish_council
 lei,549300HES5V0C74V4L64,duchy_of_cornwall
+lcnaf,n87938651,duchy_of_cornwall
 nhsorgcode,RTH,oxford_university_hospitals_nhs_foundation_trust
 dpr,ZA152461,oxford_university_hospitals_nhs_foundation_trust
 dpr,Z6726483,barnet_and_southgate_college
@@ -15818,6 +15827,7 @@ gss,E04012128,east_hendred_parish_council
 mapit,64527,dinas_powys_community_council_vale_of_glamorgan
 parent_mapit,2557,dinas_powys_community_council_vale_of_glamorgan
 gss,W04000653,dinas_powys_community_council_vale_of_glamorgan
+ch,1140097,church_commissioners
 urn,116418,portchester_community_school
 ch,05607780,forensic_archive_limited
 mapit,58875,minster_parish_council
@@ -26967,9 +26977,10 @@ gss,E04001326,whippingham_parish_council
 mapit,54695,wootton_bridge_parish_council
 parent_mapit,2636,wootton_bridge_parish_council
 gss,E04001317,wootton_bridge_parish_council
+gss,E04004013,abbess_beauchamp_and_berners_roding_parish_council
 mapit,61573,abbess_beauchamp_and_berners_roding_parish_council
 parent_mapit,2311,abbess_beauchamp_and_berners_roding_parish_council
-gss,E04004013,abbess_beauchamp_and_berners_roding_parish_council
+wikidata,Q104389372,abbess_beauchamp_and_berners_roding_parish_council
 mapit,58535,buckhurst_hill_parish_council
 parent_mapit,2311,buckhurst_hill_parish_council
 gss,E04004038,buckhurst_hill_parish_council
