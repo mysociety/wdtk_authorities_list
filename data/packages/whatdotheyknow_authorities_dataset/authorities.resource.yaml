@@ -1,7 +1,7 @@
 title: Public Authorities
 description: WhatDoTheyKnow's list of UK public authorities
 custom:
-  row_count: 46086
+  row_count: 46099
 path: authorities.csv
 name: authorities
 profile: tabular-data-resource
@@ -40,7 +40,7 @@ schema:
     description: "A list of tags that describe the authority. Pipe seperated.\n"
     constraints:
       unique: false
-    example: 16_plus|Academy_16-19_converter|Greenwich|academies|school|school_new_nov2020|urn:138966
+    example: 16_plus|16_plus|Academy_16-19_converter|Academy_16-19_converter|Hampshire|Hampshire|academies|academies|exempt_charity|exempt_charity|school|school|school_new_nov2020|school_new_nov2020|urn:145057|urn:145057
   - name: home-page
     type: string
     description: The home page of the authority.
@@ -80,7 +80,7 @@ schema:
     description: Date the authority's entry was last updated in this dataset
     constraints:
       unique: false
-    example: 2013-09-24 11:58:18 +0100
+    example: 2013-09-24 12:00:27 +0100
   - name: version
     type: integer
     description: The current version of this authority's entry in this dataset
@@ -116,4 +116,4 @@ schema:
     constraints:
       unique: false
     example: Central government
-hash: 0defe37dae5b23780cd2e9e798f2cd73
+hash: 427e1a9c9a5f60ea6cf619861ac921fb

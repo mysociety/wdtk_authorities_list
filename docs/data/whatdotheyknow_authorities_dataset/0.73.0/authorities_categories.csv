@@ -111,6 +111,7 @@ ifca,Environment and conservation,Inshore fisheries and conservation authorities
 ijbscot,Health|Local and regional|Organisations whose members are public authorities,Integration Joint Boards
 imb,"Law-making bodies, the courts and the legal system",Independent monitoring boards
 independent_panel,Defunct bodies,Independent panels
+independent_police,Emergency services,Other police forces/constabularies
 information_regulator,Regulators and ombudsmen,Information regulators
 inn_of_court,"Law-making bodies, the courts and the legal system",Inns of court
 inquiry,Other,Inquiries
@@ -143,6 +144,7 @@ lower_tier,Local and regional,Lower tier local authorities
 lsab,Local and regional,Local safeguarding adults boards
 lscb,Local and regional,Local safeguarding children boards
 lscp,Local and regional,Local Safeguarding Children Partnership
+main_police_force,Emergency services,Main police forces
 major_ae,Health,Bodies Responsible for Major A&E Departments
 mcz,Environment and conservation,Marine conservation zones
 media,Media and culture,Media organisations
@@ -204,9 +206,9 @@ police,Emergency services,Policing bodies
 police_authority,Defunct bodies,Police authorities
 police_crime_commissioner,Emergency services,Police and Crime Commissioners
 police_crime_panel,Emergency services,Police and Crime Panels
-police_force,Emergency services,Police forces
 police_regulator,Emergency services|Regulators and ombudsmen,Police regulators
 port_authority,Transport and infrastructure,Port authorities
+port_police,Emergency services,Port police forces
 private_business,Other,Private businesses to which requests cannot be made
 prob_board,"Law-making bodies, the courts and the legal system",Probation boards
 probation_trust,Defunct bodies,Probation trusts
