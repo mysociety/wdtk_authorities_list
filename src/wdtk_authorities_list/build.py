@@ -275,7 +275,7 @@ def create_id_lookup_from_tags():
     df = df.explode("ids")
     values = []
     for _, row in df.iterrows():
-        schema, schema_id = row["ids"].split(":")
+        schema, schema_id = row["ids"].replace("::", ":").split(":")
         values.append(
             {
                 "schema": schema,
