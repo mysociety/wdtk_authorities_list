@@ -1802,9 +1802,10 @@ wikidata,Q8034245,worcestershire_county_council
 lcnaf,n84163242,worcestershire_county_council
 dpr,Z6374116,worthing_borough_council
 gss,E07000229,worthing_borough_council
+lcnaf,no2015053020,worthing_borough_council
 mapit,2468,worthing_borough_council
 wikidata,Q55098923,worthing_borough_council
-lcnaf,no2015053020,worthing_borough_council
+archon,2692,worthing_borough_council
 coins,W522,wrexham_council
 dpr,Z6740850,wrexham_council
 gss,W06000006,wrexham_council
@@ -2525,8 +2526,8 @@ wikidata,Q920339,scottish_canals
 lcnaf,nr99019247,scottish_canals
 ch,04138203,royal_mail_group
 dpr,Z5374624,royal_mail_group
-wikidata,Q638098,royal_mail_group
 lcnaf,nb2005018508,royal_mail_group
+wikidata,Q638098,royal_mail_group
 wikidata,Q6670867,ltuc
 lcnaf,nb2011016272,ltuc
 wikidata,Q7268641,qcda
@@ -2824,6 +2825,7 @@ wikidata,Q5532084,general_osteopathic_council
 dpr,Z6823359,nursing_and_midwifery_council
 wikidata,Q19360000,nursing_and_midwifery_council
 dpr,Z6876954,royal_pharmaceutical_society
+wikidata,Q7374707,royal_pharmaceutical_society
 dpr,Z5663794,pharmaceutical_society_of_northern_ireland
 wikidata,Q7180743,pharmaceutical_society_of_northern_ireland
 dpr,Z5768569,social_care_wales
@@ -4675,8 +4677,8 @@ wikidata,Q6820576,merseyside_fire_and_rescue_service
 wikidata,Q4683468,ajtc
 lcnaf,no2008186932,ajtc
 dpr,Z7475057,hesa
-wikidata,Q5758120,hesa
 lcnaf,no98071269,hesa
+wikidata,Q5758120,hesa
 dpr,ZA619899,rcahmw
 wikidata,Q7374037,rcahmw
 lcnaf,n87948837,rcahmw
@@ -5457,9 +5459,9 @@ wikidata,Q4686830,acoba
 ch,06720891,ukfi
 wikidata,Q11251919,ukfi
 lcnaf,nb2017015597,ukfi
+archon,2578,duchy_of_lancaster
 lcnaf,no95005814,duchy_of_lancaster
 wikidata,Q2914544,duchy_of_lancaster
-archon,2578,duchy_of_lancaster
 wikidata,Q66135050,forefield_junior_school_crosby
 wikidata,Q5589010,goe
 ch,SC139240,eup
@@ -6077,8 +6079,9 @@ wikidata,Q3067228,pcc
 lcnaf,no2002046922,pcc
 wikidata,Q7280577,radiocentre
 wikidata,Q5130826,clearcast
-wikidata,Q1109101,college_of_arms
 lcnaf,n50072604,college_of_arms
+wikidata,Q1109101,college_of_arms
+archon,377,college_of_arms
 wikidata,Q50693680,libraries_ni
 wikidata,Q5153040,ccc
 lcnaf,no2012141233,ccc
@@ -6155,6 +6158,7 @@ wikidata,Q6017134,isa
 ch,06699696,the_national_museum_of_the_royal_navy
 charity,1126283,the_national_museum_of_the_royal_navy
 wikidata,Q6974518,the_national_museum_of_the_royal_navy
+archon,1070,the_national_museum_of_the_royal_navy
 charity,259422,royal_marines_museum
 wikidata,Q7374452,royal_marines_museum
 lcnaf,n86808218,royal_marines_museum
@@ -10324,10 +10328,10 @@ gss,E04010858,sandhoe_parish_council
 mapit,53670,sandhoe_parish_council
 parent_mapit,2248,sandhoe_parish_council
 wikidata,Q104383294,sandhoe_parish_council
+archon,1486,duchy_of_cornwall
 lcnaf,n87938651,duchy_of_cornwall
 lei,549300HES5V0C74V4L64,duchy_of_cornwall
 wikidata,Q876107,duchy_of_cornwall
-archon,1486,duchy_of_cornwall
 dpr,ZA152461,oxford_university_hospitals_nhs_foundation_trust
 nhsorgcode,RTH,oxford_university_hospitals_nhs_foundation_trust
 wikidata,Q16976147,oxford_university_hospitals_nhs_foundation_trust
@@ -10634,6 +10638,7 @@ dpr,Z8909702,the_dudley_group_nhs_foundation_trust
 nhsorgcode,RNA,the_dudley_group_nhs_foundation_trust
 wikidata,Q17060399,the_dudley_group_nhs_foundation_trust
 ch,03677186,national_fire_chiefs_council
+wikidata,Q104864117,national_fire_chiefs_council
 wikidata,Q5463432,n8
 wikidata,Q7894508,university_alliance
 wikidata,Q1024681,million
@@ -28284,6 +28289,7 @@ parent_mapit,2605,holywell_town_council_flintshire
 wikidata,Q104395157,holywell_town_council_flintshire
 wikidata,Q7366229,rooks_heath_college
 ch,OC359627,geoplace_llp
+ch,02690488,cswdc
 gss,W04000105,abergele_town_council_conwy
 mapit,64234,abergele_town_council_conwy
 parent_mapit,2570,abergele_town_council_conwy
@@ -31298,8 +31304,8 @@ wikidata,Q66008076,cyfarthfa_park_primary_school_merthyr_tydfil
 wikidata,Q66008676,dowlais_primary_school_merthyr_tydfil
 wikidata,Q66008572,edwardsville_primary_school_treharris
 wikidata,Q66008080,gellifaelog_primary_school_merthyr_tydfil
-wikidata,Q43274,duke_of_cornwall
 lcnaf,n78089005,duke_of_cornwall
+wikidata,Q43274,duke_of_cornwall
 wikidata,Q66008697,goetre_primary_school_merthyr_tydfil
 wikidata,Q66008084,gwaunfarren_primary_school_merthyr_tydfil
 wikidata,Q66008085,heolgerrig_community_school_merthyr_tydfil
@@ -42497,6 +42503,7 @@ parent_mapit,2474,hallow_parish_council_malvern_hills
 wikidata,Q104388878,hallow_parish_council_malvern_hills
 dpr,ZA206071,menorah_high_school_for_girls_dollis_hill
 urn,142627,menorah_high_school_for_girls_dollis_hill
+wikidata,Q7832231,ctsi
 dpr,ZA006743,ormiston_swb_academy_bilston
 urn,145008,ormiston_swb_academy_bilston
 wikidata,Q7568959,ormiston_swb_academy_bilston
@@ -59519,6 +59526,8 @@ ch,03511659,water_plus_select_limited
 ch,08518831,water_2_business_limited
 ch,02948891,waterscan_limited
 ch,09918643,yu_water_limited
+wikidata,Q5146686,royal_college_of_emergency_medicine
+lcnaf,nb2018005291,royal_college_of_emergency_medicine
 mapit,64195,faenor_community_council
 parent_mapit,2640,faenor_community_council
 gss,W04000367,faenor_community_council
