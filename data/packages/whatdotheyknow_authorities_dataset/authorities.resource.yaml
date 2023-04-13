@@ -1,7 +1,7 @@
 title: Public Authorities
 description: WhatDoTheyKnow's list of UK public authorities
 custom:
-  row_count: 46104
+  row_count: 46106
 path: authorities.csv
 name: authorities
 profile: tabular-data-resource
@@ -116,4 +116,4 @@ schema:
     constraints:
       unique: false
     example: Central government
-hash: 1b9c98fd63da97dbc055833df80379a9
+hash: 9defcd6f8f65ccf77c28641abf17e269
