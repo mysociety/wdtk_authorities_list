@@ -48019,7 +48019,6 @@ urn,147135,st_annes_catholic_primary_school_gateshead
 urn,145576,st_botolphs_ce_academy_knottingley
 urn,145576,st_botolphs_ce_academy_knottingley
 urn,140589,st_chads_church_of_england_primary_school_oldham
-urn,140589,st_chads_church_of_england_primary_school_oldham
 urn,142271,east_crompton_st_georges_cofe_school_oldham
 urn,147483,st_urbans_catholic_primary_school_a_voluntary_academy_leeds
 urn,147483,st_urbans_catholic_primary_school_a_voluntary_academy_leeds
@@ -77111,6 +77110,9 @@ charity,803480,att
 ch,03401440,unipol
 charity,1063492,unipol
 dpr,Z4812961,unipol
+wikidata,Q116726347,dbt
+predecessor,beis,dbt
+predecessor,dit,dbt
 dpr,Z1257844,wiveliscombe_town_council
 mapit,61524,wiveliscombe_town_council
 gss,E04008825,wiveliscombe_town_council
@@ -77138,9 +77140,9 @@ ch,OC346845,local_partnerships_llp
 charity,SC011055,rtc
 ch,SC366380,rtc
 ch,05735093,laidlaw_schools_trust
+dpr,ZB187486,laidlaw_schools_trust
 matuid,3677,laidlaw_schools_trust
 spuid,3676,laidlaw_schools_trust
-dpr,ZB187486,laidlaw_schools_trust
 ch,08500937,wsalc
 ch,SP1767RS,places_for_people_scotland
 dpr,Z6808398,places_for_people_scotland
