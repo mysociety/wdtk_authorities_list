@@ -59327,8 +59327,10 @@ twitter,CapitalCityPart,capital_city_partnership
 ch,SC131773,eicc
 dpr,ZA361911,eicc
 twitter,EICC,eicc
-CH,10719214,odstl
-CH,10719222,odsl
+ch,10719214,odstl
+dpr,ZA355161,odstl
+ch,10719222,odsl
+dpr,ZA355113,odsl
 charity,SC014738,hanover_scotland_housing_association
 shr,124,hanover_scotland_housing_association
 dh,1983RS,hanover_scotland_housing_association
