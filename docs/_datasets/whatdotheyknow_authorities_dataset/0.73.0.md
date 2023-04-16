@@ -164,12 +164,12 @@ resources:
       constraints:
         unique: false
       example: Central government
-  hash: b1f41d909edf3fb360364b7f682cb6f3
+  hash: 686d3944dc99889166d158f0768c967a
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
   custom:
-    row_count: 292
+    row_count: 293
   path: authorities_categories.csv
   name: authorities_categories
   profile: tabular-data-resource
@@ -198,7 +198,7 @@ resources:
       constraints:
         unique: true
       example: Academies
-  hash: c01404ee0f2a317744063f39c5b140b8
+  hash: c99ccd94c9d7dc05bae1b19d2dd86a70
 - title: Public authority ID lookup
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
