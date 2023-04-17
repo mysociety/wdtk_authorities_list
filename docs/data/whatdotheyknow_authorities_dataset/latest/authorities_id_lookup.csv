@@ -4396,8 +4396,8 @@ charity,SC003712,sac
 ucas,S01,sac
 wikidata,Q7437609,sac
 dpr,Z5419651,ials
-wikidata,Q14566210,ials
 lcnaf,n50045491,ials
+wikidata,Q14566210,ials
 dpr,Z5419651,school_of_advanced_study
 wikidata,Q2248856,school_of_advanced_study
 lcnaf,no95056660,school_of_advanced_study
@@ -77175,3 +77175,8 @@ gphc,1122210,phlo_digital_pharmacy
 dpr,ZA265189,phlo_digital_pharmacy
 charity,SC008428,craighalbert_centre
 ch,129291,craighalbert_centre
+matuid,2386,bourne_education_trust
+spuid,2385,bourne_education_trust
+ch,07768726,bourne_education_trust
+dpr,ZA059457,bourne_education_trust
+ch,08705643,innovate_uk_ktn
