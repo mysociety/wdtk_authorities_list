@@ -1685,11 +1685,11 @@ gss,E09000031,waltham_forest_borough_council
 la,320,waltham_forest_borough_council
 mapit,2496,waltham_forest_borough_council
 wikidata,Q7966606,waltham_forest_borough_council
-dpr,Z4600177,wandsworth_borough_council
-gss,E09000032,wandsworth_borough_council
-la,212,wandsworth_borough_council
-mapit,2501,wandsworth_borough_council
-wikidata,Q7967311,wandsworth_borough_council
+dpr,Z4600177,wandsworth_council
+gss,E09000032,wandsworth_council
+la,212,wandsworth_council
+mapit,2501,wandsworth_council
+wikidata,Q7967311,wandsworth_council
 dpr,Z4794892,warrington_borough_council
 gss,E06000007,warrington_borough_council
 la,877,warrington_borough_council
@@ -77182,3 +77182,7 @@ spuid,2385,bourne_education_trust
 ch,07768726,bourne_education_trust
 dpr,ZA059457,bourne_education_trust
 ch,08705643,innovate_uk_ktn
+ch,10688097,university_of_york_students_union
+charity,173404,university_of_york_students_union
+VAT,272458389,university_of_york_students_union
+parent,university_of_york,university_of_york_students_union
