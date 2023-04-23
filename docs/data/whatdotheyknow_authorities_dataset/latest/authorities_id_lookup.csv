@@ -3123,8 +3123,8 @@ dpr,Z4894366,west_yorkshire_police
 wikidata,Q7987045,west_yorkshire_police
 coins,RMT087,royal_mint
 dpr,Z2075700,royal_mint
-wikidata,Q951830,royal_mint
 lcnaf,n50074384,royal_mint
+wikidata,Q951830,royal_mint
 dpr,Z4787415,the_pensions_regulator
 wikidata,Q7756572,the_pensions_regulator
 wikidata,Q104780121,uk_transplant
@@ -5446,13 +5446,13 @@ gss,E04000172,baildon_parish_council
 mapit,60822,baildon_parish_council
 parent_mapit,2516,baildon_parish_council
 wikidata,Q104383378,baildon_parish_council
-wikidata,Q222595,army
 lcnaf,n79063282,army
-wikidata,Q172771,navy
+wikidata,Q222595,army
 lcnaf,n79006861,navy
+wikidata,Q172771,navy
 wikidata,Q1046947,marines
-wikidata,Q165862,raf
 lcnaf,n80125861,raf
+wikidata,Q165862,raf
 gss,E04000790,kington_town_council
 mapit,54129,kington_town_council
 parent_mapit,2571,kington_town_council
