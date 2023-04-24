@@ -225,7 +225,7 @@
                     }
                 ]
             },
-            "hash": "c44c14f5bd0d4c06cf5f9e58237985a2"
+            "hash": "5eaacd637d1b041a6a234d5073bd345c"
         },
         {
             "title": "Categories",
@@ -277,7 +277,7 @@
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 77188
+                "row_count": 77189
             },
             "path": "authorities_id_lookup.csv",
             "name": "authorities_id_lookup",
@@ -317,7 +317,7 @@
                     }
                 ]
             },
-            "hash": "110721f3486f5472dbd3e0937c42a0c5"
+            "hash": "8de3c3196270cb5d56fadbbe47f3b015"
         }
     ]
 }
