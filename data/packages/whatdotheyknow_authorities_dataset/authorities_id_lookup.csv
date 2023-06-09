@@ -60848,7 +60848,8 @@ https,//www.gov.uk/government/uploads/system/uploads/attachment_data/file/366824
 https,//www.gov.uk/government/uploads/system/uploads/attachment_data/file/366824/lfjb-boards-contacts.XLS,swansea_and_west_wales_local_family_justice_board
 ch,02502331,brighter_futures_for_children_limited
 ICBCode,QKK,nhs_south_east_london_integrated_care_board
-ICBCode,QMF,nhs_north_east_london_integrated_care_board
+ICBCode,QMF,nhs_north_east_london
+dpr,ZB387865,nhs_north_east_london
 ICBCode,QMJ,nhs_north_central_london_integrated_care_board
 ICBCode,QRV,nhs_north_west_london_integrated_care_board
 ICBCode,QWE,nhs_south_west_london_integrated_care_board
@@ -60860,6 +60861,7 @@ dpr,ZB363198,nhs_somerset_integrated_care_board
 ICBCode,QT6,nhs_cornwall_and_the_isles_of_scilly_integrated_care_board
 ICBCode,QVV,nhs_dorset
 ICBCode,QKS,nhs_kent_and_medway_integrated_care_board
+dpr,ZB346663,nhs_kent_and_medway_integrated_care_board
 ICBCode,QNQ,nhs_frimley
 ICBCode,QNX,nhs_sussex_integrated_care_board
 ICBCode,QNX,nhs_hampshire_and_isle_of_wight_integrated_care_board
@@ -60880,6 +60882,7 @@ ICBCode,QK1,nhs_coventry_and_warwickshire_integrated_care_board
 ICBCode,QK1,nhs_mid_and_south_essex_integrated_care_board
 ICBCode,QNC,blmk_icb
 ICBCode,QNC,nhs_suffolk_and_north_east_essex_integrated_care_board
+dpr,ZB340189,nhs_suffolk_and_north_east_essex_integrated_care_board
 ICBCode,QNC,nhs_hertfordshire_and_west_essex_integrated_care_board
 ICBCode,QNC,nhs_norfolk_and_waveney_integrated_care_board
 ICBCode,QNC,nhs_cambridgeshire_and_peterborough_integrated_care_board
