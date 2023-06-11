@@ -4916,8 +4916,8 @@ wikidata,Q181461,downing_college_cambridge
 lcnaf,nr88004365,downing_college_cambridge
 charity,1137456,emmanuel_college_cambridge
 dpr,Z5603995,emmanuel_college_cambridge
-wikidata,Q797892,emmanuel_college_cambridge
 lcnaf,n82095027,emmanuel_college_cambridge
+wikidata,Q797892,emmanuel_college_cambridge
 charity,1137496,fitzwilliam_college_cambridge
 wikidata,Q797897,fitzwilliam_college_cambridge
 lcnaf,nb2006025966,fitzwilliam_college_cambridge
@@ -77290,6 +77290,8 @@ ch,07689815,durham_students_union
 charity,1145400,durham_students_union
 vat,119736690,durham_students_union
 ch,7759820,university_of_manchester_students_union
+ch,10279393,university_of_derby_students_union
+charity,1169283,university_of_derby_students_union
 charity,1148574,aru_students_union
 ch,08064796,aru_students_union
 charity,1148574,york_st_john_students_union

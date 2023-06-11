@@ -40,7 +40,7 @@ schema:
     description: "A list of tags that describe the authority. Pipe seperated.\n"
     constraints:
       unique: false
-    example: 10279393|1169283|ch|charity|foi_no|students_union|students_union_note
+    example: 16_plus|16_plus|Academy_16-19_converter|Academy_16-19_converter|Hampshire|Hampshire|academies|academies|exempt_charity|exempt_charity|school|school|school_new_nov2020|school_new_nov2020|urn:145057|urn:145057
   - name: home-page
     type: string
     description: The home page of the authority.
@@ -116,4 +116,4 @@ schema:
     constraints:
       unique: false
     example: Central government
-hash: 67df5ea248b84e236792557ce12c184e
+hash: f54606d816515c1d1ae2729ced4c1a6d
