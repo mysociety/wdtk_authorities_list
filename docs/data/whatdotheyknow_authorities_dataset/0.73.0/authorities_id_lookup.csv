@@ -5156,6 +5156,7 @@ wikidata,Q17128135,low_pay_commission
 wikidata,Q104763418,eaga
 urn,130534,shipley_college
 wikidata,Q7498015,shipley_college
+dpr,Z5596380,shipley_college
 wikidata,Q50508097,ealing_hospital_nhs_trust
 nhsorgcode,RWA,hull_university_teaching_hospitals_nhs_trust
 wikidata,Q5936029,hull_university_teaching_hospitals_nhs_trust
@@ -12217,8 +12218,8 @@ wikidata,Q16257704,joint_council_for_qualifications
 lcnaf,no2008186853,joint_council_for_qualifications
 ch,02154540,post_office
 dpr,Z4866081,post_office
-wikidata,Q1783168,post_office
 lcnaf,n2006002070,post_office
+wikidata,Q1783168,post_office
 gss,E04011556,st_ives_town_council_cornwall
 mapit,59576,st_ives_town_council_cornwall
 parent_mapit,2250,st_ives_town_council_cornwall
