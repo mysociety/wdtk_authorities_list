@@ -1242,9 +1242,9 @@ wikidata,Q7305508,redbridge_borough_council
 dpr,Z6933517,redcar_and_cleveland_borough_council
 gss,E06000003,redcar_and_cleveland_borough_council
 la,807,redcar_and_cleveland_borough_council
+lcnaf,nb2004301356,redcar_and_cleveland_borough_council
 mapit,2597,redcar_and_cleveland_borough_council
 wikidata,Q17019415,redcar_and_cleveland_borough_council
-lcnaf,nb2004301356,redcar_and_cleveland_borough_council
 dpr,Z5554276,redditch_borough_council
 gss,E07000236,redditch_borough_council
 mapit,2479,redditch_borough_council
@@ -77139,6 +77139,7 @@ charity,803480,att
 ch,03401440,unipol
 charity,1063492,unipol
 dpr,Z4812961,unipol
+dpr,ZB546214,desnz
 wikidata,Q116726347,dbt
 predecessor,beis,dbt
 predecessor,dit,dbt
@@ -77327,3 +77328,12 @@ charity,1136468,university_of_exeter_students_guild
 charity,1149394,greenwich_students_union
 ch,07990838,greenwich_students_union
 vat,206396759,greenwich_students_union
+ch,08961281,electricity_settlements_company
+dpr,ZA114242,electricity_settlements_company
+ch,08818711,lccc
+dpr,ZA062532,lccc
+ch,10464111,lancaster_university_students_union
+charity,1136894,warwick_students_union
+ch,7297865,warwick_students_union
+vat,705318457,warwick_students_union
+charity,1086947,skills_and_education_group_awards
