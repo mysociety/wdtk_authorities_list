@@ -49,7 +49,7 @@ resources:
 - title: Public Authorities
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
-    row_count: 46191
+    row_count: 46206
   path: authorities.csv
   name: authorities
   profile: tabular-data-resource
@@ -88,7 +88,7 @@ resources:
       description: "A list of tags that describe the authority. Pipe seperated.\n"
       constraints:
         unique: false
-      example: 04117784|ch|charity:1086947|exam_board|foi_no|limited
+      example: 16_plus|16_plus|Academy_16-19_converter|Academy_16-19_converter|Hampshire|Hampshire|academies|academies|exempt_charity|exempt_charity|school|school|school_new_nov2020|school_new_nov2020|urn:145057|urn:145057
     - name: home-page
       type: string
       description: The home page of the authority.
@@ -164,7 +164,7 @@ resources:
       constraints:
         unique: false
       example: Central government
-  hash: dab00e0d4ce5f0183710cb2d62c2e244
+  hash: 243e8cabf356cf0e4aa2557dedc06701
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
@@ -203,7 +203,7 @@ resources:
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
   custom:
-    row_count: 77339
+    row_count: 77367
   path: authorities_id_lookup.csv
   name: authorities_id_lookup
   profile: tabular-data-resource
@@ -231,7 +231,7 @@ resources:
       constraints:
         unique: false
       example: 131_dental_rotherham
-  hash: f8f17ed88802949cfead8a45771a2b4f
+  hash: 0b10f004bc1cd3513b1d5e0db84524a3
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
 ---
