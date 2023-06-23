@@ -5023,8 +5023,8 @@ wikidata,Q2487309,mansfield_college
 wikidata,Q81087,university_college
 lcnaf,n83212157,university_college
 wikidata,Q1376987,new_college
-wikidata,Q73094,queens_college
 lcnaf,n82116964,queens_college
+wikidata,Q73094,queens_college
 charity,1139726,wadham_college
 wikidata,Q2537765,wadham_college
 lcnaf,n83231940,wadham_college
@@ -6053,8 +6053,8 @@ parent_mapit,2414,blidworth_parish_council
 wikidata,Q104383358,blidworth_parish_council
 wikidata,Q104782089,waterwatch_scotland
 wikidata,Q104782093,heacs
-wikidata,Q6302842,judicial_appointments_board_for_scotland
 lcnaf,no2007102381,judicial_appointments_board_for_scotland
+wikidata,Q6302842,judicial_appointments_board_for_scotland
 wikidata,Q104782096,acsssi
 wikidata,Q7495658,shetland_college
 charity,SC021181,south_lanarkshire_college
@@ -8144,6 +8144,7 @@ gss,E04006513,barnham_broom_parish_council
 mapit,56920,barnham_broom_parish_council
 parent_mapit,2388,barnham_broom_parish_council
 wikidata,Q104383313,barnham_broom_parish_council
+dpr,Z5692844,port_of_cromarty_firth
 wikidata,Q105453364,falmouth_harbour_commissioners
 wikidata,Q105882558,fraserburgh_harbour_commissioners
 dpr,Z862251X,montrose_port_authority
@@ -77152,7 +77153,7 @@ ch,OC380846,milton_keynes_development_partnership_llp
 ch,12534607,developmk
 ch,13275949,brookes_union
 charity,1194635,brookes_union
-su_parent,PublicBody/534,brookes_union
+su_parent,university_of_oxford,brookes_union
 ch,10221189,icat
 dpr,ZA262520,icat
 matuid,16301,icat
