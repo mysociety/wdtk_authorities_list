@@ -73,9 +73,9 @@ dpr,ZA469810,companies_house
 wikidata,Q257303,companies_house
 lcnaf,no95039655,companies_house
 coins,BBC048,bbc
-lei,5493000IBP32UQZ0KL24,bbc
 dpr,Z517352X,bbc
 lcnaf,n79074359,bbc
+lei,5493000IBP32UQZ0KL24,bbc
 wikidata,Q9531,bbc
 dpr,Z7459454,environment_agency
 wikidata,Q5381011,environment_agency
@@ -77367,3 +77367,12 @@ charity,1139462,your_students_union
 ch,07366779,your_students_union
 ch,07623917,uclan_students_union
 charity,1142616,uclan_students_union
+ch,7303101,university_of_leicester_students_union
+charity,1137811,university_of_leicester_students_union
+su_parent,university_of_leicester,university_of_leicester_students_union
+ch,11972527,middlesex_university_students_union
+charity,1183433,middlesex_university_students_union
+charity,1183625,loughborough_students_union
+ch,12000783,loughborough_students_union
+ch,08738730,ntsu
+charity,1154401,ntsu
