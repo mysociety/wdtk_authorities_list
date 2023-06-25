@@ -5414,6 +5414,7 @@ ch,05063751,hfi
 wikidata,Q6391508,kensington_and_chelsea_tmo
 ch,05435061,northwards_housing
 dpr,Z9400719,northwards_housing
+owned_by,manchester_city_council,northwards_housing
 wikidata,Q7404875,salix_homes
 ch,IP031419,south_lakes_housing
 ch,04521257,stockport_homes_limited
@@ -42723,9 +42724,9 @@ gss,E04004138,hatfield_heath_parish_council
 mapit,57727,hatfield_heath_parish_council
 parent_mapit,2313,hatfield_heath_parish_council
 wikidata,Q104390167,hatfield_heath_parish_council
+gss,E04004139,hempstead_parish_council_essex
 mapit,61736,hempstead_parish_council_essex
 parent_mapit,2313,hempstead_parish_council_essex
-gss,E04004139,hempstead_parish_council_essex
 gss,E04013155,henham_parish_council
 mapit,165771,henham_parish_council
 parent_mapit,2313,henham_parish_council
@@ -59279,9 +59280,9 @@ ch,07705552,alpha_mat
 ch,SC450732,abellio_scotrail_limited
 dpr,ZA083800,abellio_scotrail_limited
 twitter,ScotRail,abellio_scotrail_limited
-ch,SC477821,caledonian_sleeper
-dpr,ZA230827,caledonian_sleeper
-twitter,CalSleeper,caledonian_sleeper
+ch,SC477821,serco_caledonian_sleepers_limited
+dpr,ZA230827,serco_caledonian_sleepers_limited
+twitter,CalSleeper,serco_caledonian_sleepers_limited
 ch,12619906,tfw_rail
 dpr,ZA856002,tfw_rail
 ch,07861414,greater_anglia
@@ -77164,7 +77165,8 @@ ch,08166526,crst
 dpr,ZA174689,crst
 matuid,4335,crst
 spuid,17639,crst
-ch,SC328825,caledonian_sleeper_limited
+ch,SC328825,caledonian_sleeper
+twitter,CalSleeper,caledonian_sleeper
 matuid,3225,gaet
 spuid,3224,gaet
 ch,06237630,gaet
@@ -77376,3 +77378,14 @@ charity,1183625,loughborough_students_union
 ch,12000783,loughborough_students_union
 ch,08738730,ntsu
 charity,1154401,ntsu
+charity,1158523,reading_university_students_union
+charity,1142479,university_of_surrey_students_union
+ch,07470232,university_of_surrey_students_union
+charity,1153350,solent_students_union
+charity,1173330,staffordshire_university_students_union
+su_parent,staffordshire_university,staffordshire_university_students_union
+ch,8158543,uwlsu
+charity,1173328,keele_su
+ch,13353590,south_bank_students_union
+charity,1194509,south_bank_students_union
+vat,264339492,south_bank_students_union
