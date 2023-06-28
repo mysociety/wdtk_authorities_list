@@ -6096,9 +6096,9 @@ wikidata,Q3067228,pcc
 lcnaf,no2002046922,pcc
 wikidata,Q7280577,radiocentre
 wikidata,Q5130826,clearcast
+archon,377,college_of_arms
 lcnaf,n50072604,college_of_arms
 wikidata,Q1109101,college_of_arms
-archon,377,college_of_arms
 wikidata,Q50693680,libraries_ni
 wikidata,Q5153040,ccc
 lcnaf,no2012141233,ccc
@@ -38466,8 +38466,8 @@ gss,E04012296,qpcc
 mapit,144483,qpcc
 parent_mapit,2504,qpcc
 wikidata,Q104598743,qpcc
-wikidata,Q5038430,cardiff_high_school
 lcnaf,no2017097594,cardiff_high_school
+wikidata,Q5038430,cardiff_high_school
 wikidata,Q4917905,bishop_of_llandaf_church_in_wales_school
 lcnaf,no2018142459,bishop_of_llandaf_church_in_wales_school
 wikidata,Q16994942,inspiration_trust
@@ -77401,3 +77401,12 @@ ch,14060497,university_of_sheffield_students_union
 charity,1199051,university_of_sheffield_students_union
 wikidata,Q7896295,university_of_sheffield_students_union
 charity,1195544,liverpool_hope_students_union
+unit,royal_household,central_chancery_of_the_orders_of_knighthood
+ch,09019453,northampton_partnership_homes
+dpr,ZA092170,northampton_partnership_homes
+ch,11471132,happy_to_help_cic
+dpr,ZA483011,happy_to_help_cic
+charity,1189547,bath_spa_university_students_union
+charity,1149397,chester_students_union
+ch,7623621,chester_students_union
+charity,1184182,leeds_trinity_students_union

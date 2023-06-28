@@ -1,6 +1,7 @@
 category-tag,top-level-category,category-name
 ACJPS,"Law-making bodies, the courts and the legal system",Advisory Committees on Justices of the Peace
 CRC,"Law-making bodies, the courts and the legal system",Community Rehabilitation Companies
+Heraldic_authorities,Royal and ceremonial,Heraldic authorities
 LEP,Local and regional,Local Enterprise Partnerships
 MDC,Local and regional,Mayoral development corporation
 NHSScotland,Health,NHS Scotland
@@ -66,7 +67,7 @@ district_level_functions,Local and regional,Councils with district-level functio
 district_level_functions_england,Local and regional,Councils with district-level functions in England
 dno,Energy and utilities,Electricity distribution network operators
 dpp,Defunct bodies,District policing partnerships
-duchy,Other,Royal duchies
+duchy,Royal and ceremonial,Royal duchies
 durham_college,Education,Durham colleges
 east_midlands,Local and regional,Local councils (East Midlands)
 east_of_england,Local and regional,Local councils (East of England)
@@ -98,6 +99,7 @@ healthwatch,Health,Healthwatch organisations
 hei,Education,Higher education institutions
 highways,Local and regional|Transport and infrastructure,Highways Operators
 his,Health,Health Informatic Services
+honours_system,Royal and ceremonial,Honours system
 hospital_trust,Health,Hospital trusts
 housing_association,Housing,Housing associations
 housing_regulator,Housing|Regulators and ombudsmen,Housing regulators
@@ -130,7 +132,7 @@ lgps_pool,Local and regional,Local Government Pension Scheme Investment Pools
 lib_board,Defunct bodies,Education and library boards
 library,Media and culture,Libraries
 licensing_board,Local and regional,Licensing boards (Scotland)
-lieutenancy,"Law-making bodies, the courts and the legal system",Lieutenancies
+lieutenancy,Royal and ceremonial,Lieutenancies
 limited,By legal form/status,Limited companies
 limited_by_guarantee,By legal form/status,Companies limited by guarantee
 llp,By legal form/status,Limited liability partnerships
