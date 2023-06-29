@@ -5174,8 +5174,8 @@ lcnaf,nb2009019519,university_hospitals_plymouth_nhs_trust
 nhsorgcode,RK5,sherwood_forest_hospitals_nhs_foundation_trust
 wikidata,Q17020997,sherwood_forest_hospitals_nhs_foundation_trust
 lcnaf,nb2012014317,sherwood_forest_hospitals_nhs_foundation_trust
-wikidata,Q7437713,sepa
 lcnaf,no97050001,sepa
+wikidata,Q7437713,sepa
 ch,03344583,acpo
 wikidata,Q265339,acpo
 wikidata,Q3402788,wycliffe_hall
@@ -27793,8 +27793,8 @@ vat,726020276,citizens_advice
 wikidata,Q5122657,citizens_advice
 lcnaf,n79120344,citizens_advice
 dpr,Z3564933,natural_resources_wales
-wikidata,Q6980600,natural_resources_wales
 lcnaf,nb2013019723,natural_resources_wales
+wikidata,Q6980600,natural_resources_wales
 wikidata,Q20707562,gloucestershire_care_services_nhs_trust
 gss,E04001712,hilton_parish_council
 mapit,57922,hilton_parish_council
@@ -42362,7 +42362,7 @@ gss,W04000531,llangunnor_community_council
 mapit,64860,llangunnor_community_council
 parent_mapit,2604,llangunnor_community_council
 wikidata,Q104598738,llangunnor_community_council
-wikidata,Q105099550,office_for_product_safety_and_standards
+wikidata,Q105099550,opss
 unit,oasis_community_learning,oasis_academy_arena
 wikidata,Q66230272,oasis_academy_arena
 unit,oasis_community_learning,oasis_academy_byron
