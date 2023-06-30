@@ -1,7 +1,7 @@
 category-tag,top-level-category,category-name
 ACJPS,"Law-making bodies, the courts and the legal system",Advisory Committees on Justices of the Peace
 CRC,"Law-making bodies, the courts and the legal system",Community Rehabilitation Companies
-Heraldic_authorities,Royal and ceremonial,Heraldic authorities
+Heraldic_authorities,Regulators and ombudsmen|Royal and ceremonial,Heraldic authorities
 LEP,Local and regional,Local Enterprise Partnerships
 MDC,Local and regional,Mayoral development corporation
 NHSScotland,Health,NHS Scotland
@@ -75,6 +75,7 @@ edascot,Local and regional,Economic development agencies (Scotland)
 education_regulator,Education|Regulators and ombudsmen,Education regulators
 endpb,Central government,Executive non-departmental public bodies
 endpbscot,Central government,Executive non-departmental public bodies in Scotland
+environmental_regulator,Regulators and ombudsmen,Environmental regulators
 estate_management_scheme,Local and regional,Operators of Estate Management Schemes
 exam_board,Education,Exam boards
 executive_agency,Central government,Executive agencies
@@ -255,7 +256,7 @@ sports_governing_body,Recreation,Sports governing bodies
 srp,Transport and infrastructure,Safer Roads Partnership
 statutory_corporation,By legal form/status,Statutory corporations
 stb,Transport and infrastructure,Sub-national transport bodies
-sthf_imb,Regulators and ombudsmen,Independent Monitoring Boards for Short-term Holding Facilities
+sthf_imb,"Law-making bodies, the courts and the legal system",Independent Monitoring Boards for Short-term Holding Facilities
 stp,Health,Sustainability and Transformation Partnerships
 students_union,Education,Students' unions
 support_for_parliament,"Law-making bodies, the courts and the legal system",Bodies that support the work of parliaments

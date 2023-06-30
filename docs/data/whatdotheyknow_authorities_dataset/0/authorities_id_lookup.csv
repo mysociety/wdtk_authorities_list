@@ -3382,6 +3382,7 @@ wikidata,Q6974824,npsa
 lcnaf,n2004123805,npsa
 dpr,Z8959110,nhs_digital
 wikidata,Q6030681,nhs_digital
+successor,nhs_england,nhs_digital
 wikidata,Q6979031,nta
 lcnaf,nb2005015119,nta
 wikidata,Q6817405,mhac
@@ -5643,6 +5644,7 @@ gss,E04006762,rushden_town_council
 mapit,55891,rushden_town_council
 parent_mapit,164185,rushden_town_council
 wikidata,Q104382922,rushden_town_council
+successor,nhs_england,ukfpo
 wikidata,Q3102478,niea
 ch,04650964,partnerships_for_schools
 wikidata,Q105099660,olscc
@@ -11510,6 +11512,7 @@ wikidata,Q16998983,nhs_tda
 wikidata,Q7787029,thomas_alleynes_high_school
 ch,04503052,numark
 vat,655067428,numark
+successor,nhs_england,hee
 urn,144813,hee
 wikidata,Q13576286,hee
 wikidata,Q6900469,monitor
@@ -27774,7 +27777,20 @@ dpr,Z3612219,nhs_east_staffordshire_ccg
 nhsorg,05D,nhs_east_staffordshire_ccg
 nhsorgid,109541,nhs_east_staffordshire_ccg
 wikidata,Q21685283,nhs_east_staffordshire_ccg
+successor,nhs_england,health_education_east_midlands
+successor,nhs_england,health_education_east_of_england
+successor,nhs_england,health_education_yorkshire_and_the_humber
+successor,nhs_england,health_education_wessex
+successor,nhs_england,health_education_thames_valley
+successor,nhs_england,health_education_north_west_london
+successor,nhs_england,health_education_south_london
+successor,nhs_england,health_education_north_central_and_east_london
+successor,nhs_england,health_education_kent_surrey_and_sussex
+successor,nhs_england,health_education_north_east
+successor,nhs_england,health_education_north_west
 wikidata,Q30263789,health_education_north_west
+successor,nhs_england,health_education_england_west_midlands
+successor,nhs_england,health_education_south_west
 wikidata,Q21685287,nhs_erewash_ccg
 wikidata,Q21685235,bexley_ccg
 wikidata,Q21685241,nhs_bracknell_and_ascot_ccg
@@ -48244,7 +48260,6 @@ urn,145540,rose_hill_primary_ipswich
 urn,145630,castle_batch_primary_school_academy_weston_super_mare
 urn,147147,st_john_boste_catholic_primary_school_washington
 urn,142452,westerton_primary_academy_wakefield
-urn,142452,westerton_primary_academy_wakefield
 urn,138965,barwell_church_of_england_academy_leicester
 urn,146841,pye_bank_cofe_primary_school_sheffield
 urn,146841,pye_bank_cofe_primary_school_sheffield
@@ -58519,7 +58534,6 @@ urn,141175,priory_school_southsea
 urn,135864,droylsden_academy_manchester
 urn,135769,ormiston_shelfield_community_academy_walsall
 urn,136115,the_oldham_academy_north_oldham
-urn,136115,the_oldham_academy_north_oldham
 urn,141328,forest_hall_school_stansted_mountfitchet
 urn,144991,staindrop_academy_darlington
 urn,136193,the_taunton_academy_taunton
@@ -59482,6 +59496,7 @@ mapit,145877,ash_cum_ridley_parish_council
 parent_mapit,2350,ash_cum_ridley_parish_council
 gss,E04012390,ash_cum_ridley_parish_council
 urn,121495,marwood_church_of_england_voluntary_controlled_infant_school_great_ayton
+successor,nhs_england,health_education_england_south_east
 ICBCode,QJM,nhs_nottingham_and_nottinghamshire_integrated_care_board
 mapit,64300,park_community_council
 parent_mapit,2585,park_community_council
@@ -77167,6 +77182,7 @@ matuid,4335,crst
 spuid,17639,crst
 ch,SC328825,caledonian_sleeper
 twitter,CalSleeper,caledonian_sleeper
+dpr,ZB560616,caledonian_sleeper
 matuid,3225,gaet
 spuid,3224,gaet
 ch,06237630,gaet

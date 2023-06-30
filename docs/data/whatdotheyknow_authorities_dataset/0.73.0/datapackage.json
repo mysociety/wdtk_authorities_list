@@ -225,13 +225,13 @@
                     }
                 ]
             },
-            "hash": "88458b992cb8edac0c0a0fa147db77ac"
+            "hash": "ff2c71fd9f1dcba47e19a29b8f8a1daf"
         },
         {
             "title": "Categories",
             "description": "Lookup between a category name, category header, and top-level category of a public authority.",
             "custom": {
-                "row_count": 296
+                "row_count": 297
             },
             "path": "authorities_categories.csv",
             "name": "authorities_categories",
@@ -271,13 +271,13 @@
                     }
                 ]
             },
-            "hash": "849e93eaef4b5d8a8a005e1903d6882f"
+            "hash": "38ac6f844b01ab25db9d50f4bdfadded"
         },
         {
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 77412
+                "row_count": 77428
             },
             "path": "authorities_id_lookup.csv",
             "name": "authorities_id_lookup",
@@ -317,7 +317,7 @@
                     }
                 ]
             },
-            "hash": "05832f03c097b43f43f60d20f0cc1698"
+            "hash": "5bfe3421d5e48f1f1568f1801b2098e3"
         }
     ]
 }
