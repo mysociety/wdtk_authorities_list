@@ -49,7 +49,7 @@ resources:
 - title: Public Authorities
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
-    row_count: 46281
+    row_count: 46286
   path: authorities.csv
   name: authorities
   profile: tabular-data-resource
@@ -164,7 +164,7 @@ resources:
       constraints:
         unique: false
       example: Central government
-  hash: ff2c71fd9f1dcba47e19a29b8f8a1daf
+  hash: b14a8db6223072e7028013a2f488a68c
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
@@ -203,7 +203,7 @@ resources:
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
   custom:
-    row_count: 77428
+    row_count: 77436
   path: authorities_id_lookup.csv
   name: authorities_id_lookup
   profile: tabular-data-resource
@@ -231,7 +231,7 @@ resources:
       constraints:
         unique: false
       example: 131_dental_rotherham
-  hash: 5bfe3421d5e48f1f1568f1801b2098e3
+  hash: f632a4f6976a0faa161dbcaab9075fe1
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
 ---
