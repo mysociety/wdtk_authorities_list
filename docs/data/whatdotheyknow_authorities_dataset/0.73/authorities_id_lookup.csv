@@ -306,9 +306,9 @@ coins,E0102,bristol_city_council
 dpr,Z5873747,bristol_city_council
 gss,E06000023,bristol_city_council
 la,801,bristol_city_council
+lcnaf,nr97004150,bristol_city_council
 mapit,2561,bristol_city_council
 wikidata,Q16953796,bristol_city_council
-lcnaf,nr97004150,bristol_city_council
 dpr,Z6924669,broadland_district_council
 gss,E07000144,broadland_district_council
 mapit,2626,broadland_district_council
@@ -77434,3 +77434,13 @@ ch,07275807,university_of_wolverhampton_students_union
 ch,10820498,university_of_east_london_students_union
 charity,1173994,university_of_east_london_students_union
 ch,0099168,rausu
+charity,1191885,ucsu
+charity,1183000,university_of_chichester_students_union
+ch,11937134,university_of_chichester_students_union
+charity,1138587,de_montfort_students_union
+charity,1142741,jmsu
+ch,11448054,jmsu
+vat,338179475,northampton_students_union
+charity,1144827,northampton_students_union
+charity,1148574,nua_students_union
+ch,08064796,nua_students_union
