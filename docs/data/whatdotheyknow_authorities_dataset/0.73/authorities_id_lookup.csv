@@ -75406,9 +75406,9 @@ parent_mapit,2604,llangennech_community_council
 mapit,64628,llangyndeyrn_community_council
 parent_mapit,2604,llangyndeyrn_community_council
 gss,W04000532,llangyndeyrn_community_council
-gss,W04000533,llangynin_community_council
-mapit,64859,llangynin_community_council
-parent_mapit,2604,llangynin_community_council
+gss,W04000533,clerkllangynincccouk
+mapit,64859,clerkllangynincccouk
+parent_mapit,2604,clerkllangynincccouk
 mapit,64573,llanllawddog_community_council
 parent_mapit,2604,llanllawddog_community_council
 gss,W04000535,llanllawddog_community_council
@@ -77229,7 +77229,7 @@ ch,08705643,innovate_uk_ktn
 unit,royal_botanic_gardens_kew,kew_constabulary
 ch,10688097,yusu
 charity,173404,yusu
-su_parent,PublicBody/583,yusu
+su_parent,university_of_york,yusu
 VAT,272458389,yusu
 charity,SC006467,sspca
 ch,SC201401,sspca
