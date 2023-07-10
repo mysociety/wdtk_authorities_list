@@ -171,6 +171,7 @@ nhs_wales_lhb,Health,NHS Wales Local Health Boards
 nhsni,Health,NHS in Northern Ireland
 nhstrust,Health,NHS trusts
 nhswales,Health,NHS in Wales
+ni_department,Devolved administrations,Northern Ireland government departments
 ni_district,Local and regional,District councils (Northern Ireland)
 ni_local_council,Local and regional,Local councils (Northern Ireland)
 non-metropolitan_district,Local and regional,Non-metropolitan district councils
