@@ -4689,7 +4689,7 @@ dpr,ZA438403,cotswolds_aonb
 wikidata,Q61930784,shoreditch_trust
 charity,1094807,preston_road_neighbourhood_development_company_limited
 ch,04012143,preston_road_neighbourhood_development_company_limited
-wikidata,Q5062628,cpni
+wikidata,Q5062628,national_protective_security_authority
 dpr,Z4664990,gchq
 wikidata,Q220798,gchq
 lcnaf,n84095473,gchq
@@ -59261,7 +59261,8 @@ parent_mapit,2379,north_kelsey_parish_council
 gss,E04006027,north_kelsey_parish_council
 ch,OC428493,otterpool_park_llp
 ch,12158104,otterpool_park_development_company_limited
-ch,10278178,integrated_facilities_management_bolton_limited
+ch,10278178,ifm_bolton
+dpr,ZA513250,ifm_bolton
 dpr,ZA928927,north_northants_council
 gss,E06000061,north_northants_council
 la,940,north_northants_council
