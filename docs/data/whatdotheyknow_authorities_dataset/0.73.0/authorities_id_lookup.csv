@@ -834,9 +834,9 @@ lcnaf,nb2008010854,high_peak_borough_council
 dpr,Z6213115,hillingdon_borough_council
 gss,E09000017,hillingdon_borough_council
 la,312,hillingdon_borough_council
+lcnaf,nb2007000155,hillingdon_borough_council
 mapit,2486,hillingdon_borough_council
 wikidata,Q5763303,hillingdon_borough_council
-lcnaf,nb2007000155,hillingdon_borough_council
 dpr,Z7294458,horsham_district_council
 gss,E07000227,horsham_district_council
 mapit,2467,horsham_district_council
@@ -4489,9 +4489,9 @@ lcnaf,no2013028306,birmingham_conservatoire
 wikidata,Q935290,university_of_wales_newport
 lcnaf,no2004055089,university_of_wales_newport
 dpr,Z5620514,wimbledon_college_of_art
+lcnaf,n2007067974,wimbledon_college_of_art
 unit,university_of_the_arts_london,wimbledon_college_of_art
 wikidata,Q8023522,wimbledon_college_of_art
-lcnaf,n2007067974,wimbledon_college_of_art
 dpr,Z5620514,london_college_of_fashion
 unit,university_of_the_arts_london,london_college_of_fashion
 wikidata,Q1627503,london_college_of_fashion
@@ -31270,8 +31270,8 @@ wikidata,Q65961446,southroyd_primary_and_nursery_school_pudsey
 wikidata,Q65961529,stanningley_primary_school_pudsey
 wikidata,Q65961435,westroyd_primary_school_and_nursery_pudsey
 wikidata,Q65961537,swinnow_primary_school_leeds
-wikidata,Q7231903,portland_college_mansfield
 lcnaf,n95112150,portland_college_mansfield
+wikidata,Q7231903,portland_college_mansfield
 gss,E04005615,chapel_st_leonards_parish_council_lincolnshire
 mapit,55911,chapel_st_leonards_parish_council_lincolnshire
 parent_mapit,2384,chapel_st_leonards_parish_council_lincolnshire
