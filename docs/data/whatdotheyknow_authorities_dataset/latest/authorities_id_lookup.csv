@@ -3057,7 +3057,7 @@ dpr,Z4857137,saas
 wikidata,Q7627632,saas
 dpr,ZA108009,hm_inspector_of_constabulary_for_scotland
 dpr,Z2886501,keeper_of_the_records_of_scotland
-dpr,Z5397958,keeper_of_the_registers_of_scotland
+dpr,Z5397958,registers_of_scotland
 dpr,Z6396154,crown_office_and_procurator_fiscal_scotland
 wikidata,Q5189419,crown_office_and_procurator_fiscal_scotland
 dpr,Z325659X,kltr
@@ -4659,8 +4659,8 @@ lcnaf,no2003098630,historic_royal_palaces
 dpr,Z2880193,marjon
 ucas,P63,marjon
 urn,133866,marjon
-dpr,Z5200037,leeds_conservatoire
 ch,07596410,leeds_conservatoire
+dpr,Z5200037,leeds_conservatoire
 dpr,Z6969982,lipa
 wikidata,Q1668871,lipa
 lcnaf,no2006108212,lipa
@@ -6366,7 +6366,6 @@ wikidata,Q5338172,edinburgh_college_of_art
 lcnaf,n90692351,edinburgh_college_of_art
 wikidata,Q5472589,feta
 wikidata,Q7309963,reid_kerr_college
-dpr,Z5397958,registers_of_scotland
 charity,SC021209,perth_college
 wikidata,Q7170837,perth_college
 dpr,Z4585150,oatridge_agricultural_college
