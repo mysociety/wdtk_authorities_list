@@ -94,7 +94,7 @@ resources:
       description: The home page of the authority.
       constraints:
         unique: false
-      example: http:-
+      example: http:207dentalcare.com
     - name: publication-scheme
       type: string
       description: The publication scheme used by the authority
@@ -164,7 +164,7 @@ resources:
       constraints:
         unique: false
       example: Central government
-  hash: bbebdfeea8f5c1de6bfc53bb14aafac9
+  hash: 54c0244183373cb0a562dbd6250c9d47
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.

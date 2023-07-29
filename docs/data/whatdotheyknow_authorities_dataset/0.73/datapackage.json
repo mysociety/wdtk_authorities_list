@@ -127,7 +127,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "http:-"
+                        "example": "http:207dentalcare.com"
                     },
                     {
                         "name": "publication-scheme",
@@ -225,7 +225,7 @@
                     }
                 ]
             },
-            "hash": "bbebdfeea8f5c1de6bfc53bb14aafac9"
+            "hash": "54c0244183373cb0a562dbd6250c9d47"
         },
         {
             "title": "Categories",
