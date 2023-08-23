@@ -64,7 +64,7 @@
             "title": "Public Authorities",
             "description": "WhatDoTheyKnow's list of UK public authorities",
             "custom": {
-                "row_count": 46318
+                "row_count": 46333
             },
             "path": "authorities.csv",
             "name": "authorities",
@@ -203,7 +203,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "Academies"
+                        "example": "Academic Health Science Networks|Companies limited by guarantee|Limited companies|NHS bodies"
                     },
                     {
                         "name": "top-level-categories",
@@ -225,13 +225,13 @@
                     }
                 ]
             },
-            "hash": "b97fadb47664b94f6abcc53196eec615"
+            "hash": "30e824417f33947ac24cc2f412595467"
         },
         {
             "title": "Categories",
             "description": "Lookup between a category name, category header, and top-level category of a public authority.",
             "custom": {
-                "row_count": 298
+                "row_count": 299
             },
             "path": "authorities_categories.csv",
             "name": "authorities_categories",
@@ -267,17 +267,17 @@
                         "constraints": {
                             "unique": true
                         },
-                        "example": "Academies"
+                        "example": "Academic Health Science Networks"
                     }
                 ]
             },
-            "hash": "a70bb86bcdb76c78ec1e32ebc3ed08bd"
+            "hash": "2e8b2dc94b2108f9444d23d8765e6c95"
         },
         {
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 77478
+                "row_count": 77494
             },
             "path": "authorities_id_lookup.csv",
             "name": "authorities_id_lookup",
@@ -317,7 +317,7 @@
                     }
                 ]
             },
-            "hash": "f47a729005d9bc74fcbf7b646c80258e"
+            "hash": "b1cd68e77447e4996ff3e6eb64dedac8"
         }
     ]
 }

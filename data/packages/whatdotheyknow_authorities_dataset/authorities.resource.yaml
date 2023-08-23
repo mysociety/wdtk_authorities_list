@@ -1,7 +1,7 @@
 title: Public Authorities
 description: WhatDoTheyKnow's list of UK public authorities
 custom:
-  row_count: 46318
+  row_count: 46333
 path: authorities.csv
 name: authorities
 profile: tabular-data-resource
@@ -101,7 +101,8 @@ schema:
     description: "A list of categories that the authority belongs to. Pipe seperated.\n"
     constraints:
       unique: false
-    example: Academies
+    example: Academic Health Science Networks|Companies limited by guarantee|Limited
+      companies|NHS bodies
   - name: top-level-categories
     type: string
     description: "A list of top-level categories that the authority belongs to. Pipe\
@@ -116,4 +117,4 @@ schema:
     constraints:
       unique: false
     example: Central government
-hash: b97fadb47664b94f6abcc53196eec615
+hash: 30e824417f33947ac24cc2f412595467
