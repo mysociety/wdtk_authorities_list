@@ -59415,7 +59415,7 @@ charity,1185618,uk_centre_for_ecology_and_hydrology
 charity,SC049849,uk_centre_for_ecology_and_hydrology
 urn,147905,millbay_academy
 urn,402442,ysgol_godrer_berwyn
-urn,402444,christ_the_word_school_denbighshire
+urn,402444,christ_the_word_school_rhyl
 mapit,58515,elstree_and_borehamwood_town_council
 parent_mapit,2339,elstree_and_borehamwood_town_council
 gss,E04004763,elstree_and_borehamwood_town_council
@@ -59439,6 +59439,7 @@ urn,142376,st_thomas_more_catholic_primary_school_middlesbrough
 urn,147765,thorntree_academy_middlesbrough
 urn,143519,hollis_academy_middlesbrough
 urn,142367,st_alphonsus_catholic_primary_school_middlesbrough
+urn,401693,ysgol_glan_clwyd_st_asaph
 urn,401717,ysgol_rhiwabon_wrexham
 urn,401717,ysgol_rhiwabon_wrexham
 urn,402433,ysgol_calon_cymru_powys
@@ -59447,6 +59448,7 @@ urn,402432,haverfordwest_high_vc_school_pembrokeshire
 urn,401744,henry_tudor_school_pembrokeshire
 urn,401741,ysgol_bro_gwaun_pembrokeshire
 urn,401741,ysgol_bro_gwaun_pembrokeshire
+urn,402462,ysgol_bro_preseli_crymych
 urn,401788,st_josephs_rc_school_6th_form_neath
 urn,401788,st_josephs_rc_school_6th_form_neath
 urn,402397,ygg_ystalyfera_bro_dur_neath
@@ -76945,6 +76947,7 @@ spuid,2716,clevedon_learning_trust
 matuid,5453,clevedon_learning_trust
 ch,07872799,clevedon_learning_trust
 dpr,ZA107685,clevedon_learning_trust
+urn,148637,chestnut_park_primary_yatton
 ch,RC000889,citma
 ch,06712409,cilex_regulation
 nhsods,G82118,woodlands_health_centre_tonbridge
