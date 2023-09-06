@@ -165,7 +165,7 @@ resources:
       constraints:
         unique: false
       example: Central government
-  hash: c656df1e0fae29211673b7e3af8fdbf1
+  hash: 6b301dac7454a919ee092b0fd47b6ee9
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
@@ -204,7 +204,7 @@ resources:
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
   custom:
-    row_count: 77499
+    row_count: 77501
   path: authorities_id_lookup.csv
   name: authorities_id_lookup
   profile: tabular-data-resource
@@ -232,7 +232,7 @@ resources:
       constraints:
         unique: false
       example: 131_dental_rotherham
-  hash: 1bac38b7a0b2cb07e7198dee7efe2976
+  hash: 425f4e00fccc72ef00d976a7771b0382
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
 ---
