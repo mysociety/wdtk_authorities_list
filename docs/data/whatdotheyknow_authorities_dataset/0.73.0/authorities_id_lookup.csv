@@ -75136,9 +75136,9 @@ gss,E04006569,langley_with_hardley_parish_council
 mapit,153855,little_melton_parish_council
 parent_mapit,2388,little_melton_parish_council
 gss,E04012776,little_melton_parish_council
-gss,E04006571,loddon_parish_council
-mapit,54146,loddon_parish_council
-parent_mapit,2388,loddon_parish_council
+gss,E04006571,loddon_town_council
+mapit,54146,loddon_town_council
+parent_mapit,2388,loddon_town_council
 mapit,58652,long_stratton_town_council
 parent_mapit,2388,long_stratton_town_council
 gss,E04006572,long_stratton_town_council
@@ -77500,3 +77500,6 @@ ch,10689247,tcat
 dpr,ZA274776,tcat
 spuid,16714,tcat
 matuid,16682,tcat
+ch,11953395,oct
+dpr,ZA812463,oct
+matuid,17307,oct
