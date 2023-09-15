@@ -42220,6 +42220,7 @@ urn,130552,newcastle_sixth_form_college
 wikidata,Q18161609,newcastle_sixth_form_college
 dpr,Z6977454,ncg
 urn,130552,ncg
+wikidata,Q102522943,ncg
 estyn,6712191,blaenbaglan_primary_school_port_talbot
 urn,400999,blaenbaglan_primary_school_port_talbot
 wikidata,Q66169636,blaenbaglan_primary_school_port_talbot
@@ -77510,3 +77511,11 @@ ch,10749662,hamwic_education_trust
 dpr,ZA265013,hamwic_education_trust
 matuid,16700,hamwic_education_trust
 spuid,4974,hamwic_education_trust
+ch,10276456,cognus_limited
+dpr,ZA261762,cognus_limited
+ch,SP1824RS,partick_housing_association_limited
+charity,SC033751,partick_housing_association_limited
+dpr,Z5788558,partick_housing_association_limited
+shr,168,partick_housing_association_limited
+wikidata,Q61930527,partick_housing_association_limited
+parent_mapit,2579,partick_housing_association_limited
