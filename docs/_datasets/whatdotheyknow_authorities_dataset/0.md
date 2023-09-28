@@ -165,7 +165,7 @@ resources:
       constraints:
         unique: false
       example: Central government
-  hash: 5a3b6c487a129b8ec507297141eee0bb
+  hash: 6ae00073943f9970d67ea430c8c62777
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
