@@ -47,6 +47,7 @@ def safe_url(url: str) -> str:
             "`",
             "[",
             "]",
+            "/",
         ]:
             safe_url += char
     return safe_url
