@@ -46,7 +46,7 @@ schema:
     description: The home page of the authority.
     constraints:
       unique: false
-    example: http:207dentalcare.com
+    example: http://207dentalcare.com/
   - name: publication-scheme
     type: string
     description: The publication scheme used by the authority
@@ -117,4 +117,4 @@ schema:
     constraints:
       unique: false
     example: Central government
-hash: 88b2df301998bf2665d7fbbcde5525d0
+hash: 4e8a919be57c6ac078598e34a49305d8

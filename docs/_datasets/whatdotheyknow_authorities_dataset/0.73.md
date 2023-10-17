@@ -42,6 +42,9 @@ custom:
       render: false
   change_log:
     0.73.0: Changed render type to static - no individual version updates
+  datasette:
+    about: Info & Downloads
+    about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0
   formats:
     csv: true
     parquet: true
@@ -50,6 +53,9 @@ resources:
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
     row_count: 46354
+    datasette:
+      about: Info & Downloads
+      about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities
   path: authorities.csv
   name: authorities
   profile: tabular-data-resource
@@ -94,7 +100,7 @@ resources:
       description: The home page of the authority.
       constraints:
         unique: false
-      example: http:207dentalcare.com
+      example: http://207dentalcare.com/
     - name: publication-scheme
       type: string
       description: The publication scheme used by the authority
@@ -165,12 +171,15 @@ resources:
       constraints:
         unique: false
       example: Central government
-  hash: 88b2df301998bf2665d7fbbcde5525d0
+  hash: 4e8a919be57c6ac078598e34a49305d8
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
   custom:
     row_count: 299
+    datasette:
+      about: Info & Downloads
+      about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_categories
   path: authorities_categories.csv
   name: authorities_categories
   profile: tabular-data-resource
@@ -205,6 +214,9 @@ resources:
     schemas
   custom:
     row_count: 77529
+    datasette:
+      about: Info & Downloads
+      about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_id_lookup
   path: authorities_id_lookup.csv
   name: authorities_id_lookup
   profile: tabular-data-resource

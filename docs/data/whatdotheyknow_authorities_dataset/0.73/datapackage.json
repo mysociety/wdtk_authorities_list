@@ -57,6 +57,10 @@
         },
         "change_log": {
             "0.73.0": "Changed render type to static - no individual version updates"
+        },
+        "datasette": {
+            "about": "Info & Downloads",
+            "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0"
         }
     },
     "resources": [
@@ -64,7 +68,11 @@
             "title": "Public Authorities",
             "description": "WhatDoTheyKnow's list of UK public authorities",
             "custom": {
-                "row_count": 46354
+                "row_count": 46354,
+                "datasette": {
+                    "about": "Info & Downloads",
+                    "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities"
+                }
             },
             "path": "authorities.csv",
             "name": "authorities",
@@ -127,7 +135,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "http:207dentalcare.com"
+                        "example": "http://207dentalcare.com/"
                     },
                     {
                         "name": "publication-scheme",
@@ -225,13 +233,17 @@
                     }
                 ]
             },
-            "hash": "88b2df301998bf2665d7fbbcde5525d0"
+            "hash": "4e8a919be57c6ac078598e34a49305d8"
         },
         {
             "title": "Categories",
             "description": "Lookup between a category name, category header, and top-level category of a public authority.",
             "custom": {
-                "row_count": 299
+                "row_count": 299,
+                "datasette": {
+                    "about": "Info & Downloads",
+                    "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_categories"
+                }
             },
             "path": "authorities_categories.csv",
             "name": "authorities_categories",
@@ -277,7 +289,11 @@
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 77529
+                "row_count": 77529,
+                "datasette": {
+                    "about": "Info & Downloads",
+                    "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_id_lookup"
+                }
             },
             "path": "authorities_id_lookup.csv",
             "name": "authorities_id_lookup",
