@@ -173,8 +173,6 @@ def enhance_authorities_csv():
 
     df = pd.read_csv(top_level / "data" / "raw" / "authorities.csv")
     df = df.rename(columns=lambda x: x.lower().replace(" ", "-"))
-
-    df["id"] = df["url-name"].apply(lambda x: id_lookup.get(x, "Unknown ID"))
     # move ID column to the front
     cols = df.columns.tolist()
     cols = cols[-1:] + cols[:-1]
