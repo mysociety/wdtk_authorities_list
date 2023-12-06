@@ -68,7 +68,7 @@
             "title": "Public Authorities",
             "description": "WhatDoTheyKnow's list of UK public authorities",
             "custom": {
-                "row_count": 46356,
+                "row_count": 46363,
                 "datasette": {
                     "about": "Info & Downloads",
                     "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities"
@@ -84,13 +84,22 @@
             "schema": {
                 "fields": [
                     {
-                        "name": "id",
-                        "type": "string",
-                        "description": "Internal WDTK ID",
+                        "name": "version",
+                        "type": "integer",
+                        "description": "The current version of this authority's entry in this dataset",
                         "constraints": {
                             "unique": false
                         },
-                        "example": "10"
+                        "example": 1
+                    },
+                    {
+                        "name": "internal-id",
+                        "type": "integer",
+                        "description": "Internal WDTK ID",
+                        "constraints": {
+                            "unique": true
+                        },
+                        "example": 3
                     },
                     {
                         "name": "name",
@@ -126,7 +135,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "16_plus|16_plus|Academy_16-19_converter|Academy_16-19_converter|Hampshire|Hampshire|academies|academies|exempt_charity|exempt_charity|school|school|school_new_nov2020|school_new_nov2020|urn:145057|urn:145057"
+                        "example": "16_plus|Academy_16-19_converter|Greenwich|academies|exempt_charity|not_many_requests|school|school_new_nov2020|urn:138966"
                     },
                     {
                         "name": "home-page",
@@ -162,7 +171,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "\"CEOP derives its statutory powers from the Serious Organised Crime and Police Act 2005 and CEOP is therefore exempt from The Freedom of Information Act 2000. Nevertheless it is the policy of CEOP to be as open and transparent in our dealings with the public where possible and each request for information will be considered on a case by case basis.\"<p><a href=\"http://www.ceop.police.uk/Terms-and-conditions/\">http://www.ceop.police.uk/Terms-and-conditions/</a>"
+                        "example": "\r\n<div id=\"request_status\" class=\"request-status-message request-status-message--error_message\">\r\n<h3><i class=\"icon-standalone icon_error_message\"></I> This authority no longer exists</h3>\r\n<p>This organisation has transferred its housing stock to an alternative organisation, and no longer exists.\r\n<sup>[<a href=\"https://web.archive.org/web/20231204132949/https://www.blackwoodgroup.org.uk/latest-news/abbeyfield-scotland-joins-blackwood-homes-care-2523/\" title=\"Information about the transfer from Abbeyfield, on the Blackwood website (opens in a new tab)\" target=\"_blank\">1</a>, \r\n <a href=\"https://web.archive.org/web/20231204133147/https://www.housingregulator.gov.scot/about-us/news/weve-completed-the-de-registration-of-abbeyfield-scotland-ltd\" title=\"De-registration confirmation on the Scottish Housing Regulator website (opens in a new tab)\" target=\"_blank\">2</a>]</sup>.</p>\r\n<h3><i class=\"icon-standalone icon_successful\"></I> Looking to make a new request?</h3>\r\n<p>You can make a request to Blackwood Homes and Care <b><a href=\"/body/blackwood_homes_and_care\">by clicking here</a></b>.</p>\r\n</div> <p>This body is a <abbr title=\"sometimes also referred to as a Housing Association\">Registered Social Landlord</abbr> (RSL), in Scotland.</p>\r\n\r\n<p>RSLs became subject to transparency legislation on 11 November 2019, after they were <a href=\"https://www.itspublicknowledge.info/registered-social-landlords\" title=\"Find out more about designation on the Scottish Information Commissioner's website (opens in a new tab)\" target=\"_blank\">'designated' by the Scottish Ministers.</a>\r\n</p>\r\n<hr>\r\n<h3>Need help with housing issues?</h3>\r\nYou can't use our service to ask for help with housing issues.\r\n<br />\r\nIf you need help with a problem, <a href=\"https://www.citizensadvice.org.uk/scotland/housing/\" title=\"Information about housing on the Citizens Advice Scotland website (opens in a new tab)\" target=\"_blank\">Citizens Advice Scotland</a>, and <a href=\"https://scotland.shelter.org.uk\" target=\"_blank\" title=\"Shelter Scotland (opens in a new tab)\">Shelter Scotland</a>, might be able to help. The Scottish Housing Regulator also have <a href=\"https://www.housingregulator.gov.scot/for-tenants\" title=\"Information for tenants on the Scottish Housing Regulator website (opens in a new tab)\" target=\"_blank\">information for tenants on their website</a> which you might find useful.\r\n<br /><br />You might also be able to ask your local <abbr title=\"elected members, such as your local Councillor, MSP, or MP\">elected members</abbr> for help. Find out more on the <a href=\"https://www.writetothem.com\">WriteToThem</a> website.\r\n</p>\r\n<hr>\r\n<div class=\"request-status-message request-status-message--rejected\"><h3>Looking for information about yourself?</h3>\r\n<p>\u26d4\ufe0f You can't ask for information about yourself using our service \u2013 <a href=\"https://www.whatdotheyknow.com/help/requesting#data_protection\" title=\"Find out why you cannot ask for personal information using WhatDoTheyKnow, and what to do\">find out why</a>.</p></div>"
                     },
                     {
                         "name": "created-at",
@@ -181,15 +190,6 @@
                             "unique": false
                         },
                         "example": "2013-09-24 12:00:27 +0100"
-                    },
-                    {
-                        "name": "version",
-                        "type": "integer",
-                        "description": "The current version of this authority's entry in this dataset",
-                        "constraints": {
-                            "unique": false
-                        },
-                        "example": 1
                     },
                     {
                         "name": "defunct",
@@ -233,13 +233,13 @@
                     }
                 ]
             },
-            "hash": "cde09b7fa32b41ed765fa5856a262d72"
+            "hash": "a20c5013b7843bb7b3a0923de871d965"
         },
         {
             "title": "Categories",
             "description": "Lookup between a category name, category header, and top-level category of a public authority.",
             "custom": {
-                "row_count": 299,
+                "row_count": 270,
                 "datasette": {
                     "about": "Info & Downloads",
                     "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_categories"
@@ -283,13 +283,13 @@
                     }
                 ]
             },
-            "hash": "2e8b2dc94b2108f9444d23d8765e6c95"
+            "hash": "d8db9a8a5ff1a2d9769317fd688c0df8"
         },
         {
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 77532,
+                "row_count": 75585,
                 "datasette": {
                     "about": "Info & Downloads",
                     "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_id_lookup"
@@ -333,7 +333,7 @@
                     }
                 ]
             },
-            "hash": "f17c8fd9000f1ca26f8c7a6bdafc9333"
+            "hash": "3ffc001220293a27b34acfcb470f305e"
         }
     ]
 }
