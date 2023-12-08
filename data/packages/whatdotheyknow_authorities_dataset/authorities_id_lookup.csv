@@ -3445,6 +3445,7 @@ dpr,ZA356064,dudley_zoo
 wikidata,Q5312027,dudley_zoo
 dpr,Z4569683,bwh_water
 wikidata,Q104780263,bwh_water
+ch,02924312,bwh_water
 dpr,Z7528460,thames_water
 wikidata,Q2408951,thames_water
 dpr,Z5449252,southern_water
@@ -4135,13 +4136,13 @@ ch,03102176,albion_water_limited
 wikidata,Q96243196,albion_water_limited
 wikidata,Q5025619,cambridge_water_company_plc
 dpr,Z5277208,bristol_water_plc
-wikidata,Q4969074,bristol_water_plc
 lei,549300G5FDS8FKPXPZ37,bristol_water_plc
+wikidata,Q4969074,bristol_water_plc
 ch,02559449,mid_kent_water_plc
 wikidata,Q104780345,mid_kent_water_plc
 dpr,Z4569683,south_west_water
-wikidata,Q7568898,south_west_water
 lcnaf,nb2009003608,south_west_water
+wikidata,Q7568898,south_west_water
 dpr,Z6670622,south_staffordshire_water_plc
 wikidata,Q7568541,south_staffordshire_water_plc
 lcnaf,nb2007012808,south_staffordshire_water_plc
@@ -5706,6 +5707,7 @@ wikidata,Q7764578,the_sixth_form_college_solihull
 wikidata,Q3402877,priestley_college
 wikidata,Q6674076,longley_park_sixth_form_college
 wikidata,Q67151237,the_sixth_form_college_farnborough
+urn,130755,gateway_sixth_form_college
 wikidata,Q7404363,salford_city_college
 wikidata,Q5329049,east_norfolk_sixth_form_college
 wikidata,Q15223126,hartlepool_sixth_form_college
@@ -75585,3 +75587,11 @@ ch,SP1728RS,blackwood_homes_and_care
 nhsods,J82157,the_wilson_practice_alton
 dpr,Z4724958,the_wilson_practice_alton
 urn,147285,bilborough_college_nottingham
+unit,bfmat,bilborough_college_nottingham
+ch,10817914,bfmat
+dpr,ZA508926,bfmat
+matuid,17150,bfmat
+urn,145174,ke6
+unit,bfmat,ke6
+urn,147756,gateway_sixth_form_college_leicester
+unit,bfmat,gateway_sixth_form_college_leicester
