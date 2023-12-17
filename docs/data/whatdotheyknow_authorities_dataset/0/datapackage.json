@@ -68,7 +68,7 @@
             "title": "Public Authorities",
             "description": "WhatDoTheyKnow's list of UK public authorities",
             "custom": {
-                "row_count": 46368,
+                "row_count": 46371,
                 "datasette": {
                     "about": "Info & Downloads",
                     "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities"
@@ -233,7 +233,7 @@
                     }
                 ]
             },
-            "hash": "0c22970785e096da2e62da1d36d9903f"
+            "hash": "9570a37cf9768b212617a180e2114cb7"
         },
         {
             "title": "Categories",
