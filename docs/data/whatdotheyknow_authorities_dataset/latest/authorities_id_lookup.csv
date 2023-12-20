@@ -18322,10 +18322,10 @@ urn,126278,pewsey_primary_school
 wikidata,Q66166789,pewsey_primary_school
 urn,133961,phoenix_community_primary_school_ashford
 wikidata,Q66228604,phoenix_community_primary_school_ashford
+charity,exempt,phoenix_academy_london
 dpr,ZA076156,phoenix_academy_london
 urn,143129,phoenix_academy_london
 wikidata,Q66816887,phoenix_academy_london
-charity,exempt,phoenix_academy_london
 urn,121363,pickering_community_infant_school
 wikidata,Q66138270,pickering_community_infant_school
 urn,121356,pickering_community_junior_school
@@ -41930,7 +41930,7 @@ NHSChoicesID,20847,mydentist_quay_road_bridlington
 NHSChoicesID,26794,mydentist_queensway_bognor_regis
 NHSChoicesID,20814,mydentist_railway_road_blackburn
 NHSChoicesID,22901,mydentist_rainford_road_billinge
-NHSChoicesID,29823,mydentist_ratcliffe_gate_mansfield
+NHSChoicesID,29823,mydentist_ratcliffe_road_mansfield
 NHSChoicesID,23040,mydentist_reddish_road_stockport
 NHSChoicesID,21465,mydentist_redditch_road_kings_norton
 NHSChoicesID,24728,mydentist_richardshaw_lane_pudsey
@@ -82872,6 +82872,8 @@ ch,10279393,university_of_derby_students_union
 charity,1169283,university_of_derby_students_union
 ch,08064796,aru_students_union
 charity,1148574,aru_students_union
+su_parent,anglia_ruskin_university,aru_students_union
+su_parent,arts_university_bournemouth,aub_students_union
 ch,08064796,york_st_john_students_union
 charity,1148574,york_st_john_students_union
 ch,06978707,nusu
@@ -83025,6 +83027,7 @@ charity,1142619,ccsu
 ch,7719030,arts_su
 charity,1143161,arts_su
 vat,126316730,arts_su
+su_parent,university_of_the_arts_london,arts_su
 ch,07314850,oxford_university_student_union
 charity,1140687,oxford_university_student_union
 ch,NI646426,uusu
