@@ -3539,8 +3539,8 @@ dpr,Z7523187,south_east_water
 wikidata,Q7567143,south_east_water
 coins,PLA004,port_of_london_authority
 dpr,Z6021269,port_of_london_authority
-wikidata,Q7231179,port_of_london_authority
 lcnaf,n80144973,port_of_london_authority
+wikidata,Q7231179,port_of_london_authority
 dpr,Z6461689,sesw
 wikidata,Q7650349,sesw
 ch,04402220,network_rail
@@ -39936,7 +39936,7 @@ wikidata,Q16982592,greater_birmingham_and_solihull_local_enterprise_partnership
 ch,07553554,greater_cambridge_greater_peterborough_local_enterprise_partnership
 wikidata,Q17061842,south_east_midlands_local_enterprise_partnership
 charity,exempt,the_academy_grimsby
-wikidata,Q6851971,military_aviation_authority
+wikidata,Q6851971,maa
 NBHD,1766,east_shoreditch_forum
 ch,RS007791,tower_hamlets_community_housing
 gss,E04012296,qpcc
@@ -72698,6 +72698,7 @@ gss,E04010753,stocksfield_parish_council
 mapit,61826,stocksfield_parish_council
 parent_mapit,2248,stocksfield_parish_council
 ch,07824292,ubico_limited
+ch,SC435469,bid4oban
 ch,08329791,cambridge_bid
 ch,SC365793,embrace_elgin
 dpr,ZA383171,embrace_elgin
@@ -73369,9 +73370,9 @@ ch,11020015,rapid_response_medical_services_limited
 ch,10688030,medic_mart_ambulance_service_limited
 ch,06498390,promedicus_limited
 ch,08782358,se_medical_limited
-ch,sc292179,abc_ambulance_services_limited
-ch,sc590014.,alliance_ambulance_services_limited
-ch,sc646966,amvale_scotland_limited
+ch,SC292179,abc_ambulance_services_limited
+ch,SC590014,alliance_ambulance_services_limited
+ch,SC646966,amvale_scotland_limited
 ch,04502825,amvale_medical_transport_limited
 ch,ni648195,coastal_core_limited
 ch,ni037048,pro_paramedics_limited
@@ -83115,3 +83116,5 @@ urn,147756,gateway_sixth_form_college_leicester
 unit,bfmat,gateway_sixth_form_college_leicester
 charity,231060,cipfa
 ch,01631329,wm_growth_company
+ch,SC545037,east_lothian_food_and_drink
+ch,SC498145,go_forth_stirling
