@@ -3019,10 +3019,10 @@ dpr,Z6833827,stranmillis_university_college
 wikidata,Q7621650,stranmillis_university_college
 lcnaf,nr2004008018,stranmillis_university_college
 category,W05,university_of_west_london
+charity,exempt,university_of_west_london
 dpr,Z4666761,university_of_west_london
 lcnaf,nb2011017488,university_of_west_london
 wikidata,Q2007778,university_of_west_london
-charity,exempt,university_of_west_london
 ch,RC000644,university_of_bath
 dpr,Z6290890,university_of_bath
 lcnaf,n80024621,university_of_bath
@@ -4576,11 +4576,11 @@ dpr,Z9578640,traffic_commissioners
 dpr,Z957859,traffic_commissioners
 dpr,Z9578563,traffic_commissioners
 dpr,Z957861X,traffic_commissioners
+charity,exempt,university_of_the_arts_london
 dpr,Z5620514,university_of_the_arts_london
 lcnaf,nb2004311199,university_of_the_arts_london
 ucas,65,university_of_the_arts_london
 wikidata,Q2065666,university_of_the_arts_london
-charity,exempt,university_of_the_arts_london
 dpr,ZA360905,sussex_safer_roads_partnership
 wikidata,Q7649480,sussex_safer_roads_partnership
 dpr,Z5620514,camberwell_college_of_arts
@@ -5706,8 +5706,8 @@ urn,117585,the_john_henry_newman_school
 wikidata,Q7743376,the_john_henry_newman_school
 wikidata,Q7437749,scottish_futures_trust_limited
 lcnaf,no2018045292,scottish_futures_trust_limited
-wikidata,Q16919096,scottish_qualifications_authority
-lcnaf,no2001034614,scottish_qualifications_authority
+lcnaf,no2001034614,sqa
+wikidata,Q16919096,sqa
 wikidata,Q104782072,scottish_prison_complaints_commission
 wikidata,Q7437840,scottish_law_commission
 lcnaf,n80038450,scottish_law_commission
