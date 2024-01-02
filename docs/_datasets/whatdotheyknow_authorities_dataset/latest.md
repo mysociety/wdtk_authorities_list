@@ -203,7 +203,7 @@ resources:
       constraints:
         unique: false
       example: Central government
-  hash: 21a2e416bf504e2ad558eb92cfddd29b
+  hash: 7cf0779b23af305e720ea119e792244e
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
@@ -276,7 +276,7 @@ resources:
       constraints:
         unique: false
       example: 131_dental_rotherham
-  hash: 62574124761fe07f64e17edb134ae53e
+  hash: 632bb29eae20f8048da175b030708829
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
 ---
