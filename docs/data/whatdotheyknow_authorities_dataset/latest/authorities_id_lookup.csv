@@ -43811,6 +43811,11 @@ ni_irn,403-6693,our_lady_and_st_patrick_primary_school_downpatrick
 wikidata,Q22336921,utc_oxfordshire
 charity,exempt,utc_oxfordshire
 ni_irn,404-6648,bunscoil_bheanna_boirche_castlewellan
+dpr,Z2405494,kernow_learning_multi_academy_trust
+ch,07394649,kernow_learning_multi_academy_trust
+matuid,5102,kernow_learning_multi_academy_trust
+spuid,15890,kernow_learning_multi_academy_trust
+wikidata,Q121704483,kernow_learning_multi_academy_trust
 wikidata,Q4732142,allerton_high_school_leeds
 wikidata,Q1584160,royal_college_of_surgeons_of_england
 ni_irn,441-0085,down_high_school_downpatrick
@@ -73362,6 +73367,8 @@ ch,10630643,baems_limited
 ch,12079295,phoenix_response_services_limited
 ch,12309072,medrescue
 ch,09006078,ion_ambulance_care_limited
+cqcprovider,1-1496002160,ion_ambulance_care_limited
+dpr,ZA772535,ion_ambulance_care_limited
 ch,07643110,central_medical_services_limited
 ch,08902126,met_medical_limited
 ch,09929823,polaris_medical_services_limited
