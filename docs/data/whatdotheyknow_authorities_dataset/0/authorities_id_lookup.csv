@@ -15,8 +15,8 @@ lcnaf,n80001216,house_of_lords
 wikidata,Q5260106,berr
 coins,HOF034,home_office
 dpr,Z7271689,home_office
-wikidata,Q763388,home_office
 lcnaf,n79124579,home_office
+wikidata,Q763388,home_office
 ch,02090588,becta
 wikidata,Q4878930,becta
 dpr,Z5679958,hmcts
@@ -70,8 +70,8 @@ wikidata,Q1139213,the_met
 wikidata,Q95183671,highways_agency
 coins,COH084,companies_house
 dpr,ZA469810,companies_house
-wikidata,Q257303,companies_house
 lcnaf,no95039655,companies_house
+wikidata,Q257303,companies_house
 coins,BBC048,bbc
 dpr,Z517352X,bbc
 lcnaf,n79074359,bbc
@@ -3946,9 +3946,9 @@ nhsorgcode,RTF,northumbria_healthcare_nhs_foundation_trust
 wikidata,Q17017305,northumbria_healthcare_nhs_foundation_trust
 lcnaf,nb2005010063,northumbria_healthcare_nhs_foundation_trust
 dpr,Z9330681,nottingham_university_hospitals_nhs_trust
+lcnaf,nb2009019248,nottingham_university_hospitals_nhs_trust
 nhsorgcode,RX1,nottingham_university_hospitals_nhs_trust
 wikidata,Q7063709,nottingham_university_hospitals_nhs_trust
-lcnaf,nb2009019248,nottingham_university_hospitals_nhs_trust
 wikidata,Q104989853,nuffield_orthopaedic_centre_nhs_trust
 wikidata,Q104989860,oxford_radcliffe_hospitals_nhs_trust
 wikidata,Q104989861,oxfordshire_and_buckinghamshire_mental_health_nhs_foundation_trust
@@ -8514,7 +8514,8 @@ urn,136481,wymondham_college
 wikidata,Q8039991,wymondham_college
 wikidata,Q16983657,healthcare_improvement_scotland
 lcnaf,nb2006017199,healthcare_improvement_scotland
-wikidata,Q21857745,commissioner_for_ethical_standards_in_public_life_in_scotland
+wikidata,Q21857745,ethical_standards_commissioner
+dpr,ZA031977,ethical_standards_commissioner
 dpr,Z5161445,walsall_healthcare_nhs_trust
 nhsorgcode,RBK,walsall_healthcare_nhs_trust
 wikidata,Q17032964,walsall_healthcare_nhs_trust
@@ -83134,3 +83135,6 @@ nhsods,G82129,the_glebe_family_practice_gillingham
 nhsORGID,128389,the_glebe_family_practice_gillingham
 mapit,58918,northiam_parish_council
 parent_mapit,2305,northiam_parish_council
+dpr,Z6471242,ladybarn_group_practice_manchester
+nhsods,P84017,ladybarn_group_practice_manchester
+nhsORGID,131914,ladybarn_group_practice_manchester
