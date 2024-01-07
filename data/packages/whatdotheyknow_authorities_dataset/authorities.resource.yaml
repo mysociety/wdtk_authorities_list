@@ -147,5 +147,5 @@ schema:
       top-level categories for quick lookups.
     constraints:
       unique: false
-    example: Central government
-hash: 18fd7e0d8915fce752c68e8909f31df3
+    example: Education
+hash: d22755c0a54be910a0b50dad2d27ff27

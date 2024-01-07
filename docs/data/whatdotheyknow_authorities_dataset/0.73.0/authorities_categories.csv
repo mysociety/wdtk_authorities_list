@@ -10,7 +10,7 @@ academies,Education,Academies
 academy_trust,Education,Academy Trusts
 aco,Health,Accountable Care Organisations
 advertising_regulator,Regulators and ombudsmen,Advertising regulators
-advisory_committee,Central government,Advisory bodies
+advisory_committee,Government - other,Advisory bodies
 advocate,Other,Advocates
 ahsn,Health,Academic Health Science Networks
 airport,Transport and infrastructure,Airport operators
@@ -28,7 +28,7 @@ assessor,Local and regional,Assessors for Valuation joint boards (Scotland)
 association,Organisations whose members are public authorities,Other associations of public authorities
 auditor,Finance,Auditors
 awards_degrees,Education,Bodies that can award degrees
-awc,Defunct bodies,Agricultural wages committees
+awc,Defunct authorities,Agricultural wages committees
 bank,Finance,Banks
 bid,Local and regional,Business Improvement District
 body_funded_by_local_gov,Local and regional,Bodies funded by local government
@@ -56,9 +56,13 @@ corporation_sole,By legal form/status,Corporations sole
 county,Local and regional,County councils
 court,"Law-making bodies, the courts and the legal system",Courts
 dance,Media and culture|Recreation,Dance companies
+defunct,Defunct authorities,Defunct authorities
 dentist,Health,NHS dentists
-department,Central government,Ministerial departments
-devolved,Devolved administrations,Devolved Administration or Government
+department_ni,Government Departments,Departments - NI
+department_scotland,Government Departments,Ministerial Departments - Scotland
+department_uk,Government Departments,Ministerial Departments - UK
+department_wales,Government Departments,Ministerial Departments - Wales
+devolved,Government Departments,Devolved Administration or Government
 district_level_functions,Local and regional,Councils with district-level functions
 district_level_functions_england,Local and regional,Councils with district-level functions in England
 dno,Energy and utilities,Electricity distribution network operators
@@ -68,12 +72,12 @@ east_midlands,Local and regional,Local councils (East Midlands)
 east_of_england,Local and regional,Local councils (East of England)
 edascot,Local and regional,Economic development agencies (Scotland)
 education_regulator,Education|Regulators and ombudsmen,Education regulators
-endpb,Central government,Executive non-departmental public bodies
-endpbscot,Central government,Executive non-departmental public bodies in Scotland
+endpb,Government - other,Executive non-departmental public bodies
+endpbscot,Government - other,Executive non-departmental public bodies in Scotland
 environmental_regulator,Regulators and ombudsmen,Environmental regulators
 estate_management_scheme,Local and regional,Operators of Estate Management Schemes
 exam_board,Education,Exam boards
-executive_agency,Central government,Executive agencies
+executive_agency,Government - other,Executive agencies
 fei,Education,Further education institutions
 financial_regulator,Finance|Regulators and ombudsmen,Financial regulators
 fire_authority,Emergency services,Fire and rescue authorities
@@ -87,6 +91,7 @@ gdn,Energy and utilities,Gas distribution networks
 general_lighthouse_authority,Transport and infrastructure,General Lighthouse Authorities
 gla,Local and regional,Greater London Authority Group and Family
 gla_cc,Local and regional,Local councils (London)
+government_office,Defunct authorities,Government Offices for the regions
 group_of_universities,Education|Organisations whose members are public authorities,Groups of universities
 health_regulator,Health|Regulators and ombudsmen,Health regulators
 healthwatch,Health,Healthwatch organisations
@@ -110,7 +115,7 @@ independent_police,Emergency services,Other police forces/constabularies
 information_regulator,Regulators and ombudsmen,Information regulators
 inn_of_court,"Law-making bodies, the courts and the legal system",Inns of court
 inquiry,Other,Inquiries
-inspectorate,Central government,Inspectorates
+inspectorate,Government - other,Inspectorates
 jac,Local and regional,Joint advisory committees
 joint_committee,Local and regional,Joint committees
 judiciary,"Law-making bodies, the courts and the legal system",Judicial institutions
@@ -161,7 +166,9 @@ nhswales,Health,NHS in Wales
 ni_district,Local and regional,District councils (Northern Ireland)
 ni_local_council,Local and regional,Local councils (Northern Ireland)
 non-metropolitan_district,Local and regional,Non-metropolitan district councils
-non_ministerial_department,Central government,Non-ministerial departments
+non_ministerial_department_scotland,Government Departments,Non-ministerial Departments - Scotland
+non_ministerial_department_uk,Government Departments,Non-ministerial Departments - UK
+non_ministerial_department_wales,Government Departments,Non-ministerial Departments - Wales
 north_east,Local and regional,Local councils (North East)
 north_west,Local and regional,Local councils (North West)
 npa,Environment and conservation,National park and conservation authorities
@@ -172,7 +179,7 @@ olrhc,Transport and infrastructure,Operator of Last Resort Holding Companies
 ombudsman,Regulators and ombudsmen,Ombudsmen
 optician,Health,Opticians
 other,Other,Miscellaneous
-other_cg,Central government,Other central government bodies
+other_cg,Government - other,Other central government bodies
 other_defence,Military and security services,Other defence organisations
 other_lg,Local and regional,Other local government bodies
 oxford_college,Education,Oxford colleges
@@ -199,7 +206,7 @@ port_police,Emergency services,Port police forces
 prob_board,"Law-making bodies, the courts and the legal system",Probation boards
 professional_body,Regulators and ombudsmen,Professional bodies
 psb,Local and regional,Public services boards
-public_corporation,Central government,Public corporations
+public_corporation,Government - other,Public corporations
 public_infrastructure,Transport and infrastructure,Companies controlling national infrastructure
 publicly_funded_charities,Other,Publicly funded charities
 railways,Transport and infrastructure,Railway companies
@@ -235,8 +242,9 @@ sthf_imb,"Law-making bodies, the courts and the legal system",Independent Monito
 students_union,Education,Students' unions
 support_for_parliament,"Law-making bodies, the courts and the legal system",Bodies that support the work of parliaments
 surgery,Health,NHS Primary Care Providers
+tax_authority,Finance,Tax authorities
 telecom_company,Energy and utilities|Transport and infrastructure,Telecommunications companies
-test_authority,Defunct bodies,Test authorities
+test_authority,Defunct authorities,Test authorities
 theatre,Media and culture|Recreation,Theatres
 tmo,Housing,Tenant Management Organisations
 toll_company,Transport and infrastructure,Toll companies
@@ -248,6 +256,7 @@ trunk_road_agency,Transport and infrastructure,Trunk road agencies (Wales)
 udc,Local and regional,Urban Development Company
 ukparliament,"Law-making bodies, the courts and the legal system",UK Parliament
 unincorporated_association,By legal form/status,Unincorporated associations
+unit,By legal form/status,Units
 unitary_authority,Local and regional,Unitary authorities (England)
 university,Education,Universities
 university_college,Education,University colleges

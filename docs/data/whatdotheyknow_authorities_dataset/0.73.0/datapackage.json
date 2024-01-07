@@ -229,17 +229,17 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": "Central government"
+                        "example": "Education"
                     }
                 ]
             },
-            "hash": "18fd7e0d8915fce752c68e8909f31df3"
+            "hash": "d22755c0a54be910a0b50dad2d27ff27"
         },
         {
             "title": "Categories",
             "description": "Lookup between a category name, category header, and top-level category of a public authority.",
             "custom": {
-                "row_count": 270,
+                "row_count": 279,
                 "datasette": {
                     "about": "Info & Downloads",
                     "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_categories"
@@ -283,7 +283,7 @@
                     }
                 ]
             },
-            "hash": "d8db9a8a5ff1a2d9769317fd688c0df8"
+            "hash": "49994543539dfb2d6b8fe7c0f6995dde"
         },
         {
             "title": "Public authority ID lookup",
@@ -333,7 +333,7 @@
                     }
                 ]
             },
-            "hash": "954962cceee00f6ac0c3f583072cc7c1"
+            "hash": "65ec9b29b2d9066274f83e0fe0839e38"
         }
     ]
 }
