@@ -16974,9 +16974,9 @@ urn,137049,montsaye_academy_kettering
 wikidata,Q3323165,montsaye_academy_kettering
 charity,exempt,montsaye_academy_kettering
 urn,112843,monyash_ce_primary_school_bakewell
+charity,exempt,moor_end_academy_huddersfield
 urn,137500,moor_end_academy_huddersfield
 wikidata,Q6908029,moor_end_academy_huddersfield
-charity,exempt,moor_end_academy_huddersfield
 urn,124061,moor_first_school_stoke_on_trent
 wikidata,Q66138920,moor_first_school_stoke_on_trent
 urn,131771,moor_green_primary_birmingham
@@ -44848,6 +44848,11 @@ ch,OC415159,surrey_healthy_children_and_families_llp
 dpr,ZA243132,surrey_healthy_children_and_families_llp
 ch,07711859,first_community_healthcare
 wikidata,Q88545563,first_community_healthcare
+dpr,Z7116799,the_nelson_medical_practice
+nhsods,H85020,the_nelson_medical_practice
+nhsORGid,167529,the_nelson_medical_practice
+cqcprovider,1-199747346,the_nelson_medical_practice
+cqc,1-2215797504,the_nelson_medical_practice
 gss,E04006793,duston_parish_council
 mapit,60468,duston_parish_council
 parent_mapit,164186,duston_parish_council
