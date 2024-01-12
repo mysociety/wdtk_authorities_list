@@ -4463,9 +4463,9 @@ wikidata,Q104781009,warrenpoint_harbour_authority
 wikidata,Q105099557,osfcni
 dpr,Z7594386,bury_college
 wikidata,Q5001080,bury_college
-dpr,Z5199192,glyndwr_university
-wikidata,Q3400501,glyndwr_university
-lcnaf,n84221689,glyndwr_university
+dpr,Z5199192,wrexham_university
+lcnaf,n84221689,wrexham_university
+wikidata,Q3400501,wrexham_university
 wikidata,Q105623558,antrim_district_policing_partnership_dpp
 wikidata,Q105623561,ards_district_policing_partnership_dpp
 wikidata,Q105623557,armagh_district_policing_partnership_dpp
@@ -73367,8 +73367,8 @@ ch,11916752,care_plus_group
 ch,IP031272,care_plus_group
 ch,04458072,immediate_care_medical_services_limited
 ch,11410854,elite_event_medical_services_limited
-ch,03866129,st_john_ambulance
-charity,1077265-1,st_john_ambulance
+ch,03866129,sja
+charity,1077265-1,sja
 ch,09717413,enhanced_care_services_limited
 ch,10630643,baems_limited
 ch,12079295,phoenix_response_services_limited
