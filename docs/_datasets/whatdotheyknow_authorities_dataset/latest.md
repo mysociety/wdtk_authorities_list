@@ -203,7 +203,7 @@ resources:
       constraints:
         unique: false
       example: Education
-  hash: 695a946bf7d5165f39ef9e43a50dad2e
+  hash: 526b7a68c0dab76f369007ef3c9d9ff2
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
@@ -276,7 +276,7 @@ resources:
       constraints:
         unique: false
       example: 131_dental_rotherham
-  hash: 6ee491b222a800d880c172142f8daf75
+  hash: 1a555d2df544e59a6e9f8bb6ceb23342
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
 ---
