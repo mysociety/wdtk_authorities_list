@@ -11860,9 +11860,9 @@ ucas,A45,cafre
 wikidata,Q5146616,cafre
 lcnaf,nr2004001151,cafre
 wikidata,Q5187485,crofting_commission
+lcnaf,nb2015017484,isle_of_wight_nhs_trust
 nhsorgcode,R1F,isle_of_wight_nhs_trust
 wikidata,Q16995139,isle_of_wight_nhs_trust
-lcnaf,nb2015017484,isle_of_wight_nhs_trust
 wikidata,Q17026614,torbay_and_southern_devon_health_and_care_nhs_trust
 dpr,Z3086438,barts_health_nhs_trust
 nhsorgcode,R1H,barts_health_nhs_trust
@@ -33054,8 +33054,8 @@ mapit,58187,lydiard_tregoze_parish_council
 parent_mapit,2245,lydiard_tregoze_parish_council
 wikidata,Q104389486,lydiard_tregoze_parish_council
 wikidata,Q7611050,stepney_green_maths_computing_and_science_college
-wikidata,Q7904026,uxbridge_high_school
 charity,exempt,uxbridge_high_school
+wikidata,Q7904026,uxbridge_high_school
 wikidata,Q66221015,cubitt_town_junior_school
 wikidata,Q66220994,ben_johnson_primary_school
 wikidata,Q4950656,bow_school
