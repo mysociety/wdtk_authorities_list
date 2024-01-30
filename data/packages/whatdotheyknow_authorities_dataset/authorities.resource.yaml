@@ -1,7 +1,7 @@
 title: Public Authorities
 description: WhatDoTheyKnow's list of UK public authorities
 custom:
-  row_count: 46407
+  row_count: 46409
 path: authorities.csv
 name: authorities
 profile: tabular-data-resource
@@ -84,10 +84,10 @@ schema:
       >by clicking here</a></b>.</p>\r\n</div> <p>This body is a <abbr title=\"sometimes\
       \ also referred to as a Housing Association\">Registered Social Landlord</abbr>\
       \ (RSL), in Scotland.</p>\r\n\r\n<p>RSLs became subject to transparency legislation\
-      \ on 11 November 2019, after they were <a href=\"https://www.itspublicknowledge.info/registered-social-landlords\"\
+      \ in November 2019, after they were <a href=\"https://www.itspublicknowledge.info/registered-social-landlords\"\
       \ title=\"Find out more about designation on the Scottish Information Commissioner's\
       \ website (opens in a new tab)\" target=\"_blank\">'designated' by the Scottish\
-      \ Ministers.</a>\r\n</p>\r\n<hr>\r\n<h3>Need help with housing issues?</h3>\r\
+      \ Ministers</a>.\r\n</p>\r\n<hr>\r\n<h3>Need help with housing issues?</h3>\r\
       \nYou can't use our service to ask for help with housing issues.\r\n<br />\r\
       \nIf you need help with a problem, <a href=\"https://www.citizensadvice.org.uk/scotland/housing/\"\
       \ title=\"Information about housing on the Citizens Advice Scotland website\
@@ -148,4 +148,4 @@ schema:
     constraints:
       unique: false
     example: Education
-hash: e8ba40e9329ccce8cdc08d1b58e4df4c
+hash: d50fd6685ee883455ba14219855ac51b

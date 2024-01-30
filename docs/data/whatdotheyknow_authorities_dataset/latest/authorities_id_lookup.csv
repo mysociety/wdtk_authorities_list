@@ -45608,8 +45608,8 @@ urn,139703,chobham_academy_london
 charity,exempt,chobham_academy_london
 urn,144606,holy_trinity_catholic_and_church_of_england_school_barnsley
 charity,exempt,holy_trinity_catholic_and_church_of_england_school_barnsley
-urn,138518,ark_isaac_newton_academy_ilford
 charity,exempt,ark_isaac_newton_academy_ilford
+urn,138518,ark_isaac_newton_academy_ilford
 charity,exempt,oasis_academy_don_valley_sheffield
 unit,oasis_community_learning,oasis_academy_don_valley_sheffield
 urn,140394,oasis_academy_don_valley_sheffield
@@ -83178,3 +83178,7 @@ shr,280,riverside_scotland
 ch,SP2459RS,riverside_scotland
 charity,SC042251,riverside_scotland
 ch,SP2508RS,sanctuary_scotland_housing_association
+charity,SC036604,yoker_housing_association
+shr,208,yoker_housing_association
+pfrn,PF000335,yoker_housing_association
+charity,SC035350,williamsburgh_housing_association

@@ -52,7 +52,7 @@ resources:
 - title: Public Authorities
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
-    row_count: 46407
+    row_count: 46409
     datasette:
       about: Info & Downloads
       about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities
@@ -139,10 +139,10 @@ resources:
         >by clicking here</a></b>.</p>\r\n</div> <p>This body is a <abbr title=\"\
         sometimes also referred to as a Housing Association\">Registered Social Landlord</abbr>\
         \ (RSL), in Scotland.</p>\r\n\r\n<p>RSLs became subject to transparency legislation\
-        \ on 11 November 2019, after they were <a href=\"https://www.itspublicknowledge.info/registered-social-landlords\"\
+        \ in November 2019, after they were <a href=\"https://www.itspublicknowledge.info/registered-social-landlords\"\
         \ title=\"Find out more about designation on the Scottish Information Commissioner's\
         \ website (opens in a new tab)\" target=\"_blank\">'designated' by the Scottish\
-        \ Ministers.</a>\r\n</p>\r\n<hr>\r\n<h3>Need help with housing issues?</h3>\r\
+        \ Ministers</a>.\r\n</p>\r\n<hr>\r\n<h3>Need help with housing issues?</h3>\r\
         \nYou can't use our service to ask for help with housing issues.\r\n<br />\r\
         \nIf you need help with a problem, <a href=\"https://www.citizensadvice.org.uk/scotland/housing/\"\
         \ title=\"Information about housing on the Citizens Advice Scotland website\
@@ -203,7 +203,7 @@ resources:
       constraints:
         unique: false
       example: Education
-  hash: e8ba40e9329ccce8cdc08d1b58e4df4c
+  hash: d50fd6685ee883455ba14219855ac51b
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
@@ -245,7 +245,7 @@ resources:
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
   custom:
-    row_count: 83180
+    row_count: 83184
     datasette:
       about: Info & Downloads
       about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_id_lookup
@@ -276,7 +276,7 @@ resources:
       constraints:
         unique: false
       example: 131_dental_rotherham
-  hash: 98f5605d9755eb40f0e3e1751ef36662
+  hash: ad50565a79b264ebdba8562db02261af
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
 ---
