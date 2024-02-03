@@ -30896,6 +30896,7 @@ charity,SC032859,cordale_housing_association_limited
 charity,SC031879,craigdale_housing_association_limited
 charity,SC033021,cube
 dpr,Z5012316,cube
+charity,SCO46239,drumchapel_housing_co_operative_limited
 ch,SC220297,dghp
 charity,SC039896,dghp
 dpr,Z7078924,dghp
@@ -53287,8 +53288,8 @@ urn,139297,greengate_lane_academy_sheffield
 charity,exempt,greengate_lane_academy_sheffield
 urn,142203,northfield_manor_primary_academy_birmingham
 charity,exempt,northfield_manor_primary_academy_birmingham
-urn,144668,west_hill_primary_academy_dartford
 charity,exempt,west_hill_primary_academy_dartford
+urn,144668,west_hill_primary_academy_dartford
 urn,146494,saxmundham_primary_school_saxmundham
 charity,exempt,saxmundham_primary_school_saxmundham
 urn,138022,st_marys_cofe_academy_stotfold_hitchin
