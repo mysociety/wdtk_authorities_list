@@ -32537,9 +32537,12 @@ gss,E04000178,ripponden_parish_council
 mapit,62338,ripponden_parish_council
 parent_mapit,2518,ripponden_parish_council
 wikidata,Q104390702,ripponden_parish_council
+ch,SP2469RS,wellhouse_housing_association
 charity,SC036552,wellhouse_housing_association
 dpr,Z5916557,wellhouse_housing_association
-ch,SP2469RS,wellhouse_housing_association
+mutual,2469RS,wellhouse_housing_association
+pfrn,PF000109,wellhouse_housing_association
+shr,281,wellhouse_housing_association
 ch,06330639,uksbs
 wikidata,Q61930737,sanctuary_housing
 wikidata,Q17150771,cardiff_sixth_form_college
@@ -83199,3 +83202,9 @@ charity,SCO44023,reidvale_housing_association
 charity,SC031954,hjaltland_housing_association
 mutual,1832RS,hjaltland_housing_association
 sha,127,hjaltland_housing_association
+mutual,2195RS,hawthorn_housing_co_operative
+shr,171,hawthorn_housing_co_operative
+ch,SP02378R,kingsridge_cleddans_housing_association
+mutual,2378RS,kingsridge_cleddans_housing_association
+charity,SC038236,kingsridge_cleddans_housing_association
+shr,234,kingsridge_cleddans_housing_association
