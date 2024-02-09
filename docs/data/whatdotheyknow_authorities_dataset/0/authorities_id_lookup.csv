@@ -32597,6 +32597,7 @@ urn,137523,wellsway_school_keynsham
 wikidata,Q7981786,wellsway_school_keynsham
 charity,exempt,wellsway_school_keynsham
 charity,SC039891,milnbank_housing_association
+ch,SP01818R,milnbank_housing_association
 dpr,Z627136X,milnbank_housing_association
 shr,161,milnbank_housing_association
 wikidata,Q59536947,milnbank_housing_association
@@ -83211,3 +83212,9 @@ shr,234,kingsridge_cleddans_housing_association
 ch,SP02289R,lochaber_housing_association
 shr,151,lochaber_housing_association
 charity,30951,lochaber_housing_association
+ch,SP02400R,molendinar_park_housing_association
+pfrn,PF000125charity,molendinar_park_housing_association
+Charity,SC043725,molendinar_park_housing_association
+vat,GB774544404,queens_cross_housing_association_limited
+shr,172,queens_cross_housing_association_limited
+charity,SC036434,queens_cross_housing_association_limited
