@@ -8294,8 +8294,9 @@ wikidata,Q7079354,ocpas
 wikidata,Q6954119,nhs_confederation
 lcnaf,nr2005002948,panel_on_takeovers_and_mergers
 wikidata,Q7130827,panel_on_takeovers_and_mergers
-wikidata,Q3606488,qaa
+ch,03344784,qaa
 lcnaf,nr2001023342,qaa
+wikidata,Q3606488,qaa
 wikidata,Q5531808,bar_council
 wikidata,Q24993357,nrpsi
 ch,06458829,isi
@@ -83282,3 +83283,10 @@ charity,SC001026,link_group
 mutual,1481RS,link_group
 shr,148,link_group
 ch,SP1876RS,lister_housing_co_op
+ch,SP1800RS,linthouse_housing_association
+charity,SC028161,linthouse_housing_association
+mutual,1800RS,linthouse_housing_association
+shr,149,linthouse_housing_association
+mutual,1800RS,lochfield_park_housing
+shr,149,lochfield_park_housing
+charity,SC028161,lochfield_park_housing

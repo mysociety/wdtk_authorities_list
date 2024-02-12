@@ -47,6 +47,7 @@ cja,"Law-making bodies, the courts and the legal system",Community justice autho
 cjc,Local and regional,Corporate Joint Committees
 combined_authority,Local and regional,Combined authorities
 commercial_water,Energy and utilities,Non-domestic water and sewerage service providers
+community_benefit_society,By legal form/status,Community benefit societies
 community_services_trust,Health,Community Services Trusts
 company_owned_by_local_gov,Local and regional,Companies owned by local government
 compensation_scheme,Finance,Compensation schemes
@@ -55,6 +56,7 @@ coroners_office,"Law-making bodies, the courts and the legal system",Coroners' o
 corporation_sole,By legal form/status,Corporations sole
 county,Local and regional,County councils
 court,"Law-making bodies, the courts and the legal system",Courts
+crown_body,By legal form/status,Crown Bodies
 dance,Media and culture|Recreation,Dance companies
 defunct,Defunct authorities,Defunct authorities
 dentist,Health,NHS dentists
@@ -213,6 +215,7 @@ railways,Transport and infrastructure,Railway companies
 rbc,Education,Regional Broadband Consortia
 regional_schools_commissioner,Education,Regional Schools Commissioners
 regional_water,Energy and utilities,Regional water supplier
+registered_society,By legal form/status,Registered societies
 regulator,Regulators and ombudsmen,Regulators
 research_council,Education,Research councils
 royal_charter,By legal form/status,Bodies with a royal charter

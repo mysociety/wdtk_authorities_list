@@ -2,7 +2,7 @@ title: Categories
 description: Lookup between a category name, category header, and top-level category
   of a public authority.
 custom:
-  row_count: 279
+  row_count: 282
 path: authorities_categories.csv
 name: authorities_categories
 profile: tabular-data-resource
@@ -31,4 +31,4 @@ schema:
     constraints:
       unique: true
     example: Academic Health Science Networks
-hash: b47e8c30ebff01267e07b7e1d1e2ee9b
+hash: a9c09aea165d4af94ccb26b22dabe987
