@@ -4,10 +4,12 @@ gss,E08000012,liverpool_city_council
 la,341,liverpool_city_council
 mapit,2527,liverpool_city_council
 wikidata,Q6658351,liverpool_city_council
+vat,GB888834255,house_of_commons
 coins,HOA038,house_of_commons
 dpr,Z8887540,house_of_commons
 lcnaf,n79113783,house_of_commons
 wikidata,Q11005,house_of_commons
+vat,GB888834059,house_of_lords
 coins,HOL037,house_of_lords
 dpr,Z884851X,house_of_lords
 lcnaf,n80001216,house_of_lords
@@ -2580,11 +2582,12 @@ wikidata,Q7567117,seeda
 lcnaf,nb2004305762,seeda
 wikidata,Q8055713,yorkshire_forward
 lcnaf,no2001034116,yorkshire_forward
+ror,04p3y0q03,bank_of_england
+ch,RC000042,bank_of_england
 dpr,Z5506213,bank_of_england
 lcnaf,n80020301,bank_of_england
 lei,YUEDD7W89PH0FV8Q2S28,bank_of_england
 wikidata,Q183231,bank_of_england
-ch,RC000042,bank_of_england
 coins,CFT048,channel_4
 dpr,Z4911076,channel_4
 wikidata,Q5072394,channel_4
@@ -4347,9 +4350,9 @@ wikidata,Q1465461,national_grid_plc
 wikidata,Q17984621,land_and_property_services
 dpr,Z6809635,northern_ireland_audit_office
 wikidata,Q104417469,northern_ireland_audit_office
-coins,OFM211,executive_office_northern_ireland
-dpr,Z7884472,executive_office_northern_ireland
-wikidata,Q25182600,executive_office_northern_ireland
+coins,OFM211,executive_office
+dpr,Z7884472,executive_office
+wikidata,Q25182600,executive_office
 dpr,Z6125990,northern_ireland_assembly
 wikidata,Q285714,northern_ireland_assembly
 lcnaf,n50034139,northern_ireland_assembly
@@ -4392,8 +4395,8 @@ wikidata,Q101531582,bcni
 dpr,Z9873216,afbi
 wikidata,Q30284546,afbi
 lcnaf,nb2006025199,afbi
-wikidata,Q17510831,forest_service_northern_ireland
 lcnaf,n84088461,forest_service_northern_ireland
+wikidata,Q17510831,forest_service_northern_ireland
 dpr,Z9139226,livestock_and_meat_commission_for_northern_ireland
 wikidata,Q7338287,rivers_agency_northern_ireland
 dpr,Z6423195,benwick_idb
@@ -4472,8 +4475,8 @@ ch,NI054463,ni_water
 coins,NIW099,ni_water
 dpr,Z9774154,ni_water
 wikidata,Q104780979,northern_ireland_water_council
-wikidata,Q4591838,public_record_office_northern_ireland
-lcnaf,n50069210,public_record_office_northern_ireland
+lcnaf,n50069210,proni
+wikidata,Q4591838,proni
 dpr,Z5082494,dfi_roads
 wikidata,Q104781009,warrenpoint_harbour_authority
 wikidata,Q105099557,osfcni
@@ -4563,8 +4566,8 @@ dpr,Z6517119,royal_botanic_gardens_kew
 wikidata,Q18748726,royal_botanic_gardens_kew
 charity,exempt,royal_botanic_gardens_kew
 coins,DSA004,dsa
-wikidata,Q57202785,dsa
 lcnaf,n99253993,dsa
+wikidata,Q57202785,dsa
 dpr,Z4857137,transport_scotland
 wikidata,Q7834896,transport_scotland
 ch,00974438,london_metropolitan_university
@@ -4827,8 +4830,8 @@ dpr,Z7475057,hesa
 lcnaf,no98071269,hesa
 wikidata,Q5758120,hesa
 dpr,ZA619899,rcahmw
-wikidata,Q7374037,rcahmw
 lcnaf,n87948837,rcahmw
+wikidata,Q7374037,rcahmw
 wikidata,Q7374016,royal_commission_on_environmental_pollution
 dpr,ZA271656,chilterns_aonb
 dpr,ZA438403,cotswolds_aonb
@@ -4836,6 +4839,7 @@ wikidata,Q61930784,shoreditch_trust
 charity,1094807,preston_road_neighbourhood_development_company_limited
 ch,04012143,preston_road_neighbourhood_development_company_limited
 wikidata,Q5062628,national_protective_security_authority
+vat,GB888813658,gchq
 dpr,Z4664990,gchq
 lcnaf,n84095473,gchq
 wikidata,Q220798,gchq
@@ -5211,7 +5215,7 @@ dpr,Z7336887,spso
 wikidata,Q28377930,the_adjudicators_office
 coins,PPP004,ppp_arbiter
 ch,05014821,nepo
-vat,104107865,nepo
+vat,GB104107865,nepo
 wikidata,Q5251177,defence_equipment_and_support
 lcnaf,nb2008016089,defence_equipment_and_support
 ch,SC314764,apuc_limited
@@ -5585,11 +5589,11 @@ wikidata,Q104416662,nhs_leicestershire_county_and_rutland
 wikidata,Q104416599,nhs_darlington
 wikidata,Q104416525,nhs_portsmouth
 wikidata,Q104416590,nhs_west_kent
-vat,788137975,crossrail
-wikidata,Q732649,crossrail
 ch,04212657,crossrail
-owned_by,ttl,crossrail
 dpr,ZA520336,crossrail
+owned_by,ttl,crossrail
+vat,GB788137975,crossrail
+wikidata,Q732649,crossrail
 wikidata,Q7437744,sfc_or_the_scottish_funding_council
 lcnaf,nb2006013939,sfc_or_the_scottish_funding_council
 wikidata,Q5758074,hefce
@@ -6957,7 +6961,7 @@ wikidata,Q4686489,adventure_activities_licensing_authority
 wikidata,Q18161744,parrenthorn_high_school
 ch,05409076,cwdc
 coins,CWD022,cwdc
-vat,gb895108987,cwdc
+vat,GB895108987,cwdc
 wikidata,Q5098241,cwdc
 urn,130582,east_riding_college
 wikidata,Q5329257,east_riding_college
@@ -7111,10 +7115,10 @@ dpr,Z2123767,surrey_and_sussex_probation_trust
 wikidata,Q105377293,surrey_and_sussex_probation_trust
 wikidata,Q5175347,cotham_school_bristol
 wikidata,Q7403797,sale_grammar_school
-ch,07686209,royal_latin_school_buckingham
-charity,exempt,royal_latin_school_buckingham
-dpr,Z2955259,royal_latin_school_buckingham
-urn,137344,royal_latin_school_buckingham
+ch,07686209,royal_latin_school
+charity,exempt,royal_latin_school
+dpr,Z2955259,royal_latin_school
+urn,137344,royal_latin_school
 wikidata,Q5225614,dartford_grammar_school
 urn,118931,dover_grammar_school_for_boys
 wikidata,Q5302487,dover_grammar_school_for_boys
@@ -63797,8 +63801,8 @@ urn,136198,university_academy_keighley_keighley
 charity,exempt,university_academy_keighley_keighley
 urn,142031,beckfoot_upper_heaton_bradford
 charity,exempt,beckfoot_upper_heaton_bradford
-urn,144014,brune_park_community_school_gosport
 charity,exempt,brune_park_community_school_gosport
+urn,144014,brune_park_community_school_gosport
 urn,136135,kearsley_academy_bolton
 charity,exempt,kearsley_academy_bolton
 urn,135744,the_sir_robert_woodard_academy_sompting
@@ -82569,7 +82573,7 @@ ch,RC000719,libf
 urn,3339,university_of_brighton_academies_trust
 ch,09903246,via_east_midlands_limited
 dpr,ZA191184,via_east_midlands_limited
-vat,gb238995643,via_east_midlands_limited
+vat,GB238995643,via_east_midlands_limited
 ch,10074366,arc_partnership
 dpr,ZA306412,arc_partnership
 ch,08138372,rise_multi_academy_trust
@@ -82589,7 +82593,7 @@ spuid,16088,the_two_counties_trust
 dpr,Z6414129,wellington_medical_centre_somerset
 NHSChoicesID,XL85012,wellington_medical_centre_somerset
 ch,02077766,newcastle_international_airport
-vat,gb135572609,newcastle_international_airport
+vat,GB135572609,newcastle_international_airport
 unit,cabinet_office,epc
 ukprn,10037544,bimm
 ch,RC000125,ucem
@@ -82601,7 +82605,7 @@ charity,1001839,national_centre_for_circus_arts
 dpr,Z1018117,national_centre_for_circus_arts
 ofs,10001444,national_centre_for_circus_arts
 ukprn,10001444,national_centre_for_circus_arts
-vat,gb810331485,national_centre_for_circus_arts
+vat,GB810331485,national_centre_for_circus_arts
 wikidata,Q7723096,national_centre_for_circus_arts
 ofs,10005378,rambert_school_of_ballet_and_contemporary_dance
 ukprn,10005378,rambert_school_of_ballet_and_contemporary_dance
@@ -82899,7 +82903,7 @@ dpr,ZA262769,rxlive_limited
 gphc,9010611,rxlive_limited
 ch,07689815,durham_students_union
 charity,1145400,durham_students_union
-vat,gb119736690,durham_students_union
+vat,GB119736690,durham_students_union
 ch,7759820,university_of_manchester_students_union
 ch,10279393,university_of_derby_students_union
 charity,1169283,university_of_derby_students_union
@@ -82939,7 +82943,7 @@ ch,07217324,university_of_exeter_students_guild
 charity,1136468,university_of_exeter_students_guild
 ch,07990838,greenwich_students_union
 charity,1149394,greenwich_students_union
-vat,gb206396759,greenwich_students_union
+vat,GB206396759,greenwich_students_union
 ch,08961281,electricity_settlements_company
 dpr,ZA114242,electricity_settlements_company
 ch,08818711,lccc
@@ -82948,7 +82952,7 @@ ch,10464111,lancaster_university_students_union
 ch,7297865,warwick_students_union
 charity,1136894,warwick_students_union
 su_parent,university_of_warwick,warwick_students_union
-vat,gb705318457,warwick_students_union
+vat,GB705318457,warwick_students_union
 ch,04117784,skills_and_education_group_awards
 charity,1086947,skills_and_education_group_awards
 ch,08126776,uwsu
@@ -82967,7 +82971,7 @@ charity,1197170,huddersfield_students_union
 charity,1143154,university_of_bath_students_union
 ch,180670072,ubu
 charity,1148622,ubu
-vat,gb180670072,ubu
+vat,GB180670072,ubu
 ch,3934555,university_of_portsmouth_students_union
 charity,1136115,university_of_portsmouth_students_union
 ch,8497016,aston_students_union
@@ -83032,7 +83036,7 @@ charity,1138587,de_montfort_students_union
 ch,11448054,jmsu
 charity,1142741,jmsu
 charity,1144827,northampton_students_union
-vat,gb338179475,northampton_students_union
+vat,GB338179475,northampton_students_union
 ch,08064796,nua_students_union
 charity,1148574,nua_students_union
 ch,12592489,the_students_union_at_bu_ltd
@@ -83060,7 +83064,7 @@ charity,1142619,ccsu
 ch,7719030,arts_su
 charity,1143161,arts_su
 su_parent,university_of_the_arts_london,arts_su
-vat,gb126316730,arts_su
+vat,GB126316730,arts_su
 ch,07314850,oxford_university_student_union
 charity,1140687,oxford_university_student_union
 ch,NI646426,uusu
