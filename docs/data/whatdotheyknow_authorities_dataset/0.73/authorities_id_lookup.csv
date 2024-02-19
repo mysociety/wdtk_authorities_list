@@ -7711,9 +7711,9 @@ wikidata,Q15195495,aylesbury_vale_academy
 charity,exempt,aylesbury_vale_academy
 wikidata,Q5566386,aylward_academy
 charity,exempt,aylward_academy
+charity,exempt,bacons_college
 urn,145313,bacons_college
 wikidata,Q4839913,bacons_college
-charity,exempt,bacons_college
 charity,exempt,barnfield_business_and_enterprise_studio_academy
 charity,exempt,barnfield_south_academy_luton
 charity,exempt,barnfield_west_academy_luton
@@ -63220,8 +63220,8 @@ urn,139993,woking_high_school_woking
 charity,exempt,woking_high_school_woking
 urn,139029,ridgeway_secondary_school_redditch
 charity,exempt,ridgeway_secondary_school_redditch
-urn,136309,kingsdale_foundation_school
 charity,exempt,kingsdale_foundation_school
+urn,136309,kingsdale_foundation_school
 urn,137388,christs_college_finchley_london
 charity,exempt,christs_college_finchley_london
 urn,138178,riddlesdown_collegiate_purley
