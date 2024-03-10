@@ -102,7 +102,6 @@ highways,Local and regional|Transport and infrastructure,Highways Operators
 his,Health,Health Informatic Services
 honours_system,Royal and ceremonial,Honours system
 hospital_trust,Health,Hospital trusts
-housing_association,Housing,Housing associations
 housing_regulator,Housing|Regulators and ombudsmen,Housing regulators
 hscpscot,Health|Organisations whose members are public authorities,Health and Social Care Partnerships (Scotland)
 hscr,Health|Regulators and ombudsmen,Health and social care regulators
@@ -222,8 +221,10 @@ royal_charter,By legal form/status,Bodies with a royal charter
 royal_college,Health,Royal Colleges
 royal_commission,By legal form/status,Royal commissions
 rpa,Environment and conservation,Regional park authorities
-rsl,Housing,Registered Social Landlord
-rslscot,Housing,Registered Social Landlord (Scotland)
+rsleng,Housing,Registered Social Landlords (England)
+rslni,Housing,Registered Social Landlords (NI)
+rslscot,Housing,Registered Social Landlords (Scotland)
+rslwales,Housing,Registered Social Landlords (Wales)
 rules_committee,"Law-making bodies, the courts and the legal system",Rules committees
 school,Education,Schools
 school_inspectorate,Education,School inspectorates
