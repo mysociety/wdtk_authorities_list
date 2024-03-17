@@ -1,7 +1,7 @@
 title: Public Authorities
 description: WhatDoTheyKnow's list of UK public authorities
 custom:
-  row_count: 46491
+  row_count: 46496
 path: authorities.csv
 name: authorities
 profile: tabular-data-resource
@@ -87,9 +87,21 @@ schema:
       \ in November 2019, after they were <a href=\"https://www.itspublicknowledge.info/registered-social-landlords\"\
       \ title=\"Find out more about designation on the Scottish Information Commissioner's\
       \ website (opens in a new tab)\" target=\"_blank\">'designated' by the Scottish\
-      \ Ministers</a>.\r\n</p>\r\n<hr>\r\n<h3>Need help with housing issues?</h3>\r\
-      \nYou can't use our service to ask for help with housing issues.\r\n<br />\r\
-      \nIf you need help with a problem, <a href=\"https://www.citizensadvice.org.uk/scotland/housing/\"\
+      \ Ministers</a>. RSLs are subject to FOI legislation for activities relating\
+      \ to the management of social housing and <abbr title=\"A Scottish RSL is subject\
+      \ to FOI law in relation to any activity relating to (1) the management of social\
+      \ housing accommodation, (2) the prevention and alleviation of homelessness,\
+      \ (3) the provision and management of sites for gypsies and travellers and (4)\
+      \ supplying information to the Scottish Housing Regulator in relation to the\
+      \ RSLs financial well-being and standards of governance. RSLs are not subject\
+      \ to FOI law for activities relating to property factoring. Property factoring\
+      \ means looking after the shared parts of land or buildings owned by more than\
+      \ one person such as the stairs and corridors.\">certain other activities</abbr/>.\r\
+      \n</p>\r\n<hr>\r\n<h3>Need help with housing issues?</h3>\r\n<p>You can't use\
+      \ our service to ask for help with housing issues or for customer service enquiries\
+      \ (<a href=\"https://www.whatdotheyknow.com/help/requesting#data_protection\"\
+      \ alt=\"find out why\">find out why</a>).\r\n</p>\r\n<p>\r\nIf you need help\
+      \ with a problem, <a href=\"https://www.citizensadvice.org.uk/scotland/housing/\"\
       \ title=\"Information about housing on the Citizens Advice Scotland website\
       \ (opens in a new tab)\" target=\"_blank\">Citizens Advice Scotland</a>, and\
       \ <a href=\"https://scotland.shelter.org.uk\" target=\"_blank\" title=\"Shelter\
@@ -148,4 +160,4 @@ schema:
     constraints:
       unique: false
     example: Education
-hash: 00e3caff6c122f3e403dfbe8cf422915
+hash: 55a8932a2d01426f8edafacaae77aa8e
