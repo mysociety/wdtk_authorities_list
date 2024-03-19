@@ -2749,10 +2749,11 @@ dpr,Z8003783,imperial_war_museum
 lcnaf,n80044915,imperial_war_museum
 wikidata,Q749808,imperial_war_museum
 charity,exempt,imperial_war_museum
+charity,1139250,museum_of_london
 coins,E5105,museum_of_london
 dpr,Z4956770,museum_of_london
-wikidata,Q917820,museum_of_london
 lcnaf,n81129966,museum_of_london
+wikidata,Q917820,museum_of_london
 charity,237902,the_national_army_museum
 dpr,Z5368249,the_national_army_museum
 wikidata,Q731616,the_national_army_museum
@@ -47572,7 +47573,7 @@ urn,138565,central_hub_brighton_brighton
 urn,131134,trafford_alternative_education_provision_altrincham
 urn,126171,eotas_swindon_swindon
 urn,135432,kent_health_needs_education_service_west_malling
-urn,131294,the_horizon_school_hartlepool_hartlepool
+urn,131294,the_horizon_school_hartlepool
 urn,134274,new_river_college_medical_london
 urn,104418,meadow_park_school_knowsley
 urn,108666,alternative_education_service_the_beacon_centre_south_shields
@@ -64508,8 +64509,8 @@ urn,145577,longfield_academy_darlington
 charity,exempt,longfield_academy_darlington
 urn,137082,nene_park_academy_peterborough
 charity,exempt,nene_park_academy_peterborough
-urn,140210,mossbourne_victoria_park_academy_london
 charity,exempt,mossbourne_victoria_park_academy_london
+urn,140210,mossbourne_victoria_park_academy_london
 urn,137109,ormiston_ilkeston_enterprise_academy_ilkeston
 charity,exempt,ormiston_ilkeston_enterprise_academy_ilkeston
 urn,138505,arrow_vale_rsa_academy_redditch
