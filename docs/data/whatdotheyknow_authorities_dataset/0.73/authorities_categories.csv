@@ -2,7 +2,6 @@ category-tag,top-level-category,category-name
 ACJPS,"Law-making bodies, the courts and the legal system",Advisory Committees on Justices of the Peace
 CRC,"Law-making bodies, the courts and the legal system",Community Rehabilitation Companies
 LEP,Local and regional,Local Enterprise Partnerships
-MDC,Local and regional,Mayoral development corporation
 NHSScotland,Health,NHS Scotland
 RFCAs,Military and security services,Reserve Forces' and Cadets' Associations
 UTLA,Local and regional,Upper tier local authorities
@@ -146,6 +145,7 @@ lscp,Local and regional,Local Safeguarding Children Partnership
 main_police_force,Emergency services,Main police forces
 major_ae,Health,Bodies Responsible for Major A&E Departments
 mcz,Environment and conservation,Marine conservation zones
+mdc,Local and regional,Mayoral development corporation
 media,Media and culture,Media organisations
 media_regulator,Media and culture|Regulators and ombudsmen,Media regulators
 mental_health_trust,Health,Mental Health Trusts

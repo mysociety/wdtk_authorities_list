@@ -3548,7 +3548,6 @@ wikidata,Q843265,sport_england
 dpr,Z5347709,ico
 wikidata,Q1662473,ico
 lcnaf,nr2004016222,ico
-wikidata,Q104780232,norfolk_museums_and_archaeology_service
 dpr,Z7523187,south_east_water
 wikidata,Q7567143,south_east_water
 coins,PLA004,port_of_london_authority
@@ -6691,8 +6690,10 @@ wikidata,Q15243852,mggs
 wikidata,Q6735519,mgs
 lcnaf,n98880675,mgs
 wikidata,Q6483179,lggs
-wikidata,Q3166571,lrgs
+urn,136742,lrgs
+charity,exempt,lrgs
 lcnaf,n84009438,lrgs
+wikidata,Q3166571,lrgs
 wikidata,Q6486248,langley_grammar_school
 wikidata,Q6504589,lawrence_sheriff_school
 wikidata,Q6680925,loreto_grammar_school
@@ -6778,6 +6779,7 @@ wikidata,Q7270444,queen_marys_grammar_school
 wikidata,Q7300559,reading_school
 charity,exempt,reading_school
 wikidata,Q7322435,ribston_hall_high_school
+urn,121694,ripon_grammar_school
 wikidata,Q7335666,ripon_grammar_school
 wikidata,Q7378189,rugby_high_school
 charity,exempt,rugby_high_school
@@ -6812,6 +6814,8 @@ dpr,Z502968X,the_latymer_school_london
 wikidata,Q7764635,the_skinners_school
 wikidata,Q5092923,chesham_high_school
 wikidata,Q15136441,colyton_grammar_school
+charity,exempt,colchester_royal_grammar_school
+urn,137814,colchester_royal_grammar_school
 wikidata,Q5142105,colchester_royal_grammar_school
 wikidata,Q5142084,colchester_county_high_school_for_girls
 wikidata,Q5134440,clitheroe_royal_grammar_school
@@ -7823,8 +7827,6 @@ wikidata,Q21061667,freebrough_academy
 charity,exempt,freebrough_academy
 wikidata,Q19461879,fulwood_academy
 charity,exempt,fulwood_academy
-wikidata,Q5509644,furness_academy
-charity,exempt,furness_academy
 wikidata,Q15221538,george_salter_collegiate_academy
 charity,exempt,george_salter_collegiate_academy
 wikidata,Q5570965,globe_academy
@@ -11108,6 +11110,7 @@ parent_mapit,152160,walberswick_parish_council
 wikidata,Q104383292,walberswick_parish_council
 wikidata,Q4809948,association_of_north_east_councils
 wikidata,Q7864814,admlc
+wikidata,Q117007745,norfolk_museums_service
 wikidata,Q66165619,st_ursulas_e_act_academy
 charity,exempt,st_ursulas_e_act_academy
 wikidata,Q7138591,e_act_leeds_east_academy
@@ -21960,8 +21963,9 @@ urn,119151,fulwood_and_cadley_primary_school_preston
 wikidata,Q66137376,fulwood_and_cadley_primary_school_preston
 urn,119416,fulwood_st_peters_ce_primary_school_with_newlands_nursery_preston
 urn,132235,furley_park_primary_school_ashford
-urn,135940,furness_academy_barrow_in_furness
+wikidata,Q5509644,furness_academy_barrow_in_furness
 charity,exempt,furness_academy_barrow_in_furness
+urn,135940,furness_academy_barrow_in_furness
 urn,112648,furness_vale_primary_school_high_peak
 wikidata,Q66136779,furness_vale_primary_school_high_peak
 urn,117394,furneux_pelham_ce_school_buntingford
@@ -33104,7 +33108,6 @@ parent_mapit,2592,coity_higher_community_council_bridgend
 wikidata,Q104598455,coity_higher_community_council_bridgend
 wikidata,Q66167670,minehead_first_school
 wikidata,Q66169496,plasmarl_primary_school_swansea
-wikidata,Q65970611,dixons_marchbank_primary_school_bradford
 wikidata,Q67149437,endeavour_primary_school_andover
 wikidata,Q7535855,skipton_girls_high_school
 charity,exempt,skipton_girls_high_school
@@ -40127,7 +40130,6 @@ wikidata,Q7593378,st_hildas_church_of_england_high_school_liverpool
 wikidata,Q7588008,st_francis_xaviers_catholic_academy
 wikidata,Q7587802,st_edwards_college_liverpool
 wikidata,Q7063373,notre_dame_catholic_college_liverpool
-wikidata,Q6658359,liverpool_college_mossley_hill
 wikidata,Q18162470,kings_leadership_academy_liverpool
 wikidata,Q5019068,calderstones_school
 wikidata,Q4883808,bellerive_fcj_catholic_college
@@ -44672,8 +44674,8 @@ parent_mapit,2613,the_gorge_parish_council
 wikidata,Q104390988,the_gorge_parish_council
 wikidata,Q4879146,bedford_free_school_bedford
 charity,exempt,bedford_free_school_bedford
-wikidata,Q20648596,old_oak_and_park_royal_development_corporation
 lcnaf,no2018174553,old_oak_and_park_royal_development_corporation
+wikidata,Q20648596,old_oak_and_park_royal_development_corporation
 dpr,ZA239434,nightingale_infant_and_nursery_school_taverham_norwich
 urn,146550,nightingale_infant_and_nursery_school_taverham_norwich
 wikidata,Q39045723,surveillance_camera_commissioner
@@ -46053,8 +46055,9 @@ urn,144479,tudor_grange_samworth_academy_a_church_of_england_school_leicester
 charity,exempt,tudor_grange_samworth_academy_a_church_of_england_school_leicester
 urn,141318,bournville_school_birmingham
 charity,exempt,bournville_school_birmingham
-charity,exempt,liverpool_college_liverpool
-urn,139686,liverpool_college_liverpool
+charity,exempt,liverpool_college
+urn,139686,liverpool_college
+wikidata,Q6658359,liverpool_college
 charity,exempt,cranbrook_education_campus_exeter
 urn,141514,cranbrook_education_campus_exeter
 charity,exempt,st_martins_school_3_16_learning_community_oswestry
@@ -55253,8 +55256,9 @@ urn,140169,craven_primary_academy_hull
 charity,exempt,craven_primary_academy_hull
 urn,140661,cravenwood_primary_academy_manchester
 charity,exempt,cravenwood_primary_academy_manchester
-urn,140358,dixons_marchbank_primary_bradford
+wikidata,Q65970611,dixons_marchbank_primary_bradford
 charity,exempt,dixons_marchbank_primary_bradford
+urn,140358,dixons_marchbank_primary_bradford
 urn,138377,the_dolphin_school_bristol
 charity,exempt,the_dolphin_school_bristol
 urn,145250,dunston_primary_and_nursery_academy_chesterfield
@@ -62858,8 +62862,6 @@ urn,139538,st_aidans_catholic_academy_sunderland
 charity,exempt,st_aidans_catholic_academy_sunderland
 urn,137969,bosworth_academy_leicester
 charity,exempt,bosworth_academy_leicester
-urn,136742,lancaster_royal_grammar_school_lancaster
-charity,exempt,lancaster_royal_grammar_school_lancaster
 urn,141414,hagley_catholic_high_school_hagley
 charity,exempt,hagley_catholic_high_school_hagley
 urn,137755,brixham_college_brixham
@@ -63370,8 +63372,6 @@ urn,137726,herschel_grammar_school_slough
 charity,exempt,herschel_grammar_school_slough
 urn,140865,the_mcauley_catholic_high_school_doncaster
 charity,exempt,the_mcauley_catholic_high_school_doncaster
-urn,137814,colchester_royal_grammar_school_colchester
-charity,exempt,colchester_royal_grammar_school_colchester
 urn,136612,exmouth_community_college_exmouth
 charity,exempt,exmouth_community_college_exmouth
 urn,136720,welling_school_welling
@@ -64666,8 +64666,6 @@ urn,137085,carlton_academy_nottingham
 charity,exempt,carlton_academy_nottingham
 urn,140969,sybil_andrews_academy_bury_st_edmunds
 charity,exempt,sybil_andrews_academy_bury_st_edmunds
-urn,136156,havant_academy_havant
-charity,exempt,havant_academy_havant
 urn,141665,sir_bernard_lovell_academy_bristol
 charity,exempt,sir_bernard_lovell_academy_bristol
 urn,142821,charlton_school_telford
@@ -64730,7 +64728,6 @@ urn,112379,the_lakes_school_windermere
 urn,100966,langdon_park_community_school_london
 urn,126066,millais_school_horsham
 urn,121700,nidderdale_high_school_harrogate
-urn,121694,ripon_grammar_school_ripon
 urn,121689,settle_college_settle
 urn,100279,stoke_newington_school_and_sixth_form_london
 urn,126458,the_stonehenge_school_amesbury
