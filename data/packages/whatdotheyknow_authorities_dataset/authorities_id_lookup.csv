@@ -40952,6 +40952,8 @@ wikidata,Q39055111,ofs
 wikidata,Q66138011,kirton_primary_school_boston
 wikidata,Q33106398,government_internal_audit_agency
 wikidata,Q17054134,sacmill
+charity,1069301,haringey_district_citizens_advice_bureaux
+dpr,Z9071510,haringey_district_citizens_advice_bureaux
 gss,E04005080,acol_parish_council
 mapit,60805,acol_parish_council
 parent_mapit,2352,acol_parish_council
@@ -48220,8 +48222,8 @@ urn,145104,galmpton_church_of_england_primary_school_brixham
 charity,exempt,galmpton_church_of_england_primary_school_brixham
 urn,138085,hibaldstow_academy_brigg
 charity,exempt,hibaldstow_academy_brigg
-urn,144708,hob_moor_community_primary_academy_york
 charity,exempt,hob_moor_community_primary_academy_york
+urn,144708,hob_moor_community_primary_academy_york
 urn,143267,kenton_bar_primary_school_newcastle_upon_tyne
 charity,exempt,kenton_bar_primary_school_newcastle_upon_tyne
 urn,144710,lakeside_primary_academy_york
