@@ -3623,8 +3623,8 @@ dpr,ZA104779,belfast_zoo
 wikidata,Q2112449,belfast_zoo
 dpr,Z1323655,pensions_ombudsman
 wikidata,Q7164798,pensions_ombudsman
-wikidata,Q6900469,independent_regulator_of_nhs_foundation_trusts
 lcnaf,no2005075676,independent_regulator_of_nhs_foundation_trusts
+wikidata,Q6900469,independent_regulator_of_nhs_foundation_trusts
 wikidata,Q16967502,pmetb
 dpr,Z9678222,ehrc
 wikidata,Q22001063,ehrc
@@ -5720,8 +5720,8 @@ wikidata,Q7437612,scottish_agricultural_wages_board
 lcnaf,nb2007001257,scottish_agricultural_wages_board
 wikidata,Q3361399,bord_na_gaidhlig
 dpr,ZA015785,scra
-wikidata,Q7437782,scottish_commission_for_human_rights
-lcnaf,no2012054662,scottish_commission_for_human_rights
+lcnaf,no2012054662,scottish_human_rights_commission
+wikidata,Q7437782,scottish_human_rights_commission
 wikidata,Q7749270,macclesfield_academy
 wikidata,Q7138721,parkstone_grammar_school
 dpr,Z7292963,the_john_henry_newman_school
@@ -5812,8 +5812,8 @@ parent_mapit,163793,coldharbour_parish_council
 wikidata,Q104383373,coldharbour_parish_council
 archon,262,the_royal_household
 wikidata,Q17061872,south_london_healthcare_nhs_trust
-wikidata,Q5038860,cqc
 lcnaf,nb2004304425,cqc
+wikidata,Q5038860,cqc
 wikidata,Q5146785,college_of_north_west_london
 wikidata,Q5732315,hmicfrs
 gss,E04012866,abingdon_town_council
@@ -84082,3 +84082,4 @@ dpr,ZB667685,south_yorkshire_future_trams_limited
 owned_by,symca,south_yorkshire_future_trams_limited
 charity,1106969,magenta_living
 ch,4912562,magenta_living
+charity,1195441,army_museums_ogilby_trust

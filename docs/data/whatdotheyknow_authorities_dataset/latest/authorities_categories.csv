@@ -1,21 +1,20 @@
 category-tag,top-level-category,category-name
 ACJPS,"Law-making bodies, the courts and the legal system",Advisory Committees on Justices of the Peace
-CRC,"Law-making bodies, the courts and the legal system",Community Rehabilitation Companies
 LEP,Local and regional,Local Enterprise Partnerships
-NHSScotland,Health,NHS Scotland
+NHSScotland,Health and social care,NHS Scotland
 RFCAs,Military and security services,Reserve Forces' and Cadets' Associations
 UTLA,Local and regional,Upper tier local authorities
 academies,Education,Academies
 academy_trust,Education,Academy Trusts
-aco,Health,Accountable Care Organisations
+aco,Health and social care,Accountable Care Organisations
 advertising_regulator,Regulators and ombudsmen,Advertising regulators
 advisory_committee,Government - other,Advisory bodies
 advocate,Other,Advocates
-ahsn,Health,Academic Health Science Networks
+ahsn,Health and social care,Academic Health Science Networks
 airport,Transport and infrastructure,Airport operators
 all_through,Education,All-through schools
 almo,Housing|Local and regional,Housing ALMOs
-ambulance_service,Emergency services|Health,Ambulance Services
+ambulance_service,Emergency services|Health and social care,Ambulance Services
 aolc,Local and regional|Organisations whose members are public authorities,Associations of Local Councils
 aonbcb,Environment and conservation|Local and regional,Areas of Outstanding Natural Beauty Conservation Boards
 appeals_panel,Other,Appeals panel
@@ -35,19 +34,19 @@ boundary_commission,Other,Boundary commissions
 bus_operator,Transport and infrastructure,Bus operators
 business_school,Education,Business schools
 cambridge_college,Education,Cambridge colleges
-cancer_alliance,Health,Cancer alliances
+cancer_alliance,Health and social care,Cancer alliances
 charity,By legal form/status,Charities
 charity_regulator,Regulators and ombudsmen,Charity regulators
 charter_trustees,Local and regional,Charter trustees
 church,Other,Churches and church bodies
 cic,By legal form/status,Community interest companies
 cio,By legal form/status,Charitable incorporated organisations
-cja,"Law-making bodies, the courts and the legal system",Community justice authorities
+cja,"Prisons, probation and holding facilities",Community justice authorities
 cjc,Local and regional,Corporate Joint Committees
 combined_authority,Local and regional,Combined authorities
 commercial_water,Energy and utilities,Non-domestic water and sewerage service providers
 community_benefit_society,By legal form/status,Community benefit societies
-community_services_trust,Health,Community Services Trusts
+community_services_trust,Health and social care,Community Services Trusts
 company_owned_by_local_gov,Local and regional,Companies owned by local government
 compensation_scheme,Finance,Compensation schemes
 conference_centre,Other,Conference centres
@@ -55,10 +54,11 @@ coroners_office,"Law-making bodies, the courts and the legal system",Coroners' o
 corporation_sole,By legal form/status,Corporations sole
 county,Local and regional,County councils
 court,"Law-making bodies, the courts and the legal system",Courts
+crc,"Defunct authorities|Prisons, probation and holding facilities",Community rehabilitation companies
 crown_body,By legal form/status,Crown Bodies
 dance,Media and culture|Recreation,Dance companies
 defunct,Defunct authorities,Defunct authorities
-dentist,Health,NHS dentists
+dentist,Health and social care,NHS dentists
 department_ni,Government Departments,Departments - NI
 department_scotland,Government Departments,Ministerial Departments - Scotland
 department_uk,Government Departments,Ministerial Departments - UK
@@ -94,35 +94,35 @@ gla,Local and regional,Greater London Authority Group and Family
 gla_cc,Local and regional,Local councils (London)
 government_office,Defunct authorities,Government Offices for the regions
 group_of_universities,Education|Organisations whose members are public authorities,Groups of universities
-health_regulator,Health|Regulators and ombudsmen,Health regulators
-healthwatch,Health,Healthwatch organisations
+healthwatch,Health and social care,Healthwatch organisations
 hei,Education,Higher education institutions
 highways,Local and regional|Transport and infrastructure,Highways Operators
-his,Health,Health Informatic Services
+his,Health and social care,Health Informatic Services
+hmp_imb,"Prisons, probation and holding facilities",Independent monitoring boards for prisons
 honours_system,Royal and ceremonial,Honours system
-hospital_trust,Health,Hospital trusts
+hospital_trust,Health and social care,Hospital trusts
 housing_regulator,Housing|Regulators and ombudsmen,Housing regulators
-hscpscot,Health|Organisations whose members are public authorities,Health and Social Care Partnerships (Scotland)
-hscr,Health|Regulators and ombudsmen,Health and social care regulators
-icb,Health,Integrated Care Boards
+hscpscot,Health and social care|Organisations whose members are public authorities,Health and Social Care Partnerships (Scotland)
+hscr,Health and social care|Regulators and ombudsmen,Health and social care regulators
+icb,Health and social care,Integrated Care Boards
 icp,Signposts,Integrated Care Partnerships
-ics,Health,Integrated Care Systems
+ics,Health and social care,Integrated Care Systems
 idb,Environment and conservation,Internal drainage boards
 ifca,Environment and conservation,Inshore fisheries and conservation authorities
-ijbscot,Health|Local and regional|Organisations whose members are public authorities,Integration Joint Boards
-imb,"Law-making bodies, the courts and the legal system",Independent monitoring boards
+ijbscot,Health and social care|Local and regional|Organisations whose members are public authorities,Integration Joint Boards
 independent_police,Emergency services,Other police forces/constabularies
 information_regulator,Regulators and ombudsmen,Information regulators
 inn_of_court,"Law-making bodies, the courts and the legal system",Inns of court
 inquiry,Other,Inquiries
 inspectorate,Government - other,Inspectorates
+irc_imb,"Prisons, probation and holding facilities",Independent monitoring boards for immigration removal centres
 jac,Local and regional,Joint advisory committees
 joint_committee,Local and regional,Joint committees
 judiciary,"Law-making bodies, the courts and the legal system",Judicial institutions
 kent_college,Education,Kent colleges
 lea,Education|Local and regional,Education authority
 leisure_centre,Recreation,Leisure Centre Operators
-letbg,Health,Local Education and Training Boards Group
+letbg,Health and social care,Local Education and Training Boards Group
 lfjb,Local and regional,Local Family Justice Boards
 lgps_fund_administrator,Local and regional,Local Government Pension Scheme Fund Administrator
 lgps_pool,Local and regional,Local Government Pension Scheme Investment Pools
@@ -132,10 +132,10 @@ lieutenancy,Royal and ceremonial,Lieutenancies
 limited,By legal form/status,Limited companies
 limited_by_guarantee,By legal form/status,Companies limited by guarantee
 llp,By legal form/status,Limited liability partnerships
-lmc,Health,Local Medical Committees
+lmc,Health and social care,Local Medical Committees
 local_council,Local and regional,Principal councils
 local_lighthouse_authority,Transport and infrastructure,Local Lighthouse Authorities
-local_optical_committee,Health,Local Optical Committees
+local_optical_committee,Health and social care,Local Optical Committees
 local_resilience,Local and regional,Local Resilience Forums
 london_borough,Local and regional,London boroughs
 lower_tier,Local and regional,Lower tier local authorities
@@ -143,12 +143,12 @@ lsab,Local and regional,Local safeguarding adults boards
 lscb,Local and regional,Local safeguarding children boards
 lscp,Local and regional,Local Safeguarding Children Partnership
 main_police_force,Emergency services,Main police forces
-major_ae,Health,Bodies Responsible for Major A&E Departments
+major_ae,Health and social care,Bodies Responsible for Major A&E Departments
 mcz,Environment and conservation,Marine conservation zones
 mdc,Local and regional,Mayoral development corporation
 media,Media and culture,Media organisations
 media_regulator,Media and culture|Regulators and ombudsmen,Media regulators
-mental_health_trust,Health,Mental Health Trusts
+mental_health_trust,Health and social care,Mental Health Trusts
 metropolitan_district,Local and regional,Metropolitan district councils
 military_college,Education|Military and security services,Military colleges
 mlsa,Finance|Regulators and ombudsmen,Money laundering supervisory authorities
@@ -156,14 +156,14 @@ museum,Media and culture,Museums
 national_parliament_or_assembly,"Law-making bodies, the courts and the legal system",National Parliaments and Assemblies
 navigation_authority,Transport and infrastructure,Navigation authorities
 neighbourhoodforum,Local and regional,Neighbourhood Planning Forum
-nhs,Health,NHS bodies
-nhs111,Health,NHS 111 Provider
-nhs_ambulance_service_provider,Health,NHS Ambulance Service Providers
-nhs_owned_body,Health,bodies owned by NHS organisations
-nhs_wales_lhb,Health,NHS Wales Local Health Boards
-nhsni,Health,NHS in Northern Ireland
-nhstrust,Health,NHS trusts
-nhswales,Health,NHS in Wales
+nhs,Health and social care,NHS bodies
+nhs111,Health and social care,NHS 111 Provider
+nhs_ambulance_service_provider,Health and social care,NHS Ambulance Service Providers
+nhs_owned_body,Health and social care,Bodies owned by NHS organisations
+nhs_wales_lhb,Health and social care,NHS Wales Local Health Boards
+nhsni,Health and social care,NHS in Northern Ireland
+nhstrust,Health and social care,NHS trusts
+nhswales,Health and social care,NHS in Wales
 ni_district,Local and regional,District councils (Northern Ireland)
 ni_local_council,Local and regional,Local councils (Northern Ireland)
 non-metropolitan_district,Local and regional,Non-metropolitan district councils
@@ -178,7 +178,7 @@ nsbody,Other,North/south bodies
 olr,Transport and infrastructure,Operators of Last Resort
 olrhc,Transport and infrastructure,Operator of Last Resort Holding Companies
 ombudsman,Regulators and ombudsmen,Ombudsmen
-optician,Health,Opticians
+optician,Health and social care,Opticians
 other,Other,Miscellaneous
 other_cg,Government - other,Other central government bodies
 other_defence,Military and security services,Other defence organisations
@@ -186,17 +186,17 @@ other_lg,Local and regional,Other local government bodies
 oxford_college,Education,Oxford colleges
 parish_council,Local and regional,Town and Parish councils
 parish_meeting,Local and regional,Parish Meetings
-parole_board,"Law-making bodies, the courts and the legal system",Parole boards
+parole_board,"Prisons, probation and holding facilities",Parole boards
 partnership,By legal form/status,Partnerships
 pay_review_body,Finance,Pay review bodies
 pbo,Organisations whose members are public authorities,Professional buying organisations
-pcn,Health,Primary Care Networks
+pcn,Health and social care,Primary Care Networks
 pcsp,Emergency services,Policing and community safety partnerships
 pension_partnership,Finance,Pension partnerships
 pension_scheme,Finance,Public sector pension schemes
-pha,Health,Port health authorities
-pharmacy,Health,Pharmacies
-pho,Health,Public health observatories
+pha,Health and social care,Port health authorities
+pharmacy,Health and social care,Pharmacies
+pho,Health and social care,Public health observatories
 plc,By legal form/status,Public limited companies
 police,Emergency services,Policing bodies
 police_crime_commissioner,Emergency services,Police and Crime Commissioners
@@ -204,7 +204,7 @@ police_crime_panel,Emergency services,Police and Crime Panels
 police_regulator,Emergency services|Regulators and ombudsmen,Police regulators
 port_authority,Transport and infrastructure,Port authorities
 port_police,Emergency services,Port police forces
-prob_board,"Law-making bodies, the courts and the legal system",Probation boards
+prob_board,"Prisons, probation and holding facilities",Probation boards
 professional_body,Regulators and ombudsmen,Professional bodies
 psb,Local and regional,Public services boards
 public_corporation,Government - other,Public corporations
@@ -218,7 +218,7 @@ registered_society,By legal form/status,Registered societies
 regulator,Regulators and ombudsmen,Regulators
 research_council,Education,Research councils
 royal_charter,By legal form/status,Bodies with a royal charter
-royal_college,Health,Royal Colleges
+royal_college,Health and social care,Royal Colleges
 royal_commission,By legal form/status,Royal commissions
 rpa,Environment and conservation,Regional park authorities
 rsleng,Housing,Registered Social Landlords (England)
@@ -229,23 +229,24 @@ rules_committee,"Law-making bodies, the courts and the legal system",Rules commi
 school,Education,Schools
 school_inspectorate,Education,School inspectorates
 scotland_council,Local and regional,Local councils (Scotland)
-scottish_prison_contractor,"Law-making bodies, the courts and the legal system",Contractors running Scottish private prisons
+scottish_prison_contractor,"Prisons, probation and holding facilities",Contractors running Scottish private prisons
 scottish_unitary_authority,Local and regional,Unitary authorities (Scotland)
 security_services,Military and security services,Security services
 sewerage_undertaker,Energy and utilities,Sewerage undertakers
 signpost,Signposts,Signposts
 south_east,Local and regional,Local councils (South East)
 south_west,Local and regional,Local councils (South West)
-specialha,Health,Special health authorities
+special_imb,"Prisons, probation and holding facilities",Independent monitoring boards with specialised functions
+specialha,Health and social care,Special health authorities
 sport,Recreation,Bodies working in sport
 sports_governing_body,Recreation,Sports governing bodies
 srp,Transport and infrastructure,Safer Roads Partnership
 statutory_corporation,By legal form/status,Statutory corporations
 stb,Transport and infrastructure,Sub-national transport bodies
-sthf_imb,"Law-making bodies, the courts and the legal system",Independent monitoring boards for short-term holding facilities
+sthf_imb,"Prisons, probation and holding facilities",Independent monitoring boards for short-term holding facilities
 students_union,Education,Students' unions
 support_for_parliament,"Law-making bodies, the courts and the legal system",Bodies that support the work of parliaments
-surgery,Health,NHS Primary Care Providers
+surgery,Health and social care,NHS Primary Care Providers
 tax_authority,Finance,Tax authorities
 telecom_company,Energy and utilities|Transport and infrastructure,Telecommunications companies
 test_authority,Defunct authorities,Test authorities
@@ -266,7 +267,7 @@ university,Education,Universities
 university_college,Education,University colleges
 university_owned_company,Education,University owned companies
 unlimited,By legal form/status,Unlimited companies
-urgent_care,Health,NHS Urgent Care (Out of Hours GP Services) Providers
+urgent_care,Health and social care,NHS Urgent Care (Out of Hours GP Services) Providers
 utc,Education,University Technical Colleges
 utility_regulator,Energy and utilities|Regulators and ombudsmen,Utility regulators
 verderers,"Law-making bodies, the courts and the legal system",Verderers
@@ -280,5 +281,6 @@ welsh_establishment,Education,Welsh Establishments
 welsh_regional_partnership_board,Organisations whose members are public authorities,Welsh Regional Partnership Boards
 welsh_unitary_authority,Local and regional,Unitary authorities (Wales)
 west_midlands,Local and regional,Local councils (West Midlands)
+yoi_imb,"Prisons, probation and holding facilities",Independent monitoring boards for young offenders institutions
 yorkshire_and_the_humber,Local and regional,Local councils (Yorkshire and the Humber)
 zoo,Environment and conservation,Zoos
