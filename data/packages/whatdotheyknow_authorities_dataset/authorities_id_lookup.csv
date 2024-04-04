@@ -6586,6 +6586,7 @@ coins,CMB075,cmal
 dpr,Z9019502,cmal
 wikidata,Q5019430,cmal
 ch,SC294924,scottish_water_business_stream_limited
+dpr,Z9448522,scottish_water_business_stream_limited
 ch,SC267870,ads
 dpr,Z2007283,ads
 wikidata,Q4787085,ads
@@ -44577,9 +44578,10 @@ ofs,10068157,university_centre_peterborough
 ukprn,10068157,university_centre_peterborough
 wikidata,Q7894548,university_centre_peterborough
 wikidata,Q7270306,queen_elizabeths_girls_school
-lcnaf,no2014058629,southend_high_school_for_girls
-wikidata,Q15278753,southend_high_school_for_girls
 charity,exempt,southend_high_school_for_girls
+lcnaf,no2014058629,southend_high_school_for_girls
+urn,136444,southend_high_school_for_girls
+wikidata,Q15278753,southend_high_school_for_girls
 ni_irn,521-0186,newry_high_school
 wikidata,Q7019140,newry_high_school
 ni_irn,103-0194,holy_cross_boys_primary_school_belfast
@@ -63670,8 +63672,6 @@ urn,137162,the_stourport_high_school_and_sixth_form_college_stourport_on_severn
 charity,exempt,the_stourport_high_school_and_sixth_form_college_stourport_on_severn
 urn,137901,stradbroke_high_school_eye
 charity,exempt,stradbroke_high_school_eye
-urn,136444,southend_high_school_for_girls_southend_on_sea
-charity,exempt,southend_high_school_for_girls_southend_on_sea
 urn,138053,sir_harry_smith_community_college_peterborough
 charity,exempt,sir_harry_smith_community_college_peterborough
 urn,140874,st_anselms_catholic_school_canterbury_canterbury
