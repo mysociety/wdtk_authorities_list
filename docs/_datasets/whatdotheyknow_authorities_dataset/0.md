@@ -124,55 +124,22 @@ resources:
       description: WDTK's notes for this authority
       constraints:
         unique: false
-      example: "\r\n<div id=\"request_status\" class=\"request-status-message request-status-message--error_message\"\
-        >\r\n<h3><i class=\"icon-standalone icon_error_message\"></I> This authority\
-        \ no longer exists</h3>\r\n<p>This organisation has transferred its housing\
-        \ stock to an alternative organisation, and no longer exists.\r\n<sup>[<a\
-        \ href=\"https://web.archive.org/web/20231204132949/https://www.blackwoodgroup.org.uk/latest-news/abbeyfield-scotland-joins-blackwood-homes-care-2523/\"\
-        \ title=\"Information about the transfer from Abbeyfield, on the Blackwood\
-        \ website (opens in a new tab)\" target=\"_blank\">1</a>, \r\n <a href=\"\
-        https://web.archive.org/web/20231204133147/https://www.housingregulator.gov.scot/about-us/news/weve-completed-the-de-registration-of-abbeyfield-scotland-ltd\"\
-        \ title=\"De-registration confirmation on the Scottish Housing Regulator website\
-        \ (opens in a new tab)\" target=\"_blank\">2</a>]</sup>.</p>\r\n<h3><i class=\"\
-        icon-standalone icon_successful\"></I> Looking to make a new request?</h3>\r\
-        \n<p>You can make a request to Blackwood Homes and Care <b><a href=\"/body/blackwood_homes_and_care\"\
-        >by clicking here</a></b>.</p>\r\n</div> <p>This body is a <abbr title=\"\
-        sometimes also referred to as a Housing Association\">Registered Social Landlord</abbr>\
-        \ (RSL), in Scotland.</p>\r\n\r\n<p>RSLs became subject to transparency legislation\
-        \ in November 2019, after they were <a href=\"https://www.itspublicknowledge.info/registered-social-landlords\"\
-        \ title=\"Find out more about designation on the Scottish Information Commissioner's\
-        \ website (opens in a new tab)\" target=\"_blank\">'designated' by the Scottish\
-        \ Ministers</a>. RSLs are subject to FOI legislation for activities relating\
-        \ to the management of social housing and <abbr title=\"A Scottish RSL is\
-        \ subject to FOI law in relation to any activity relating to (1) the management\
-        \ of social housing accommodation, (2) the prevention and alleviation of homelessness,\
-        \ (3) the provision and management of sites for gypsies and travellers and\
-        \ (4) supplying information to the Scottish Housing Regulator in relation\
-        \ to the RSLs financial well-being and standards of governance. RSLs are not\
-        \ subject to FOI law for activities relating to property factoring. Property\
-        \ factoring means looking after the shared parts of land or buildings owned\
-        \ by more than one person such as the stairs and corridors.\">certain other\
-        \ activities</abbr/>.\r\n</p>\r\n<hr>\r\n<h3>Need help with housing issues?</h3>\r\
-        \n<p>You can't use our service to ask for help with housing issues or for\
-        \ customer service enquiries (<a href=\"https://www.whatdotheyknow.com/help/requesting#data_protection\"\
-        \ alt=\"find out why\">find out why</a>).\r\n</p>\r\n<p>\r\nIf you need help\
-        \ with a problem, <a href=\"https://www.citizensadvice.org.uk/scotland/housing/\"\
-        \ title=\"Information about housing on the Citizens Advice Scotland website\
-        \ (opens in a new tab)\" target=\"_blank\">Citizens Advice Scotland</a>, and\
-        \ <a href=\"https://scotland.shelter.org.uk\" target=\"_blank\" title=\"Shelter\
-        \ Scotland (opens in a new tab)\">Shelter Scotland</a>, might be able to help.\
-        \ The Scottish Housing Regulator also have <a href=\"https://www.housingregulator.gov.scot/for-tenants\"\
-        \ title=\"Information for tenants on the Scottish Housing Regulator website\
-        \ (opens in a new tab)\" target=\"_blank\">information for tenants on their\
-        \ website</a> which you might find useful.\r\n<br /><br />You might also be\
-        \ able to ask your local <abbr title=\"elected members, such as your local\
-        \ Councillor, MSP, or MP\">elected members</abbr> for help. Find out more\
-        \ on the <a href=\"https://www.writetothem.com\">WriteToThem</a> website.\r\
-        \n</p>\r\n<hr>\r\n<div class=\"request-status-message request-status-message--rejected\"\
-        ><h3>Looking for information about yourself?</h3>\r\n<p>⛔️ You can't ask for\
-        \ information about yourself using our service – <a href=\"https://www.whatdotheyknow.com/help/requesting#data_protection\"\
-        \ title=\"Find out why you cannot ask for personal information using WhatDoTheyKnow,\
-        \ and what to do\">find out why</a>.</p></div>"
+      example: "\n\n\r\nGreat British Railways is to be a public body responsible\
+        \ for integrating the railways and delivering passenger-focused travel with\
+        \ simpler, modern fares and reliable services.*\n\n\r\nA company called Great\
+        \ British Railways Transition Team already exists and has been charged with\
+        \ the responsibility, among other things, of \"creating\" Great British Railways.\
+        \ Unfortunately, we don't have a working email address for this authority.\n\
+        \nIf you would like to help us out, just do a little bit of research to find\
+        \ the correct address, click on the \"Ask us to update FOI email\" link, and\
+        \ fill out the details.  Remember to put details of the source of the email\
+        \ in the source URL/notes box. \n\nTop tip: try looking for Freedom of Information\
+        \ policies or Publication Schemes, otherwise, just use a generic contact email\
+        \ address.\n\nIf you manage to find one, if you prefer, you can also let us\
+        \ know by contacting us.\n\nPlease ignore this note if it appears on a page\
+        \ that redirects readers to other bodies (a signpost page).  Coming soonThis\
+        \ is a placeholder page created before this public body came into existence.\
+        \ If this body is now up and running please contact us and let us know! "
     - name: created-at
       type: string
       description: Date the authority's entry was created in this dataset
@@ -215,7 +182,7 @@ resources:
       constraints:
         unique: false
       example: Education
-  hash: fb413e52153342ea07cf5e01fea9b630
+  hash: d33fbf19e6c2f5c623c0040af38c9648
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
