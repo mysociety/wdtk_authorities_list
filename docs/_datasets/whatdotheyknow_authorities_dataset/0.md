@@ -52,7 +52,7 @@ resources:
 - title: Public Authorities
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
-    row_count: 46532
+    row_count: 46533
     datasette:
       about: Info & Downloads
       about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities
@@ -182,7 +182,7 @@ resources:
       constraints:
         unique: false
       example: Education
-  hash: 14062581b4c89421818a3e14cf0cd3b1
+  hash: c5df5367e845564c0b36b389bc4fb053
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
