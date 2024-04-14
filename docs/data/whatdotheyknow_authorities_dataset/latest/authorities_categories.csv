@@ -1,6 +1,5 @@
 category-tag,top-level-category,category-name
 ACJPS,"Law-making bodies, the courts and the legal system",Advisory Committees on Justices of the Peace
-LEP,Local and regional,Local Enterprise Partnerships
 NHSScotland,Health and social care,NHS Scotland
 RFCAs,Military and security services,Reserve Forces' and Cadets' Associations
 UTLA,Local and regional,Upper tier local authorities
@@ -122,6 +121,7 @@ judiciary,"Law-making bodies, the courts and the legal system",Judicial institut
 kent_college,Education,Kent colleges
 lea,Education|Local and regional,Education authority
 leisure_centre,Recreation,Leisure Centre Operators
+lep,Local and regional,Local Enterprise Partnerships
 letbg,Health and social care,Local Education and Training Boards Group
 lfjb,Local and regional,Local Family Justice Boards
 lgps_fund_administrator,Local and regional,Local Government Pension Scheme Fund Administrator

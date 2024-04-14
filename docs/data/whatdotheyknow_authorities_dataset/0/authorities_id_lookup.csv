@@ -4901,6 +4901,7 @@ dpr,Z9941244,kings_lynn_idb
 wikidata,Q104284347,kings_lynn_idb
 dpr,Z6554166,local_government_data_unit_wales
 wikidata,Q104781493,lincolnshire_road_safety_partnership
+ch,03444743,lacors
 dpr,ZA937007,dlr
 wikidata,Q216360,dlr
 ch,02052677,dlr
@@ -7108,8 +7109,8 @@ wikidata,Q7860485,tynemet_college
 ch,05313603,jcoss
 charity,1107705,jcoss
 wikidata,Q6107925,jcoss
-wikidata,Q5251005,deeside_college
 lcnaf,no2017065090,deeside_college
+wikidata,Q5251005,deeside_college
 wikidata,Q6662973,llysfasi_college
 wikidata,Q5586879,gorseinon_college
 ucas,M65,coleg_menai_bangor
@@ -33397,9 +33398,9 @@ mapit,58547,chapel_en_le_frith_parish_council_high_peak
 parent_mapit,2277,chapel_en_le_frith_parish_council_high_peak
 wikidata,Q104388853,chapel_en_le_frith_parish_council_high_peak
 charity,exempt,learning_today_leading_tomorrow
-ch,03109524,wea_cymru
-charity,1071234,wea_cymru
-dpr,ZA086282,wea_cymru
+ch,03109524,adult_learning_wales
+charity,1071234,adult_learning_wales
+dpr,ZA086282,adult_learning_wales
 wikidata,Q16891916,grwp_llandrillo_menai
 lcnaf,no2015113820,grwp_llandrillo_menai
 wikidata,Q66166152,outwoods_edge_primary_school_loughborough
@@ -84087,3 +84088,4 @@ charity,1195441,army_museums_ogilby_trust
 ch,02141256,cygnet_health
 wikidata,Q5061459,central_motorway_police_group
 wikidata,Q7057284,north_west_motorway_police_group
+ch,OC451571,bristol_temple_quarter_llp
