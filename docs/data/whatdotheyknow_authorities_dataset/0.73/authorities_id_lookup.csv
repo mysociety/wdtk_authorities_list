@@ -11767,7 +11767,7 @@ gss,E04004547,long_sutton_and_well_parish_council
 mapit,54580,long_sutton_and_well_parish_council
 parent_mapit,2333,long_sutton_and_well_parish_council
 wikidata,Q104390390,long_sutton_and_well_parish_council
-wikidata,Q5478011,framingham_earl_high_school
+wikidata,Q5478011,framingham_earl_high_school_norwich
 dpr,Z5374840,wiltshire_probation_trust
 wikidata,Q105377276,wiltshire_probation_trust
 gss,E04005861,long_sutton_parish_council_lincolnshire
@@ -63420,8 +63420,8 @@ urn,137842,hall_cross_academy_doncaster
 charity,exempt,hall_cross_academy_doncaster
 urn,136381,lancaster_girls_grammar_school_lancaster
 charity,exempt,lancaster_girls_grammar_school_lancaster
-urn,136295,holyrood_academy_chard
 charity,exempt,holyrood_academy_chard
+urn,136295,holyrood_academy_chard
 urn,142711,leek_high_school_leek
 charity,exempt,leek_high_school_leek
 urn,138123,ashton_on_mersey_school_sale
@@ -63590,8 +63590,6 @@ urn,143404,ely_college_ely
 charity,exempt,ely_college_ely
 urn,146196,english_martyrs_catholic_school_a_voluntary_academy_leicester
 charity,exempt,english_martyrs_catholic_school_a_voluntary_academy_leicester
-urn,145776,framingham_earl_high_school_norwich
-charity,exempt,framingham_earl_high_school_norwich
 urn,145501,flegg_high_ormiston_academy_great_yarmouth
 charity,exempt,flegg_high_ormiston_academy_great_yarmouth
 urn,138825,grey_court_school_richmond
