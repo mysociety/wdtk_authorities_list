@@ -182,7 +182,7 @@ resources:
       constraints:
         unique: false
       example: Education
-  hash: 095d28e8282bdf4cd342a52ae30a1d0f
+  hash: c4360010d2255034fe62f0d9bfa5c910
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
@@ -224,7 +224,7 @@ resources:
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
   custom:
-    row_count: 84093
+    row_count: 84094
     datasette:
       about: Info & Downloads
       about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_id_lookup
@@ -255,7 +255,7 @@ resources:
       constraints:
         unique: false
       example: 131_dental_rotherham
-  hash: 59a242d24c57129d2368af9ce4661a32
+  hash: 95e332439edfee8e851b79b723a9a0ed
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
 ---
