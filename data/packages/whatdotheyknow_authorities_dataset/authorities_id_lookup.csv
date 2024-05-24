@@ -8083,8 +8083,8 @@ wikidata,Q7530362,sirius_academy
 charity,exempt,sirius_academy
 wikidata,Q7592830,skegness_academy
 charity,exempt,skegness_academy
-wikidata,Q7535530,skinners_academy
 charity,exempt,skinners_academy
+wikidata,Q7535530,skinners_academy
 wikidata,Q7764636,skinners_kent_academy
 charity,exempt,skinners_kent_academy
 wikidata,Q22336901,south_leeds_academy
@@ -24695,9 +24695,9 @@ urn,119604,the_blessed_sacrament_catholic_primary_school_preston
 wikidata,Q66137821,the_blessed_sacrament_catholic_primary_school_preston
 urn,122048,the_bliss_charity_school_northampton
 wikidata,Q66226846,the_bliss_charity_school_northampton
+charity,exempt,the_blue_school_wells
 urn,137285,the_blue_school_wells
 wikidata,Q7718834,the_blue_school_wells
-charity,exempt,the_blue_school_wells
 urn,120399,the_bluecoat_school_stamford
 wikidata,Q67149007,the_bluecoat_school_stamford
 urn,112623,the_brigg_infant_school_alfreton
@@ -63766,8 +63766,6 @@ urn,138039,hellesdon_high_school_norwich
 charity,exempt,hellesdon_high_school_norwich
 urn,136629,uppingham_community_college_uppingham
 charity,exempt,uppingham_community_college_uppingham
-urn,137949,wayland_academy_thetford
-charity,exempt,wayland_academy_thetford
 urn,137382,wyedean_school_and_sixth_form_centre_chepstow
 charity,exempt,wyedean_school_and_sixth_form_centre_chepstow
 urn,137461,wymondham_high_academy_wymondham
