@@ -233,7 +233,7 @@
                     }
                 ]
             },
-            "hash": "30780baf1628c19e670b7b523b3f491f"
+            "hash": "da7ca7018a47310fa5bd132c79b580a4"
         },
         {
             "title": "Categories",
@@ -289,7 +289,7 @@
             "title": "Public authority ID lookup",
             "description": "Lookup between a public authority WDTK url and its ID in various ID schemas",
             "custom": {
-                "row_count": 84090,
+                "row_count": 84091,
                 "datasette": {
                     "about": "Info & Downloads",
                     "about_url": "https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_id_lookup"
@@ -333,7 +333,7 @@
                     }
                 ]
             },
-            "hash": "0ccf6b6b9137776e619299831e61f920"
+            "hash": "03f98a106a180d89c204ec92cf380107"
         }
     ]
 }
