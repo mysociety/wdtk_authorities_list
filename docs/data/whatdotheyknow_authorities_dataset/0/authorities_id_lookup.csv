@@ -3318,9 +3318,9 @@ dpr,Z8616759,rcm
 urn,133888,rcm
 charity,SC005336,university_of_edinburgh
 dpr,Z6426984,university_of_edinburgh
+lcnaf,n80010178,university_of_edinburgh
 uklr,162542,university_of_edinburgh
 wikidata,Q160302,university_of_edinburgh
-lcnaf,n80010178,university_of_edinburgh
 wikidata,Q5663364,harper_adams_university_college
 lcnaf,no2006016901,harper_adams_university_college
 dpr,Z4882966,falmouth_university
@@ -23625,9 +23625,9 @@ urn,116688,honeybourne_first_school_evesham
 wikidata,Q66166420,honeybourne_first_school_evesham
 urn,101011,honeywell_junior_school_london
 wikidata,Q66221131,honeywell_junior_school_london
+charity,exempt,honiton_community_college
 urn,136912,honiton_community_college
 wikidata,Q15224939,honiton_community_college
-charity,exempt,honiton_community_college
 urn,113098,honiton_primary_school
 wikidata,Q66161812,honiton_primary_school
 urn,107724,honley_ce_voluntary_controlled_infant_and_nursery_school_holmfirth
@@ -40177,8 +40177,8 @@ lcnaf,no2016118926,llanfyllin_high_school
 wikidata,Q6661388,llanfyllin_high_school
 wikidata,Q41498784,route_39_academy
 charity,exempt,route_39_academy
-wikidata,Q17018572,pilton_community_college
 charity,exempt,pilton_community_college
+wikidata,Q17018572,pilton_community_college
 nhsorgcode,RQ3,birmingham_womens_and_childrens_nhs_foundation_trust
 wikidata,Q30314935,birmingham_womens_and_childrens_nhs_foundation_trust
 lcnaf,nb2018017363,birmingham_womens_and_childrens_nhs_foundation_trust
@@ -55420,8 +55420,8 @@ urn,141351,wicklea_academy_bristol
 charity,exempt,wicklea_academy_bristol
 urn,142409,william_morris_primary_school_banbury
 charity,exempt,william_morris_primary_school_banbury
-urn,140220,willowdown_primary_academy_bridgwater
 charity,exempt,willowdown_primary_academy_bridgwater
+urn,140220,willowdown_primary_academy_bridgwater
 urn,138401,willow_green_academy_knottingley
 charity,exempt,willow_green_academy_knottingley
 urn,144507,willowpark_primary_academy_oldham
@@ -62826,8 +62826,8 @@ urn,138895,bexhill_high_academy_bexhill_on_sea
 charity,exempt,bexhill_high_academy_bexhill_on_sea
 urn,138950,st_thomas_becket_catholic_secondary_school_a_voluntary_academy_wakefield
 charity,exempt,st_thomas_becket_catholic_secondary_school_a_voluntary_academy_wakefield
-urn,136876,prospect_school_reading
-charity,exempt,prospect_school_reading
+charity,exempt,kings_academy_prospect_reading
+urn,136876,kings_academy_prospect_reading
 urn,138823,charters_school_ascot
 charity,exempt,charters_school_ascot
 urn,136730,shenley_brook_end_school_milton_keynes
@@ -63462,8 +63462,8 @@ urn,138041,braunton_academy_braunton
 charity,exempt,braunton_academy_braunton
 urn,136797,carshalton_high_school_for_girls_carshalton
 charity,exempt,carshalton_high_school_for_girls_carshalton
-urn,137163,the_thomas_hardye_school_dorchester
 charity,exempt,the_thomas_hardye_school_dorchester
+urn,137163,the_thomas_hardye_school_dorchester
 urn,136910,tiffin_school_kingston_upon_thames
 charity,exempt,tiffin_school_kingston_upon_thames
 urn,136466,bishop_justus_cofe_school_bromley
@@ -64013,8 +64013,8 @@ urn,145480,henley_bank_high_school_gloucester
 charity,exempt,henley_bank_high_school_gloucester
 urn,138569,houghton_regis_academy_dunstable
 charity,exempt,houghton_regis_academy_dunstable
-urn,139553,the_ilfracombe_church_of_england_academy_ilfracombe
 charity,exempt,the_ilfracombe_church_of_england_academy_ilfracombe
+urn,139553,the_ilfracombe_church_of_england_academy_ilfracombe
 urn,138865,the_james_hornsby_school_basildon
 charity,exempt,the_james_hornsby_school_basildon
 urn,146752,jesmond_park_academy_newcastle_upon_tyne
@@ -64517,8 +64517,8 @@ urn,139649,beacon_academy_cleethorpes
 charity,exempt,beacon_academy_cleethorpes
 urn,142759,benjamin_britten_academy_of_music_and_mathematics_lowestoft
 charity,exempt,benjamin_britten_academy_of_music_and_mathematics_lowestoft
-urn,147443,budmouth_academy_weymouth_weymouth
 charity,exempt,budmouth_academy_weymouth_weymouth
+urn,147443,budmouth_academy_weymouth_weymouth
 urn,144015,the_charles_dickens_school_broadstairs
 charity,exempt,the_charles_dickens_school_broadstairs
 urn,138097,cedar_mount_academy_gorton
@@ -84089,3 +84089,5 @@ ch,OC451571,bristol_temple_quarter_llp
 nhsods,M85007,west_heath_surgery_northfield
 nhsORGID,130780,west_heath_surgery_northfield
 dpr,Z7394714,west_heath_surgery_northfield
+urn,148580,launceston_primary_school_launceston
+urn,147442,poltair_school_st_austell
