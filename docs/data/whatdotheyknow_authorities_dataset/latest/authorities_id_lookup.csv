@@ -8718,11 +8718,11 @@ gss,E04003354,tavistock_town_council
 mapit,63332,tavistock_town_council
 parent_mapit,2288,tavistock_town_council
 wikidata,Q104382831,tavistock_town_council
+dpr,Z9871888,teignmouth_town_council
 gss,E04003234,teignmouth_town_council
 mapit,53843,teignmouth_town_council
 parent_mapit,2287,teignmouth_town_council
 wikidata,Q104382828,teignmouth_town_council
-dpr,Z9871888,teignmouth_town_council
 gss,E04003791,telscombe_town_council
 mapit,55447,telscombe_town_council
 parent_mapit,2304,telscombe_town_council
@@ -65032,8 +65032,8 @@ urn,139788,waverley_studio_college_birmingham
 urn,140813,cheshire_studio_school_knutsford
 urn,139416,the_elstree_utc_borehamwood
 charity,exempt,the_elstree_utc_borehamwood
-urn,141813,health_futures_utc_west_bromwich
 charity,exempt,health_futures_utc_west_bromwich
+urn,141813,health_futures_utc_west_bromwich
 urn,142903,london_design_and_engineering_utc_london
 charity,exempt,london_design_and_engineering_utc_london
 urn,139588,liverpool_life_sciences_utc_liverpool
@@ -84092,3 +84092,6 @@ dpr,Z7394714,west_heath_surgery_northfield
 urn,148580,launceston_primary_school_launceston
 urn,147442,poltair_school_st_austell
 urn,145843,treviglas_academy_newquay
+ch,4700056,cambridge_theological_federation
+charity,1099953,cambridge_theological_federation
+dpr,Z733391X,cambridge_theological_federation
