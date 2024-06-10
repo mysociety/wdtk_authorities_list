@@ -29555,6 +29555,7 @@ wikidata,Q7594671,the_st_marylebone_c_of_e_school_westminister
 charity,exempt,the_st_marylebone_c_of_e_school_westminister
 ch,03777037,places_for_people
 ch,IP19447R,places_for_people
+urn,111497,cavendish_high_school_runcorn
 gss,W04000920,penarth_town_council
 mapit,134908,penarth_town_council
 parent_mapit,2557,penarth_town_council
@@ -84095,3 +84096,8 @@ urn,145843,treviglas_academy_newquay
 ch,4700056,cambridge_theological_federation
 charity,1099953,cambridge_theological_federation
 dpr,Z733391X,cambridge_theological_federation
+urn,140578,the_cavendish_high_academy_runcorn
+matuid,4943,the_cavendish_high_academy_runcorn
+ch,08789220,the_cavendish_high_academy_runcorn
+dpr,ZA035941,the_cavendish_high_academy_runcorn
+charity,exempt,the_cavendish_high_academy_runcorn
