@@ -24743,7 +24743,7 @@ urn,100506,the_cardinal_vaughan_memorial_rc_school_london
 wikidata,Q5038618,the_cardinal_vaughan_memorial_rc_school_london
 urn,101934,the_cardinal_wiseman_catholic_school_greenford
 wikidata,Q7721346,the_cardinal_wiseman_catholic_school_greenford
-urn,109297,the_castle_school_bristol
+urn,139348,the_castle_school_bristol
 wikidata,Q7721581,the_castle_school_bristol
 urn,119621,the_cathedral_catholic_primary_school_lancaster
 wikidata,Q66137840,the_cathedral_catholic_primary_school_lancaster
@@ -44089,10 +44089,10 @@ wikidata,Q66140142,catcote_academy_hartlepool
 charity,exempt,catcote_academy_hartlepool
 wikidata,Q20711932,dyke_house_sports_and_technology_college_hartlepool
 wikidata,Q67149309,priory_woods_school_middlesbrough
+charity,exempt,archbishop_holgates_school
 lcnaf,nb2008024164,archbishop_holgates_school
 urn,136617,archbishop_holgates_school
 wikidata,Q4785614,archbishop_holgates_school
-charity,exempt,archbishop_holgates_school
 urn,142884,scarborough_university_technical_college
 wikidata,Q28447826,scarborough_university_technical_college
 charity,exempt,scarborough_university_technical_college
@@ -84101,3 +84101,13 @@ matuid,4943,the_cavendish_high_academy_runcorn
 ch,08789220,the_cavendish_high_academy_runcorn
 dpr,ZA035941,the_cavendish_high_academy_runcorn
 charity,exempt,the_cavendish_high_academy_runcorn
+spuid,5423,sapientia_education_trust
+matuid,16336,sapientia_education_trust
+ch,07466353,sapientia_education_trust
+dpr,ZA209590,sapientia_education_trust
+charity,exempt,sapientia_education_trust
+ch,08397975,cset
+charity,exempt,cset
+dpr,ZA183550,cset
+matuid,2567,cset
+spuid,4939,cset
