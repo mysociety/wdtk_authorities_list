@@ -8521,6 +8521,7 @@ ch,03943048,fscs
 wikidata,Q1416205,fscs
 wikidata,Q104284345,foss_2008_idb
 wikidata,Q104284387,vale_of_pickering_idb
+dpr,ZB048405,vale_of_pickering_idb
 ch,03923425,tube_lines
 dpr,Z7762667,tube_lines
 owned_by,ttl,tube_lines
@@ -40143,7 +40144,6 @@ gss,E04004938,meopham_parish_council
 mapit,59963,meopham_parish_council
 parent_mapit,2359,meopham_parish_council
 wikidata,Q104390438,meopham_parish_council
-wikidata,Q104284387,the_vale_of_pickering_internal_drainage_board
 wikidata,Q7209455,police_federation
 lcnaf,n86109350,police_federation
 gss,E04010274,stoke_parish_council
