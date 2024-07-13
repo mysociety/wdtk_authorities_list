@@ -5354,8 +5354,8 @@ charity,1137527,hertford_college
 wikidata,Q81090,hertford_college
 wikidata,Q1738296,kellogg_college
 lcnaf,nb2010032776,kellogg_college
-wikidata,Q653483,linacre_college
 lcnaf,n93075126,linacre_college
+wikidata,Q653483,linacre_college
 wikidata,Q81162,magdalen_college
 lcnaf,n84238697,magdalen_college
 charity,1139022,merton_college
@@ -40199,8 +40199,9 @@ gss,E04011112,helsby_parish_council
 mapit,60781,helsby_parish_council
 parent_mapit,21068,helsby_parish_council
 wikidata,Q104391435,helsby_parish_council
-wikidata,Q23891246,kings_college_london_mathematics_school
 charity,exempt,kings_college_london_mathematics_school
+wikidata,Q23891246,kings_college_london_mathematics_school
+urn,140564,kings_college_london_mathematics_school
 gss,E04006331,methwold_parish_council
 mapit,54546,methwold_parish_council
 parent_mapit,2389,methwold_parish_council
