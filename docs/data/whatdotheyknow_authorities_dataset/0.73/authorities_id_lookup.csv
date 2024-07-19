@@ -6670,10 +6670,10 @@ charity,exempt,bishop_veseys_grammar_school
 wikidata,Q4917750,bishop_wordsworths_school
 lcnaf,no2015092606,bishop_wordsworths_school
 wikidata,Q4944491,borden_grammar_school
+charity,exempt,boston_grammar_school
 lcnaf,n87814091,boston_grammar_school
 urn,139180,boston_grammar_school
 wikidata,Q4947925,boston_grammar_school
-charity,exempt,boston_grammar_school
 wikidata,Q7900759,urmston_grammar_school
 wikidata,Q7074323,oakwood_park_grammar_school
 lcnaf,nb2011006353,oakwood_park_grammar_school
@@ -63726,8 +63726,8 @@ urn,143844,the_winstanley_school_leicester
 charity,exempt,the_winstanley_school_leicester
 urn,137547,witchford_village_college_ely
 charity,exempt,witchford_village_college_ely
-urn,137243,west_kirby_grammar_school_wirral
 charity,exempt,west_kirby_grammar_school_wirral
+urn,137243,west_kirby_grammar_school_wirral
 urn,139109,worthing_high_school_worthing
 charity,exempt,worthing_high_school_worthing
 urn,137389,chatham_grammar_chatham
