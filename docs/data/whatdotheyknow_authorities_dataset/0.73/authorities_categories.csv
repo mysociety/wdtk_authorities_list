@@ -55,6 +55,7 @@ county,Local and regional,County councils
 court,"Law-making bodies, the courts and the legal system",Courts
 crc,"Defunct authorities|Prisons, probation and holding facilities",Community rehabilitation companies
 crown_body,By legal form/status,Crown Bodies
+csp,Emergency services|Organisations whose members are public authorities,Community Safety Partnerships
 dance,Media and culture|Recreation,Dance companies
 defunct,Defunct authorities,Defunct authorities
 dentist,Health and social care,NHS dentists
@@ -191,7 +192,7 @@ partnership,By legal form/status,Partnerships
 pay_review_body,Finance,Pay review bodies
 pbo,Organisations whose members are public authorities,Professional buying organisations
 pcn,Health and social care,Primary Care Networks
-pcsp,Emergency services,Policing and community safety partnerships
+pcsp,Emergency services|Organisations whose members are public authorities,Policing and community safety partnerships
 pension_partnership,Finance,Pension partnerships
 pension_scheme,Finance,Public sector pension schemes
 pha,Health and social care,Port health authorities
