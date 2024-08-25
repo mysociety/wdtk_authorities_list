@@ -52,7 +52,7 @@ resources:
 - title: Public Authorities
   description: WhatDoTheyKnow's list of UK public authorities
   custom:
-    row_count: 46884
+    row_count: 46925
     datasette:
       about: Info & Downloads
       about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities
@@ -182,12 +182,12 @@ resources:
       constraints:
         unique: false
       example: Education
-  hash: f916fc7a5c2822498956ec477ccb86ba
+  hash: a5799c0ebcb5b3b3bb7a7f300095f30f
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
   custom:
-    row_count: 288
+    row_count: 289
     datasette:
       about: Info & Downloads
       about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_categories
@@ -219,12 +219,12 @@ resources:
       constraints:
         unique: true
       example: Academic Health Science Networks
-  hash: ce29c81db056e5cb55800262b17e3cc9
+  hash: 158c732e3e10d7269317d0d64b09ad72
 - title: Public authority ID lookup
   description: Lookup between a public authority WDTK url and its ID in various ID
     schemas
   custom:
-    row_count: 84438
+    row_count: 84436
     datasette:
       about: Info & Downloads
       about_url: https://pages.mysociety.org/wdtk_authorities_list/datasets/whatdotheyknow_authorities_dataset/0_73_0#authorities_id_lookup
@@ -255,7 +255,7 @@ resources:
       constraints:
         unique: false
       example: 131_dental_rotherham
-  hash: d5168821bd8cb1c6bc03c64a40a0f1ca
+  hash: d6c4aa6f72ce0b0620c8cf92651f9754
 full_version: 0.73.0
 permalink: /datasets/whatdotheyknow_authorities_dataset/latest
 ---

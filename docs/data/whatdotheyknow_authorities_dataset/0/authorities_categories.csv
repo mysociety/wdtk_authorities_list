@@ -67,6 +67,7 @@ devolved,Government Departments,Devolved Administration or Government
 district_level_functions,Local and regional,Councils with district-level functions
 district_level_functions_england,Local and regional,Councils with district-level functions in England
 dno,Energy and utilities,Electricity distribution network operators
+dsfb,Environment and conservation,District Salmon Fisheries Boards (Scotland)
 duchy,Royal and ceremonial,Royal duchies
 durham_college,Education,Durham colleges
 east_midlands,Local and regional,Local councils (East Midlands)
@@ -108,7 +109,7 @@ icb,Health and social care,Integrated Care Boards
 icp,Signposts,Integrated Care Partnerships
 ics,Health and social care,Integrated Care Systems
 idb,Environment and conservation,Internal drainage boards
-ifca,Environment and conservation,Inshore fisheries and conservation authorities
+ifca,Environment and conservation,Inshore fisheries and conservation authorities (England and Wales)
 ijbscot,Health and social care|Local and regional|Organisations whose members are public authorities,Integration Joint Boards
 independent_police,Emergency services,Other police forces/constabularies
 information_regulator,Regulators and ombudsmen,Information regulators
