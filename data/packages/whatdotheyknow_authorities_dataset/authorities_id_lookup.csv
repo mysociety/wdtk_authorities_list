@@ -4508,11 +4508,11 @@ wikidata,Q105623554,newry_and_mourne_district_policing_partnership_dpp
 wikidata,Q105544312,newtownabbey_district_policing_partnership_dpp
 wikidata,Q105623556,omagh_district_policing_partnership_dpp
 wikidata,Q105544317,strabane_district_policing_partnership_dpp
+charity,exempt,writtle_university_college
 dpr,Z4944023,writtle_university_college
 lcnaf,no2005029628,writtle_university_college
 ucas,W85,writtle_university_college
 wikidata,Q8038568,writtle_university_college
-charity,exempt,writtle_university_college
 dpr,Z9007797,royal_central_school_of_speech_and_drama
 charity,exempt,royal_central_school_of_speech_and_drama
 dpr,Z6896909,courtauld_institute_of_art
@@ -7758,10 +7758,10 @@ charity,exempt,bristol_cathedral_school
 urn,135959,bristol_metropolitan_academy
 wikidata,Q4968953,bristol_metropolitan_academy
 charity,exempt,bristol_metropolitan_academy
-wikidata,Q4973753,brompton_academy
 charity,exempt,brompton_academy
-wikidata,Q4974495,brooke_weston_academy
+wikidata,Q4973753,brompton_academy
 charity,exempt,brooke_weston_academy
+wikidata,Q4974495,brooke_weston_academy
 urn,131752,burlington_danes_academy
 wikidata,Q4999235,burlington_danes_academy
 charity,exempt,burlington_danes_academy
@@ -8587,8 +8587,8 @@ wikidata,Q7834921,tfgm
 lcnaf,nb2011015187,tfgm
 ch,02913221,the_manchester_concert_hall_limited
 charity,1040342,the_manchester_concert_hall_limited
-wikidata,Q2925178,the_manchester_concert_hall_limited
 lcnaf,nb2018026123,the_manchester_concert_hall_limited
+wikidata,Q2925178,the_manchester_concert_hall_limited
 coins,E6344,south_yorkshire_integrated_transport_authority
 coins,E6345,twita
 urn,104713,broughton_hall_high_school
@@ -62885,8 +62885,8 @@ urn,137969,bosworth_academy_leicester
 charity,exempt,bosworth_academy_leicester
 urn,141414,hagley_catholic_high_school_hagley
 charity,exempt,hagley_catholic_high_school_hagley
-urn,137755,brixham_college_brixham
 charity,exempt,brixham_college_brixham
+urn,137755,brixham_college_brixham
 urn,137087,campion_school_northampton
 charity,exempt,campion_school_northampton
 urn,140698,all_saints_catholic_voluntary_academy_mansfield
