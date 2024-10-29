@@ -172,7 +172,7 @@ resources:
       constraints:
         unique: false
       example: Education
-  hash: b9d1c2b93480201f31456c01cf3f6fa3
+  hash: d53e87e8a380a648d823e81b03d74382
 - title: Categories
   description: Lookup between a category name, category header, and top-level category
     of a public authority.
