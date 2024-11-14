@@ -6316,8 +6316,8 @@ lcnaf,no95012584,mosi
 wikidata,Q7578930,spoliation_advisory_panel
 lcnaf,nb2008017027,ahdb
 wikidata,Q4694007,ahdb
-wikidata,Q7801283,tiffin_school
 lcnaf,n87123025,tiffin_school
+wikidata,Q7801283,tiffin_school
 charity,264289,constructionskills
 wikidata,Q5011892,constructionskills
 lcnaf,no2015108404,constructionskills
@@ -24450,11 +24450,11 @@ wikidata,Q7650225,sutton_community_academy_sutton_in_ashfield
 urn,109626,sutton_ce_va_lower_school
 urn,110802,sutton_ce_vc_primary_school_ely
 wikidata,Q66223622,sutton_ce_vc_primary_school_ely
+ch,07633715,sutton_grammar_school
 charity,exempt,sutton_grammar_school
+dpr,Z2749246,sutton_grammar_school
 urn,136787,sutton_grammar_school
 wikidata,Q7650263,sutton_grammar_school
-ch,07633715,sutton_grammar_school
-dpr,Z2749246,sutton_grammar_school
 urn,121593,sutton_in_craven_ce_voluntary_controlled_primary_school_keighley
 charity,exempt,sutton_in_craven_ce_voluntary_controlled_primary_school_keighley
 urn,104764,sutton_manor_community_primary_school_st_helens
@@ -63483,8 +63483,6 @@ urn,136797,carshalton_high_school_for_girls_carshalton
 charity,exempt,carshalton_high_school_for_girls_carshalton
 charity,exempt,the_thomas_hardye_school_dorchester
 urn,137163,the_thomas_hardye_school_dorchester
-urn,136910,tiffin_school_kingston_upon_thames
-charity,exempt,tiffin_school_kingston_upon_thames
 urn,136466,bishop_justus_cofe_school_bromley
 charity,exempt,bishop_justus_cofe_school_bromley
 urn,146247,temple_moor_high_school_leeds
